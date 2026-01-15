@@ -1,0 +1,10 @@
+---
+pid: "p003hycq"
+title: "Chaucer"
+subtitle: "Chaucer"
+synopsis: "Melvyn Bragg and guests discuss Geoffrey Chaucer, the father of English literature."
+first_broadcast_date: "2006-02-09T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/p003hycq"
+---
+
+Melvyn Bragg and guests discuss Geoffrey Chaucer, often called the father of English literature."In Southwark at the Tabard as I lay Redy to wenden on my pilgrymage To Canterbury with ful devout corage, At nyght was come into that hostelrye Wel nyne and twenty in a compaignye Of sundry folk, by aventure yfalle In felaweshipe, and pilgrims were they alle, That toward Canterbury wolden ryde." Geoffrey Chaucer immortalised the medieval pilgrimage and the diversity of 14th century English society in his Canterbury Tales. As each pilgrim takes his, or her, turn to tell their tale on the road to Canterbury, Chaucer brings to life the voices of a knight, a miller, a Wife of Bath and many more besides. Chaucer was born the son of a London vintner, yet rose to high office in the court of Richard II. He travelled throughout France and Italy where he came into contact with the works of Dante, Boccaccio, Machaut and Froissart. He translated Boethius, wrote dream poetry, a defence of women and composed the tragic masterpiece Troilus and Criseyde.  As well as the father of English literature, Chaucer was also a philosopher, bureaucrat, courtier and diplomat.So what do we know of Chaucer? How did he introduce the themes of continental writing to an English speaking audience? And why does his poetry still seem to speak so directly to us today? With Carolyne Larrington, Tutor in Medieval English at St John's College, Oxford; Helen Cooper, Professor of Medieval and Renaissance English at the University of Cambridge; Ardis Butterfield, Reader in English at University College London.

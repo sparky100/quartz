@@ -1,0 +1,10 @@
+---
+pid: "b011zzh6"
+title: "Malthusianism"
+subtitle: "Malthusianism"
+synopsis: "Melvyn Bragg and his guests discuss Malthusianism."
+first_broadcast_date: "2011-06-23T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b011zzh6"
+---
+
+Melvyn Bragg and his guests discuss Malthusianism.In the eighteenth century, as expanding agriculture and industry resulted in a rapid increase in the European population, a number of writers began to consider the implications of this rise in numbers. Some argued it was a positive development, since a larger population meant more workers and thus more wealth. Others maintained that it placed an intolerable strain on natural resources.In 1798 a young Anglican priest, the Reverend Thomas Malthus, published An Essay on the Principle of Population. Malthus argued that the population was increasing exponentially, and that food production could not keep pace; eventually a crisis would ensue. He suggested that famine, disease and wars acted as a natural corrective to overpopulation, and also suggested a number of ways in which humans could regulate their own numbers. The work caused a furore and fuelled a public debate about the size and sustainability of the British population which raged for generations. It was a profoundly influential work: Charles Darwin credited Malthus with having inspired his Theory of Natural Selection.With:Karen O'BrienPro-Vice-Chancellor for Education at the University of BirminghamMark PhilpLecturer in Politics at the University of OxfordEmma GriffinSenior Lecturer in History at the University of East Anglia Producer: Thomas Morris.
