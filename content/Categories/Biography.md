@@ -8,7 +8,7 @@
 [[Albrecht Dürer]]
 [[Alcuin]]
 [[Alexander the Great]]
-[Bishop Berkeley]]
+[[Bishop Berkeley]]
 [[Genghis Khan]]
 [[St Hilda]]
 [[St Paul]]
