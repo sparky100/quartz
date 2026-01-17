@@ -1,5 +1,5 @@
 ---
-title: Welcome to In Our Time
+title: Welcome to Quartz
 ---
 
 This is a blank Quartz installation.

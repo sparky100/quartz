@@ -1,10 +1,0 @@
----
-pid: "p005495d"
-title: "Lamarck and Natural Selection"
-subtitle: "Lamarck and Natural Selection"
-synopsis: "Melvyn Bragg discusses Jean-Baptiste Lamarck, the 18th century French precursor to Darwin."
-first_broadcast_date: "2003-12-26T09:02:00Z"
-website_url: "https://www.bbc.co.uk/programmes/p005495d"
----
-
-Melvyn Bragg discusses Jean-Baptiste Lamarck, the 18th century French scientist.Charles Darwin defined Natural Selection in On the Origin of Species, Variations, however slight and from whatever cause proceeding, if they be in any degree profitable to the individuals of a species will tend to the preservation of such individuals, and will generally be inherited by the offspring. It was a simple idea that had instant recognition, How extremely stupid not to have thought of that! said T H Huxley. However, Darwin did not invent the idea of evolution and not everyone saw his ideas as original. The great geologist Charles Lyell repeatedly referred to Lamarcks theory as modified by Darwin, Darwin complained to him, I believe this way of putting the case is very injurious to its acceptance. He desperately wanted to escape the shadow of this genuine scientific precursor and what has become known as the Lamarckian Heresy has maintained a ghostly presence on the fringes of biology to this day.Who was Lamarck? How did Natural Selection escape from his shadow and gain acceptance from the scientific establishment? And has any evidence emerged that might challenge the elegant simplicity of Darwins big idea?With Sandy Knapp, Senior Botanist at the Natural History Museum, Steve Jones, Professor of Genetics in the Galton Laboratory at University College London and author of Almost Like a Whale: The Origin of Species Updated; Simon Conway Morris, Professor of Evolutionary Paleobiology at Cambridge University.
