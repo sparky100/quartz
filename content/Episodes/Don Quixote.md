@@ -1,0 +1,10 @@
+---
+pid: "p003hydl"
+title: "Don Quixote"
+subtitle: "Don Quixote"
+synopsis: "Melvyn Bragg considers the importance of the 17th century Spanish novel Don Quixote."
+first_broadcast_date: "2006-03-16T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/p003hydl"
+---
+
+Melvyn Bragg and guests discuss Miguel de Cervantes’ 17th century novel, Don Quixote. Published four hundred years ago in Madrid, the book was an immediate success and recognised as one of the classic texts of Western Literature, revered by writers such as Sterne, Goethe, Flaubert, Dostoevsky, Kafka and Melville. Don Quixote tells the story of an unlikely hero - an impoverished country gentleman who goes mad from reading too much and decides to put the world to rights by becoming a knight errant. And so the Knight of La Mancha tilting at windmills with his portly squire astride a donkey is one of the most enduring images in the popular imagination but the simple comedy of the affair belies the fantastically complex, beguiling and sophisticated story on which it is based. As Don Quixote's delusional chivalric ideals bump up against the humdrum of reality and the views of his more earth-bound companion, Sancho Panza.So how has the book endured over the centuries? What was the relationship between Cervantes' work and the world of 17th century Spain in which he lived? In what ways was Don Quixote an interpretation of the age which hitherto had not been articulated? And can it live up to the claim that it was the first European novel?With Barry Ife, Cervantes Professor Emeritus at King's College London; Edwin Williamson, Professor of Spanish Studies at the University of Oxford; Jane Whetnall, Senior Lecturer in Hispanic Studies at Queen Mary, University of London.

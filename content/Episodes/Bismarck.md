@@ -1,0 +1,10 @@
+---
+pid: "b00775pm"
+title: "Bismarck"
+subtitle: "Bismarck"
+synopsis: "Melvyn Bragg discusses the original Iron Chancellor, Otto Von Bismarck."
+first_broadcast_date: "2007-03-22T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b00775pm"
+---
+
+Melvyn Bragg and guests discuss the original Iron Chancellor, Otto Von Bismarck. One of Europe's leading statesmen in the 19th Century he is credited with unifying Germany under the military might of his home state of Prussia. An enthusiastic expansionist, Bismarck undertook a war against Denmark that has become a by-word for incomprehensible conflict. The British Prime Minister, Lord Palmerston, said: “The Schleswig-Holstein question is so complicated, only three men in Europe have ever understood it. One was Prince Albert, who is dead. The second was a German professor who became mad. I am the third and I have forgotten all about it.”After vanquishing Austria and France, Bismark led the new industrialising Germany, managing to remain in power for a further two decades. Bismarck said: “The art of statesmanship is to steer a course on the stream of time” and he founded one of Europe's first welfare states but he was also known for his ruthless tactics, ignoring democratic institutions, dabbling in dirty politics, leaking to the press and bribing journalists. Was the unification of Germany a carefully planned campaign or a series of unpredictable events that Bismarck made the most of? Did his encouragement of militaristic nationalism bear fruit in Nazi Germany, and what is his legacy today in contemporary Germany?With Richard J Evans, Professor of Modern History at the University of Cambridge; Christopher Clark, Reader in Modern European History at the University of Cambridge; and Katharine Lerman, Senior Lecturer in Modern European History at London Metropolitan University

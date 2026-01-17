@@ -1,0 +1,10 @@
+---
+pid: "p003hyc8"
+title: "Relativism"
+subtitle: "Relativism"
+synopsis: "Melvyn Bragg and guests discuss relativism; a philosophy with no absolute truths."
+first_broadcast_date: "2006-01-19T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/p003hyc8"
+---
+
+Melvyn Bragg and guests discuss relativism, a philosophy of shifting sands. "Today, a particularly insidious obstacle to the task of educating is the massive presence in our society and culture of that relativism which, recognizing nothing as definitive, leaves as the ultimate criterion only the self with its desires. And under the semblance of freedom it becomes a prison for each one, for it separates people from one another, locking each person into his or her own 'ego'." Pope Benedict XVI, in a speech given in June 2005, showed that the issue of relativism is as contentious today as it was in Ancient Greece, when Plato took on the relativist stance of Protagoras and the sophists. Relativism is a school of philosophical thought which holds to the idea that there are no absolute truths. Instead, truth is situated within different frameworks of understanding that are governed by our history, culture and critical perspective. Why has relativism so radically divided scholars and moral custodians over the centuries? How have its supporters answered to criticisms that it is inherently unethical? And if there are universal standards such as human rights, how do relativists defend culturally specific practices such as honour killings or female infanticide? With Barry Smith, Senior Lecturer in Philosophy at Birkbeck College, University of London; Jonathan Rée, freelance philosopher who holds visiting professorships at the Royal College of Art and Roehampton University; Kathleen Lennon, Senior Lecturer in Philosophy at the University of Hull.

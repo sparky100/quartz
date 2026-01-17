@@ -1,0 +1,10 @@
+---
+pid: "p003c1bp"
+title: "Uncle Tom's Cabin"
+subtitle: "Uncle Tom's Cabin"
+synopsis: "Melvyn Bragg and guests discuss the 19th century anti-slavery novel, 'Uncle Tom's Cabin'."
+first_broadcast_date: "2006-06-08T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/p003c1bp"
+---
+
+Melvyn Bragg and guests discuss the anti slavery novel, 'Uncle Tom's Cabin'. When Abraham Lincoln met the writer Harriet Beecher Stowe after the start of the American Civil War, he reportedly said to her: 'So you're the little lady whose book started this big war'. Stowe's novel Uncle Tom's Cabin, published in 1852, is credited as fuelling the cause to abolish slavery in the northern half of the United States in direct response to its continuation in the South. The book deals with the harsh reality of slavery and the enduring power of Christian faith. It proved to be the bestselling novel of the 19th century, outselling the Bible in its first year of publication. Its fame spread internationally, No other book had portrayed an African-American slave as a central figure who was heroic and Christ-like.  Lord Palmerston praised it highly and Tolstoy reportedly said it was his favourite novel. What impact did Uncle Tom's Cabin have on the on the Civil War and the abolition of slavery in 19th century America? How did the book create stereotypes about African Americans, many of which endure to this day? And what was its literary legacy? With Dr Celeste-Marie Bernier, Lecturer in American Studies at the University of Nottingham; Dr Sarah Meer, Lecturer and Director of Studies in English at Selwyn College, University of Cambridge; Dr Clive Webb, Reader in American History at the University of Sussex.

@@ -1,0 +1,10 @@
+---
+pid: "p003k9dz"
+title: "Greyfriars and Blackfriars"
+subtitle: "Greyfriars and Blackfriars"
+synopsis: "Melvyn Bragg looks at the religious orders of the Dominicans and the Franciscans."
+first_broadcast_date: "2005-11-10T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/p003k9dz"
+---
+
+Melvyn Bragg and guests discuss the religious orders of the Dominicans and the Franciscans, known as the Blackfriars and Greyfriars. "Just as it is better to light up others than to shine alone, it is better to share the fruits of one's contemplation with others than to contemplate in solitude". Thus St Thomas Aquinas described his vocation, not only as a teacher, but also as a Dominican friar and philosopher at the University of Paris. In the 13th century, the religious orders of the Dominicans and the Franciscans were a great force for change in Catholic Europe. They thrived in the emerging towns and cities of the High Middle Ages, leading crusades and changing the way the Church dealt with heretics. They were the evangelists who transformed the Church's preaching of the Christian message to the people. On top of all this, these two orders were also responsible for reconciling Classical and Christian philosophy; their studies of Aristotle paved the way for the Renaissance. They also managed to change the curriculum at the universities of Paris and Oxford. But the Blackfriars and the Greyfriars did not come from the great monasteries of the time; they started out as itinerant preachers surviving upon the charity of the faithful. So how did these two orders come to dominate the spiritual and academic life of the 13th century, and how did they manage to accumulate such huge wealth while professing allegiance to lives of poverty? With Henrietta Leyser, medieval historian and Fellow of St Peter's College, Oxford; Alexander Murray, medieval historian and Emeritus Fellow of University College, Oxford; Anthony Kenny, philosopher and former Master of Balliol College, Oxford.
