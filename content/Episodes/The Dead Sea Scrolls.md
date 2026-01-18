@@ -3,8 +3,6 @@ pid: "m001ljc0"
 title: "The Dead Sea Scrolls"
 subtitle: "The Dead Sea Scrolls"
 synopsis: "Melvyn Bragg and guests discuss the Biblical texts and documents found in the late 1940s."
-first_broadcast_date: "2023-05-04T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001ljc0"
 ---
 
 Melvyn Bragg and guests discuss the revelatory collection of Biblical texts, legal documents, community rules and literary writings. 
@@ -27,3 +25,6 @@ George Brooke
 Rylands Professor Emeritus of Biblical Criticism and Exegesis at the University of Manchester
 
 Producer  Luke Mulhall
+
+first_broadcast_date: "2023-05-04T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001ljc0"

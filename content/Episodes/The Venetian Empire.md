@@ -3,8 +3,6 @@ pid: "m0024fj3"
 title: "The Venetian Empire"
 subtitle: "The Venetian Empire"
 synopsis: "Melvyn Bragg and guests discuss the rise and eventual decline of the Venetian Empire."
-first_broadcast_date: "2024-10-31T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m0024fj3"
 ---
 
 Melvyn Bragg and guests discuss the remarkable rise of Venice in the eastern Mediterranean. Unlike other Italian cities of the early medieval period, Venice had not been settled during the Roman Empire. Rather, it was a refuge for those fleeing unrest after the fall of Rome who settled on these boggy islands on a lagoon and developed into a power that ran an empire from mainland Italy, down the Adriatic coast, across the Peloponnese to Crete and Cyprus, past Constantinople and into the Black Sea.  This was a city without walls, just one of the surprises for visitors who marvelled at the stability and influence of Venice right up to the 17th Century when the Ottomans, Spain, France and the Hapsburgs were to prove too much especially with trade shifting to the Atlantic.
@@ -72,3 +70,6 @@ Sandra Toffolo, Describing the City, Describing the State: Representations of Ve
 
 In Our Time is a BBC Studios Audio Production
 .
+
+first_broadcast_date: "2024-10-31T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m0024fj3"

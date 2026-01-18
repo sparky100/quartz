@@ -3,8 +3,9 @@ pid: "b0076182"
 title: "Jorge Luis Borges"
 subtitle: "Jorge Luis Borges"
 synopsis: "Melvyn Bragg and guests discuss the life and work of Jorge Luis Borges."
-first_broadcast_date: "2006-04-06T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b0076182"
 ---
 
 Melvyn Bragg and guests discuss the life and work of the Argentinian master of the short story, Jorge Luis Borges. Borges is one of the greatest writers of the 20th Century, best known for his intriguing short stories that play with philosophical ideas, such as identity, reality and language. His work, which includes poetry, essays, and reviews of imaginary books, has had great influence on magical realism and literary theory. He viewed the realist novel as over-rated and deluded, revelling instead in fable and imaginary worlds. He declared "people think life is the thing but I prefer reading".Translation formed an important part of his work, writing a Spanish language version of an Oscar Wilde story when aged around 9. He went on to introduce other key writers such as Faulkner and Kafka to Latin America, liberally making changes to the original work which went far beyond what was, strictly speaking, translation.He lived most of his life in obscurity, finding recognition only in his sixties when he was awarded the International Publishers' Prize which he shared with Samuel Beckett. By this point he was blind but continued to write, composing poetry in his head and reciting from memory.So how has Borges' work informed ideas about our experience of the world through language? How much was his writing shaped by his travel abroad and an unrequited love? And how has his legacy inspired the next generation of great Latin American authors such as Gabriel Garcia Marquez and Mario Vargas Llosa?With Edwin Williamson, Professor of Spanish Studies at Oxford University; Efraín Kristal, Professor of Comparative Literature at University of California, Los Angeles; Evelyn Fishburn, Professor Emeritus at London Metropolitan University and Honorary Senior Research Fellow at University College London.
+
+first_broadcast_date: "2006-04-06T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b0076182"

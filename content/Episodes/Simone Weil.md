@@ -3,8 +3,6 @@ pid: "b01nthz3"
 title: "Simone Weil"
 subtitle: "Simone Weil"
 synopsis: "Melvyn Bragg and guests discuss the French philosopher and social activist Simone Weil."
-first_broadcast_date: "2012-11-15T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b01nthz3"
 ---
 
 Melvyn Bragg and his guests discuss the French philosopher and social activist Simone Weil. Born in Paris in 1909 into a wealthy, agnostic Jewish family, Weil was a precocious child and attended the prestigious Ecole Normale Superieure in Paris, achieving the top marks in her class (Simone de Beauvoir came second). 
@@ -27,3 +25,6 @@ David Levy
 Teaching Fellow in the Department of Philosophy at the University of Edinburgh
 
 Producer: Natalia Fernandez.
+
+first_broadcast_date: "2012-11-15T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b01nthz3"

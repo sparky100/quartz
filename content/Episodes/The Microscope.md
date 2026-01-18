@@ -3,8 +3,6 @@ pid: "b03jdy3p"
 title: "The Microscope"
 subtitle: "The Microscope"
 synopsis: "Melvyn Bragg and his guests discuss the development of the microscope."
-first_broadcast_date: "2013-11-28T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b03jdy3p"
 ---
 
 Melvyn Bragg and his guests discuss the development of the microscope, an instrument which has revolutionised our knowledge of the world and the organisms that inhabit it. In the seventeenth century the pioneering work of two scientists, the Dutchman Antonie van Leeuwenhoek and Robert Hooke in England, revealed the teeming microscopic world that exists at scales beyond the capabilities of the naked eye. 
@@ -23,3 +21,6 @@ Michelle Peckham
 Professor of Cell Biology at the University of Leeds
 
 Producer: Thomas Morris.
+
+first_broadcast_date: "2013-11-28T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b03jdy3p"

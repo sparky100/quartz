@@ -3,8 +3,6 @@ pid: "m001znkd"
 title: "Marsilius of Padua"
 subtitle: "Marsilius of Padua"
 synopsis: "Melvyn Bragg and guests discuss one of the great figures in the history of political ideas"
-first_broadcast_date: "2024-05-30T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001znkd"
 ---
 
 Melvyn Bragg and guests discuss one of the canonical figures from the history of political thought. Marsilius of Padua (c1275 to c1343) wrote 'Defensor Pacis' (The Defender of the Peace) around 1324 when the Papacy, the Holy Roman Emperor and the French King were fighting over who had supreme power on Earth. In this work Marsilius argued that the people were the source of all power and they alone could elect a leader to act on their behalf; they could remove their leaders when they chose and, afterwards, could hold them to account for their actions. He appeared to favour an elected Holy Roman Emperor and he was clear that there were no grounds for the Papacy to have secular power, let alone gather taxes and wealth, and that clerics should return to the poverty of the Apostles.  Protestants naturally found his work attractive in the 16th Century when breaking with Rome.  In the 20th Century Marsilius has been seen as an early advocate for popular sovereignty and republican democracy, to the extent possible in his time.
@@ -54,3 +52,6 @@ A. Mulieri, S. Masolini and J. Pelletier (eds.), Marsilius of Padua: Between his
 C. Nederman, Community and Consent: The Secular Political Theory of Marsiglio of Padua’s Defensor Pacis (Rowman and Littlefield, 1995)
 
 Vasileios Syros, Marsilius of Padua at the Intersection of Ancient and Medieval Traditions of Political Thought (University of Toronto Press, 2012)
+
+first_broadcast_date: "2024-05-30T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001znkd"

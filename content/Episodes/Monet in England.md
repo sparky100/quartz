@@ -3,8 +3,6 @@ pid: "m0020j9z"
 title: "Monet in England"
 subtitle: "Monet in England"
 synopsis: "Melvyn Bragg and guests discuss Claude Monet's fascination with the foggy Thames."
-first_broadcast_date: "2024-06-27T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m0020j9z"
 ---
 
 Melvyn Bragg and guests discuss the work of the great French Impressionist Claude Monet (1840-1926) in London, initially in 1870 and then from 1899. He spent his first visit in poverty, escaping from war in France, while by the second he had become so commercially successful that he stayed at the Savoy Hotel. There, from his balcony, he began a series of almost a hundred paintings that captured the essence of this dynamic city at that time, with fog and smoke almost obscuring the bridges, boats and Houses of Parliament. The pollution was terrible for health but the diffraction through the sooty droplets offered an ever-changing light that captivated Monet, and he was to paint the Thames more than he did his water lilies or haystacks or Rouen Cathedral. On his return to France, Monet appeared to have a new confidence to explore an art that was more abstract than impressionist.
@@ -53,3 +51,6 @@ Charles Stuckey, Monet: A Retrospective (Random House, 1985)
 Daniel Wildenstein, Monet: The Triumph of Impressionism (first published 1996; Taschen, 2022)
 
 Jackie Wullschläger, Monet: The Restless Vision (Allen Lane, 2023)
+
+first_broadcast_date: "2024-06-27T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m0020j9z"

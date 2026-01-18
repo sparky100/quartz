@@ -3,8 +3,6 @@ pid: "b01nq7ct"
 title: "The Upanishads"
 subtitle: "The Upanishads"
 synopsis: "Melvyn Bragg and his guests discuss the Upanishads, the sacred texts of Hinduism."
-first_broadcast_date: "2012-11-08T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b01nq7ct"
 ---
 
 Melvyn Bragg and his guests discuss the Upanishads, the ancient sacred texts of Hinduism. Dating from about 700 BC, the Upanishads were passed down through an oral tradition in priestly castes and were not written down until the 6th century AD. They constitute the final part of the Vedas, the collection of texts which form the foundation of the Indian Hindu world, and were originally spoken during sacrificial rituals.
@@ -23,3 +21,6 @@ Simon Brodbeck
 Lecturer in Religious Studies at the University of Cardiff
 
 Producer: Natalia Fernandez.
+
+first_broadcast_date: "2012-11-08T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b01nq7ct"

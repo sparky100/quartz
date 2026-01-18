@@ -3,8 +3,6 @@ pid: "b08wmk5j"
 title: "Bird Migration"
 subtitle: "Bird Migration"
 synopsis: "Melvyn Bragg and guests discuss how birds navigate and the risks and benefits of migration"
-first_broadcast_date: "2017-07-06T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b08wmk5j"
 ---
 
 After 27 years, Melvyn Bragg has decided to step down from the In Our Time presenter’s chair. With over a thousand episodes to choose from, he has selected just six that capture the huge range and depth of the subjects he and his experts have tackled. In this fourth of his choices, we hear Melvyn Bragg and his guests discuss bird migration. 
@@ -28,3 +26,6 @@ Producer: Simon Tillotson
 In Our Time is a BBC Studios Production
 
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the characters, events and discoveries that have shaped our world
+
+first_broadcast_date: "2017-07-06T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b08wmk5j"

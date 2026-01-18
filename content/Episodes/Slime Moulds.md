@@ -3,8 +3,6 @@ pid: "m002691y"
 title: "Slime Moulds"
 subtitle: "Slime Moulds"
 synopsis: "Melvyn Bragg and guests discuss the remarkable world of slime mould."
-first_broadcast_date: "2025-01-02T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m002691y"
 ---
 
 Melvyn Bragg and guests discuss slime mould, a basic organism that grows on logs, cowpats and compost heaps. Scientists have found difficult to categorise slime mould: in 1868, the biologist Thomas Huxley asked: ‘Is this a plant, or is it an animal? Is it both or is it neither?’ and there is a great deal scientists still don’t know about it.
@@ -27,3 +25,6 @@ Biologist and writer
 Producer: Eliane Glaser 
 
 In Our Time is a BBC Studios Audio production
+
+first_broadcast_date: "2025-01-02T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m002691y"

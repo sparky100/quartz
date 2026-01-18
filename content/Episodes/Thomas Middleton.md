@@ -3,8 +3,6 @@ pid: "m002908z"
 title: "Thomas Middleton"
 subtitle: "Thomas Middleton"
 synopsis: "The prolific and versatile Jacobean playwright tasked with 'improving' some of Shakespeare"
-first_broadcast_date: "2025-03-20T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m002908z"
 ---
 
 Melvyn Bragg and guests discuss one of the most energetic, varied and innovative playwrights of his time. Thomas Middleton (1580-1627) worked across the London stages both alone and with others from Dekker and Rowley to Shakespeare and more.  Middleton’s range included raucous city comedies such as A Chaste Maid in Cheapside and chilling revenge tragedies like The Changeling and The Revenger’s Tragedy, some with the main adult companies and some with child actors playing the scheming adults.  Middleton seemed to be everywhere on the Jacobean stage, mixing warmth and cruelty amid laughter and horror, and even Macbeth’s witches may be substantially his work.
@@ -45,3 +43,6 @@ Michelle O’Callaghan, Thomas Middleton: Renaissance Dramatist (Edinburgh Unive
 Gary Taylor and Trish Thomas Henley (eds.), The Oxford Handbook of Thomas Middleton (Oxford University Press, 2012)
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2025-03-20T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m002908z"

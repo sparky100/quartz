@@ -3,8 +3,6 @@ pid: "m001kx5s"
 title: "The Battle of Crécy"
 subtitle: "The Battle of Crécy"
 synopsis: "Melvyn Bragg and guests discuss the 1346 conflict between the armies of France and England"
-first_broadcast_date: "2023-04-13T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001kx5s"
 ---
 
 Melvyn Bragg and guests discuss the brutal events of 26 August 1346, when the armies of France and England met in a funnel-shaped valley outside the town of Crécy in northern France. 
@@ -27,3 +25,6 @@ Erika Graham-Goering
 Lecturer in Late Medieval History at Durham University
 
 Producer  Luke Mulhall
+
+first_broadcast_date: "2023-04-13T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001kx5s"

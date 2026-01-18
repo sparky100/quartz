@@ -3,8 +3,6 @@ pid: "b01pcs5g"
 title: "The South Sea Bubble"
 subtitle: "The South Sea Bubble"
 synopsis: "Melvyn Bragg and his guests discuss the South Sea Bubble of the early 18th century."
-first_broadcast_date: "2012-12-20T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b01pcs5g"
 ---
 
 Melvyn Bragg and his guests discuss The South Sea Bubble, the speculation mania in early 18th-century England which ended in the financial ruin of many of its investors. The South Sea Company was founded in 1711 with a view to restructuring government debt and restoring public credit. The company would ostensibly trade with South America, hence its name; and indeed, it did trade in slaves for the Spanish market even after the Bubble burst in 1720. 
@@ -25,3 +23,6 @@ Roey Sweet
 Head of the School of History at the University of Leicester
 
 Producer: Natalia Fernandez.
+
+first_broadcast_date: "2012-12-20T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b01pcs5g"

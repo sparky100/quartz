@@ -3,8 +3,6 @@ pid: "m00245nl"
 title: "Little Women"
 subtitle: "Little Women"
 synopsis: "Melvyn Bragg and guests discuss Louisa May Alcott's influential story of the March sisters"
-first_broadcast_date: "2024-10-24T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m00245nl"
 ---
 
 Melvyn Bragg and guests discuss Louisa May Alcott's 1868 novel, credited with starting the new genre of young adult fiction. When Alcott (1832-88) wrote Little Women, she only did so as her publisher refused to publish her father's book otherwise and as she hoped it would make money. It made Alcott's fortune. This coming of age story of Meg, Jo, Beth and Amy March, each overcoming their own moral flaws, has delighted generations of readers and was so popular from the start that Alcott wrote the second part in 1869 and further sequels and spin-offs in the coming years.  Her work has inspired countless directors, composers and authors to make many reimagined versions ever since, with the sisters played by film actors such as Katherine Hepburn, Elizabeth Taylor, Winona Ryder, Claire Danes, Kirsten Dunst, Saoirse Ronan and Emma Watson.  
@@ -53,3 +51,6 @@ Simon Sleight and Shirleene Robinson (eds.), Children, Childhood and Youth in th
 Madeleine B. Stern, Louisa May Alcott: A Biography (first published 1950; Northeastern University Press, 1999) 
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2024-10-24T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m00245nl"

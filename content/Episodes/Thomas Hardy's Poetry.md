@@ -3,8 +3,6 @@ pid: "m00139nw"
 title: "Thomas Hardy's Poetry"
 subtitle: "Thomas Hardy's Poetry"
 synopsis: "Melvyn Bragg and guests discuss Hardy's goal of being a great poet and how he succeeded."
-first_broadcast_date: "2022-01-13T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m00139nw"
 ---
 
 After 27 years, Melvyn Bragg has decided to step down from the In Our Time presenter’s chair. With over a thousand episodes to choose from, he has selected just six that capture the huge range and depth of the subjects he and his experts have tackled. In this second of his choices, we hear Melvyn Bragg and his guests discuss one of his favourite poets.
@@ -27,3 +25,6 @@ Professor of Modern English and American Literature at Royal Holloway, Universit
 Producer: Simon Tillotson
 
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the characters, events and discoveries that have shaped our world
+
+first_broadcast_date: "2022-01-13T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m00139nw"

@@ -3,8 +3,9 @@ pid: "b00qvqpz"
 title: "Calvinism"
 subtitle: "Calvinism"
 synopsis: "Melvyn Bragg and guests discuss the ideas of John Calvin and their impact."
-first_broadcast_date: "2010-02-25T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b00qvqpz"
 ---
 
 Melvyn Bragg and guests Justin Champion, Susan Hardman Moore and Diarmaid MacCulloch discuss the ideas of the religious reformer John Calvin - the theology known as Calvinism, or Reformed Protestantism - and its impact.  John Calvin, a Frenchman exiled to Geneva, became a towering figure of the 16th century Reformation of the Christian Church. He achieved this not through charismatic oratory, but through the relentless rigour of his analysis of the Bible. In Geneva, he oversaw an austere, theocratic and sometimes brutal regime. Nonetheless, the explosion of printing made his theology highly mobile. The zeal he instilled in his followers, and the persecution which dogged them, rapidly spread the faith across Europe, and on to the New World in America.   One of Calvin's most striking tenets was 'predestination': the idea that, even before the world began, God had already decided which human beings would be damned, and which saved. The hope of being one of the saved gave Calvinists a driving energy which has made their faith a galvanic force in the world, from business to politics.  Anxiety about salvation, meanwhile, led to a constant introspection which has left its mark on literature.Justin Champion is Professor of the History of Early Modern Ideas at Royal Holloway, University of London; Susan Hardman Moore is Senior Lecturer in Divinity at the University of Edinburgh; Diarmaid MacCulloch, Professor of the History of the Church at the University of Oxford.
+
+first_broadcast_date: "2010-02-25T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b00qvqpz"

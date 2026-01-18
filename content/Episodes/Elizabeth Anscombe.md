@@ -3,8 +3,6 @@ pid: "m001n1yy"
 title: "Elizabeth Anscombe"
 subtitle: "Elizabeth Anscombe"
 synopsis: "Melvyn Bragg and guests discuss the influential 20th-century moral philosopher."
-first_broadcast_date: "2023-06-22T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001n1yy"
 ---
 
 In 1956 Oxford University awarded an honorary degree to the former US president Harry S. Truman for his role in ending the Second World War. One philosopher, Elizabeth Anscombe (1919 – 2001), objected strongly. 
@@ -24,3 +22,6 @@ Constantine Sandis, Visiting Professor of Philosophy at the University of Hertfo
 Roger Teichmann, Lecturer in Philosophy at St Hilda’s College, University of Oxford
 
 Producer: Luke Mulhall
+
+first_broadcast_date: "2023-06-22T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001n1yy"

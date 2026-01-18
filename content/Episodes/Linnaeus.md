@@ -3,8 +3,6 @@ pid: "m001l291"
 title: "Linnaeus"
 subtitle: "Linnaeus"
 synopsis: "Melvyn Bragg and guests discuss the ideas and legacy of the pioneering Swedish botanist."
-first_broadcast_date: "2023-04-20T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001l291"
 ---
 
 Melvyn Bragg and guests discuss the life, ideas and legacy of the pioneering Swedish botanist Carl Linnaeus (1707 – 1778). The philosopher Jean-Jacques Rousseau once wrote: "Tell him I know no greater man on earth". 
@@ -25,3 +23,6 @@ Steve Jones
 Senior Research Fellow in Genetics at University College, London
 
 Producer  Luke Mulhall
+
+first_broadcast_date: "2023-04-20T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001l291"

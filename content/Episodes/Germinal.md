@@ -3,8 +3,6 @@ pid: "m001rq08"
 title: "Germinal"
 subtitle: "Germinal"
 synopsis: "Melvyn Bragg and guests discuss Emile Zola's novel, set in a French miners' strike."
-first_broadcast_date: "2023-10-26T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001rq08"
 ---
 
 Melvyn Bragg and guests discuss Emile Zola's greatest literary success, his thirteenth novel in a series exploring the extended Rougon-Macquart family. The relative here is Etienne Lantier, already known to Zola’s readers as one of the blighted branch of the family tree and his story is set in Northern France.  It opens with Etienne trudging towards a coalmine at night seeking work, and soon he is caught up in a bleak world in which starving families struggle and then strike, as they try to hold on to the last scraps of their humanity and the hope of change.
@@ -57,3 +55,6 @@ Philip D. Walker, Emile Zola (Routledge, 1969)
 Emile Zola (trans. Peter Collier), Germinal (Oxford University Press, 1993)
 
 Emile Zola (trans. Roger Pearson), Germinal (Penguin Classics, 2004)
+
+first_broadcast_date: "2023-10-26T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001rq08"

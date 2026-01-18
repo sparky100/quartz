@@ -3,8 +3,6 @@ pid: "m00114m8"
 title: "The Song of Roland"
 subtitle: "The Song of Roland"
 synopsis: "Melvyn Bragg and guests discuss a masterpiece of French epic poetry from the 12th century."
-first_broadcast_date: "2021-11-04T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m00114m8"
 ---
 
 Melvyn Bragg and guests discuss an early masterpiece of French epic poetry, from the 12th Century.  It is a reimagining of Charlemagne’s wars in Spain in the 8th Century in which Roland, his most valiant knight, chooses death before dishonour, guarding the army’s rear from a pagan ambush as it heads back through the Roncesvalles Pass in the Pyrenees.  If he wanted to, Roland could blow on his oliphant, his elephant tusk horn, to summon help by calling back Charlemagne's army, but according to his values that would bring shame both on him and on France, and he would rather keep killing pagans until he is the last man standing and the last to die.
@@ -25,3 +23,6 @@ Luke Sunderland
 Professor in the School of Modern Languages and Cultures at Durham University
 
 Studio producer: John Goudie
+
+first_broadcast_date: "2021-11-04T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m00114m8"

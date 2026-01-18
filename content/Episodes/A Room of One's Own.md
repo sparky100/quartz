@@ -3,8 +3,6 @@ pid: m001kh32
 title: A Room of One's Own
 subtitle: A Room of One's Own
 synopsis: Melvyn Bragg and guests discuss Virginia Woolf's essay on women and literature.
-first_broadcast_date: 2023-03-30T09:00:00+01:00
-website_url: https://www.bbc.co.uk/programmes/m001kh32
 tags:
   - Literature
 ---
@@ -29,3 +27,6 @@ Alexandra Harris
 Professor of English at the University of Birmingham
 
 Producer  Luke Mulhall
+
+first_broadcast_date: 2023-03-30T09:00:00+01:00
+website_url: https://www.bbc.co.uk/programmes/m001kh32

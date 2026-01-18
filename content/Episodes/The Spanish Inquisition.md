@@ -3,8 +3,9 @@ pid: "p003c1bw"
 title: "The Spanish Inquisition"
 subtitle: "The Spanish Inquisition"
 synopsis: "Melvyn Bragg examines the Spanish Inquisition, defenders of medieval orthodoxy."
-first_broadcast_date: "2006-06-22T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/p003c1bw"
 ---
 
 Melvyn Bragg and guests discuss the Spanish Inquisition, the defenders of medieval orthodoxy. The word ‘Inquisition’ has its roots in the Latin word 'inquisito' which means inquiry. The Romans used the inquisitorial process as a form of legal procedure employed in the search for evidence. Once Rome's religion changed to Christianity under Constantine, it retained the inquisitorial trial method but also developed brutal means of dealing with heretics who went against the doctrines of the new religion. Efforts to suppress religious freedom were initially ad hoc until the establishment of an Office of Inquisition in the Middle Ages, founded in response to the growing Catharist heresy in South West France. The Spanish Inquisition set up in 1478 surpassed all Inquisitorial activity that had preceded it in terms of its reach and length. For 350 years under Papal Decree, Jews, then Muslims and Protestants were put through the Inquisitional Court and condemned to torture, imprisonment, exile and death. How did the early origins of the Inquisition in Medieval Europe spread to Spain? What were the motivations behind the systematic persecution of Jews, Muslims and Protestants? And what finally brought about an end to the Spanish Inquisition 350 years after it had first been decreed? With John Edwards, Research Fellow in Spanish at the University of Oxford; Alexander Murray, Emeritus Fellow in History at University College, Oxford;Michael Alpert, Emeritus Professor in Modern and Contemporary History of Spain at the University of Westminster
+
+first_broadcast_date: "2006-06-22T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/p003c1bw"

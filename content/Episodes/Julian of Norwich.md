@@ -3,8 +3,6 @@ pid: "m001rgs4"
 title: "Julian of Norwich"
 subtitle: "Julian of Norwich"
 synopsis: "Melvyn Bragg and guests discuss the medieval anchoress and her Revelations of Divine Love."
-first_broadcast_date: "2023-10-19T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001rgs4"
 ---
 
 Melvyn Bragg and guests discuss the anchoress and mystic who, in the late fourteenth century, wrote about her visions of Christ suffering, in a work since known as Revelations of Divine Love.  She is probably the first named woman writer in English, even if questions about her name and life remain open. Her account is an exploration of the meaning of her visions and is vivid and bold, both in its imagery and theology. From her confined cell in a Norwich parish church, in a land beset with plague, she dealt with the nature of sin and with the feminine side of God,  and shared the message she received that God is love and, famously, that all shall be well and all manner of things shall be well.
@@ -69,3 +67,6 @@ Caroline Walker Bynum, Jesus as Mother: Studies in the Spirituality of the High 
 Ann Warren, Anchorites and their Patrons in Medieval England (University of California Press, 1985)
 
 Hugh White (trans.), Ancrene Wisse: Guide for Anchoresses (Penguin Classics, 1993)
+
+first_broadcast_date: "2023-10-19T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001rgs4"

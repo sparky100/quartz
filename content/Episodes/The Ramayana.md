@@ -3,8 +3,6 @@ pid: "m001jst2"
 title: "The Ramayana"
 subtitle: "The Ramayana"
 synopsis: "Melvyn Bragg and guests discuss the ancient Sanskrit epic."
-first_broadcast_date: "2023-03-09T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001jst2"
 ---
 
 Melvyn Bragg and guests discuss the Ramayana, the ancient Hindu epic which is regarded as one of the greatest works of world literature. Its importance in Indian culture has been compared to that of the Iliad and Odyssey in the West, and it’s still seen as a sacred text by Hindus today. 
@@ -27,3 +25,6 @@ Senior Lecturer in Asian Religions at the University of Edinburgh
 The image above shows Rama, Sita, Hanuman, Lakshmana and devotees, from the Shree Jalaram Prarthana Mandal, Leicester. 
 
 Producer  Luke Mulhall
+
+first_broadcast_date: "2023-03-09T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001jst2"

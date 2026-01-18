@@ -3,8 +3,6 @@ pid: "m001thzh"
 title: "Vincent van Gogh"
 subtitle: "Vincent van Gogh"
 synopsis: "Melvyn Bragg and guests discuss the great Dutch painter of Sunflowers and Starry Nights."
-first_broadcast_date: "2023-12-21T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001thzh"
 ---
 
 Melvyn Bragg and guests discuss the Dutch artist famous for starry nights and sunflowers, self portraits and simple chairs. These are images known the world over, and Vincent van Gogh (1853-1890) painted them and around 900 others in the last decade of his short, brilliant life and, famously, in that lifetime he made only one recorded sale.  Yet within a few decades after his death these extraordinary works, with all their colour and life, became the most desirable of all modern art, propelled in part by the story of Vincent van Gogh's struggle with mental health.
@@ -51,3 +49,6 @@ Hans Luitjen, Jo van Gogh Bonger: The Woman who Made Vincent Famous Bloomsbury, 
 Louis van Tilborgh, Martin Bailey, Karen Serres (ed.), Van Gogh Self-Portraits (Courtauld Institute, 2022)
 
 Ingo F. Walther and Rainer Metzger, Van Gogh. The Complete Paintings (Taschen, 2022)
+
+first_broadcast_date: "2023-12-21T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001thzh"

@@ -3,8 +3,6 @@ pid: "m001k0zv"
 title: "Mercantilism"
 subtitle: "Mercantilism"
 synopsis: "Melvyn Bragg and guests discuss the idea which dominated European economies for 300 years."
-first_broadcast_date: "2023-03-16T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001k0zv"
 ---
 
 Melvyn Bragg and guests discuss how,  between the 16th and 18th centuries, Europe was dominated by an economic way of thinking called mercantilism. The key idea  was that exports should be as high as possible and imports minimised.  
@@ -24,3 +22,6 @@ and
 Helen Paul, Lecturer in Economics and Economic History at the University of Southampton.
 
 Producer Luke Mulhall
+
+first_broadcast_date: "2023-03-16T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001k0zv"

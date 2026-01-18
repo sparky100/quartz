@@ -3,8 +3,6 @@ pid: "m0001fv2"
 title: "The Thirty Years War"
 subtitle: "The Thirty Years War"
 synopsis: "Melvyn Bragg and guests discuss the devastating war across the Holy Roman Empire 1618-1648"
-first_broadcast_date: "2018-12-06T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m0001fv2"
 ---
 
 Melvyn Bragg and guests discuss the war in Europe which begain in 1618 and continued on such a scale and with such devastation that its like was not seen for another three hundred years. It pitched Catholics against Protestants, Lutherans against Calvinists and Catholics against Catholics across the Holy Roman Empire, drawing in their neighbours and it lasted for thirty gruelling years, from the Defenestration of Prague to the Peace of Westphalia of 1648.  Many more civilians died than soldiers, and famine was so great that even cannibalism was excused. This topic was chosen from several hundred suggested by listeners this autumn.
@@ -26,3 +24,6 @@ Associate Professor in History at Durham University
 
 
 Producer: Simon Tillotson
+
+first_broadcast_date: "2018-12-06T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m0001fv2"

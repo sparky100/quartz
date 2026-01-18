@@ -3,8 +3,6 @@ pid: "m0002mdl"
 title: "Pheromones"
 subtitle: "Pheromones"
 synopsis: "A discussion of the chemicals that animals use in order to affect others of their species."
-first_broadcast_date: "2019-02-21T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m0002mdl"
 ---
 
 Melvyn Bragg and guests discuss how members of the same species send each other invisible chemical signals to influence the way they behave.  Pheromones are used by species across the animal kingdom in a variety of ways, such as laying trails to be followed, to raise the alarm, to scatter from predators, to signal dominance and to enhance attractiveness and, in honey bees, even direct development into queen or worker. 
@@ -25,3 +23,6 @@ Francis Ratnieks
 Professor of Apiculture and Head of the Laboratory of Apiculture and Social Insects at the University of Sussex
 
 Producer: Simon Tillotson
+
+first_broadcast_date: "2019-02-21T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m0002mdl"

@@ -3,8 +3,6 @@ pid: "b07wgkz4"
 title: "Animal Farm"
 subtitle: "Animal Farm"
 synopsis: "All animals are equal, but some animals are more equal than others."
-first_broadcast_date: "2016-09-29T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b07wgkz4"
 ---
 
 Melvyn Bragg and guests discuss Animal Farm, which Eric Blair published under his pen name George Orwell in 1945. 
@@ -26,3 +24,6 @@ Robert Colls - Professor of Cultural History at De Montfort University
 Producer: Simon Tillotson
 
 First broadcast on BBC Radio 4 in September 2016.
+
+first_broadcast_date: "2016-09-29T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b07wgkz4"

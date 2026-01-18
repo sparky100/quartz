@@ -3,8 +3,6 @@ pid: "b08n1y2v"
 title: "The Egyptian Book of the Dead"
 subtitle: "The Egyptian Book of the Dead"
 synopsis: "Melvyn Bragg and guests discuss the ancient Egyptian funerary text, The Book of the Dead."
-first_broadcast_date: "2017-04-27T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b08n1y2v"
 ---
 
 Melvyn Bragg and guests discuss the text and context of The Book of the Dead, also known as the Book of Coming Forth by Day, the ancient Egyptian collections of spells which were intended to help the recently deceased navigate the underworld. They flourished under the New Kingdom from C16th BC until the end of the Ptolemaic era in C1st BC, and drew on much earlier traditions from the walls of pyramids and on coffin cases. Almost 200 spells survive, though no one collection contains all of them, and one of the best known surrounds the weighing of the heart, the gods' final judgement of the deceased's life.
@@ -24,3 +22,6 @@ Professor of Egyptology at the University of Oxford and Fellow of the Queen's Co
 
 
 Producer: Simon Tillotson.
+
+first_broadcast_date: "2017-04-27T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b08n1y2v"

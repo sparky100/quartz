@@ -3,8 +3,6 @@ pid: "m001lyt4"
 title: "Virgil's Georgics"
 subtitle: "Virgil's Georgics"
 synopsis: "Melvyn Bragg and guests discuss the Roman poet's celebration of agriculture and rural life"
-first_broadcast_date: "2023-05-18T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001lyt4"
 ---
 
 In the year 29 BC the great Roman poet Virgil published these lines:  
@@ -28,3 +26,6 @@ Diana Spencer
 Professor of Classics at the University of Birmingham
 
 Producer: Luke Mulhall
+
+first_broadcast_date: "2023-05-18T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001lyt4"

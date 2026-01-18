@@ -3,8 +3,6 @@ pid: "m0028jtx"
 title: "Pollination"
 subtitle: "Pollination"
 synopsis: "Melvyn Bragg and guests discuss the interplay between plants and pollinators."
-first_broadcast_date: "2025-03-06T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m0028jtx"
 ---
 
 Since plants have to mate and produce offspring while rooted to the spot, they have to be pollinated – by wind, water, or animals – most commonly insects. They use a surprising array of tricks to attract pollinators: striking colours, iridescent light effects, and enticing scents, to name but a few.   
@@ -46,3 +44,6 @@ Alan E. Stubbs and Steven J. Falk, British Hoverflies (‎British Entomological 
 Timothy Walker, Pollination: The Enduring Relationship Between Plant and Pollinator (Princeton University Press, 2020)
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2025-03-06T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m0028jtx"

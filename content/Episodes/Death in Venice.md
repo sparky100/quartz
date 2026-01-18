@@ -3,8 +3,6 @@ pid: "m001mt6l"
 title: "Death in Venice"
 subtitle: "Death in Venice"
 synopsis: "Melvyn Bragg and guests discuss Thomas Mann's novella of 1912."
-first_broadcast_date: "2023-06-15T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001mt6l"
 ---
 
 Death in Venice is Thomas Mann’s most famous – and infamous - novella.
@@ -20,3 +18,6 @@ Erica Wickerson, a Former Research Fellow at St Johns College, University of Cam
 Sean Williams, Senior Lecturer in German and European Cultural History at the University of Sheffield 
 
 Sean Williams' series of Radio 3's The Essay, Death in Trieste, can be found here: https://www.bbc.co.uk/programmes/m001lzd4
+
+first_broadcast_date: "2023-06-15T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001mt6l"

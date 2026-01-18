@@ -3,8 +3,6 @@ pid: "m001wq9h"
 title: "Heisenberg's Uncertainty Principle"
 subtitle: "Heisenberg's Uncertainty Principle"
 synopsis: "Melvyn Bragg and guests discuss Heisenberg's key role at the outset of quantum mechanics"
-first_broadcast_date: "2024-02-29T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001wq9h"
 ---
 
 Melvyn Bragg and guests discuss the German physicist who, at the age of 23 and while still a student, effectively created quantum mechanics for which he later won the Nobel Prize.  Werner Heisenberg made this breakthrough in a paper in 1925 when, rather than starting with an idea of where atomic particles were at any one time, he worked backwards from what he observed of atoms and their particles and the light they emitted, doing away with the idea of their continuous orbit of the nucleus and replacing this with equations. This was momentous and from this flowed what’s known as his Uncertainty Principle, the idea that, for example, you can accurately measure the position of an atomic particle or its momentum, but not both.
@@ -38,3 +36,6 @@ Werner Heisenberg, Physics and Philosophy (first published 1958; Penguin Classic
 
 Carlo Rovelli, Helgoland: The Strange and Beautiful Story of Quantum Physics (Penguin, 2022)
 #Physics
+
+first_broadcast_date: "2024-02-29T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001wq9h"

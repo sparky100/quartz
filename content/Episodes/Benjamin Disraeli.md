@@ -3,8 +3,6 @@ pid: "m0022z8v"
 title: "Benjamin Disraeli"
 subtitle: "Benjamin Disraeli"
 synopsis: "Melvyn Bragg and guests discuss one of the most prominent Victorian politicians."
-first_broadcast_date: "2024-09-19T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m0022z8v"
 ---
 
 Melvyn Bragg and guests discuss one of the major figures in Victorian British politics. Disraeli (1804 -1881) served both as Prime Minister twice and, for long periods, as leader of the opposition. Born a Jew, he was only permitted to enter Parliament as his father had him baptised into the Church of England when he was twelve. Disraeli was a gifted orator and, outside Parliament, he shared his views widely through several popular novels including Sybil or The Two Nations, which was to inspire the idea of One Nation Conservatism.  He became close to Queen Victoria and she mourned his death with a primrose wreath, an event marked for years after by annual processions celebrating his life in politics.
@@ -55,3 +53,6 @@ John Vincent, Disraeli (Oxford University Press, 1990)
 P.J. Waller (ed.), Politics and Social Change in Modern Britain (Prentice Hall / Harvester Wheatsheaf, 1987), especially the chapter ‘Style and Substance in Disraelian Social Reform’ by P. Ghosh
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2024-09-19T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m0022z8v"

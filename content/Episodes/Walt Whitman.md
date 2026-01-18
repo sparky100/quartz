@@ -3,8 +3,6 @@ pid: "m001l99w"
 title: "Walt Whitman"
 subtitle: "Walt Whitman"
 synopsis: "Melvyn Bragg and guests discuss the innovative and highly influential American poet."
-first_broadcast_date: "2023-04-27T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001l99w"
 ---
 
 Melvyn Bragg and guests discuss the highly influential American poet Walt Whitman. 
@@ -33,3 +31,6 @@ Mark Ford
 Professor of English and American Literature at University College London
 
 Producer  Luke Mulhall
+
+first_broadcast_date: "2023-04-27T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001l99w"

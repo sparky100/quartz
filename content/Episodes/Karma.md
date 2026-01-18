@@ -3,8 +3,6 @@ pid: "m0020966"
 title: "Karma"
 subtitle: "Karma"
 synopsis: "Melvyn Bragg and guests discuss the doctrine on how you answer for your own actions."
-first_broadcast_date: "2024-06-20T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m0020966"
 ---
 
 Melvyn Bragg and guests discuss the doctrine of Karma as developed initially among Hindus, Jains and Buddhists in India from the first millennium BCE.  Common to each is an idea, broadly, that you reap what you sow: how you act in this world has consequences either for your later life or your future lives, depending on your view of rebirth and transmigration.  From this flow different ideas including those about free will, engagement with the world or disengagement, the nature of ethics and whether intention matters, and these ideas continue to develop today.
@@ -43,3 +41,6 @@ M. Siderits, How Things Are: An Introduction to Buddhist Metaphysics (Oxford Uni
 M. Vargas and J. Dorris (eds.), The Oxford Handbook of Moral Psychology (Oxford Univesrity Press, 2022), especially ‘Karma, Moral Responsibility and Buddhist Ethics’ by B. Finnigan
 
 J. Zu, 'Collective Karma Cluster Concepts in Chinese Canonical Sources: A Note' (Journal of Global Buddhism, Vol.24: 2, 2023)
+
+first_broadcast_date: "2024-06-20T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m0020966"

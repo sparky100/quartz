@@ -3,8 +3,6 @@ pid: "m00260s5"
 title: "Plutarch's Parallel Lives"
 subtitle: "Plutarch's Parallel Lives"
 synopsis: "Melvyn Bragg and guests discuss the influential Greek biographer and his main work"
-first_broadcast_date: "2024-12-19T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m00260s5"
 ---
 
 Melvyn Bragg and guests discuss the Greek biographer Plutarch (c46 AD-c120 AD) and especially his work 'Parallel Lives' which has shaped the way successive generations see the Classical world. Plutarch was clear that he was writing lives, not histories, and he wrote these very focussed accounts in pairs to contrast and compare the characters of famous Greeks and Romans, side by side, along with their virtues and vices.  This focus on the inner lives of great men was to fascinate Shakespeare, who drew on Plutarch considerably when writing his Julius Caesar, Coriolanus, Timon of Athens and Antony and Cleopatra. While few followed his approach of setting lives in pairs, Plutarch's work was to influence countless biographers especially from the Enlightenment onwards.
@@ -71,3 +69,6 @@ Philip A. Stadter, Plutarch and his Roman Readers (Oxford University Press, 2014
 Frances B. Titchener and Alexei V. Zadorojnyi (eds.), The Cambridge Companion to Plutarch (Cambridge University Press, 2023)
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2024-12-19T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m00260s5"

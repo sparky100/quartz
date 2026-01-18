@@ -3,8 +3,6 @@ pid: "m002cqq3"
 title: "Hypnosis"
 subtitle: "Hypnosis"
 synopsis: "Melvyn Bragg and guests explore hypnosis."
-first_broadcast_date: "2025-05-29T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m002cqq3"
 ---
 
 Ever since Franz Anton Mesmer induced trance-like states in his Parisian subjects in the late eighteenth century, dressed in long purple robes, hypnosis has been associated with performance, power and the occult.  
@@ -56,3 +54,6 @@ George du Maurier, Trilby (first published 1894; Penguin Classics, 1994)
 Bram Stoker, Dracula (first published 1897; Penguin Classics, 2003)
 
 In Our Time is a BBC Studios Audio production
+
+first_broadcast_date: "2025-05-29T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m002cqq3"

@@ -3,8 +3,6 @@ pid: "b01p0s9s"
 title: "Crystallography"
 subtitle: "Crystallography"
 synopsis: "Melvyn Bragg and his guests discuss the history and achievements of crystallography."
-first_broadcast_date: "2012-11-29T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b01p0s9s"
 ---
 
 Melvyn Bragg and his guests discuss the history of crystallography, the study of crystals and their structure. The discovery in the early 20th century that X-rays could be diffracted by a crystal revolutionised our knowledge of materials. This crystal technology has touched most people's lives, thanks to the vital role it plays in diverse scientific disciplines - from physics and chemistry, to molecular biology and mineralogy. To date, 28 Nobel Prizes have been awarded to scientists working with X-ray crystallography, an indication of its crucial importance. 
@@ -24,3 +22,6 @@ Emeritus Professor of Physics at the University of Oxford and Visiting Professor
 
 Producer: Natalia Fernandez.
 #Physics
+
+first_broadcast_date: "2012-11-29T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b01p0s9s"

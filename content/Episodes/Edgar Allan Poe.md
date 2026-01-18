@@ -3,8 +3,6 @@ pid: "m001svfv"
 title: "Edgar Allan Poe"
 subtitle: "Edgar Allan Poe"
 synopsis: "Melvyn Bragg and guests discuss the author of the Fall of the House of Usher."
-first_broadcast_date: "2023-11-30T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001svfv"
 ---
 
 Melvyn Bragg and guests discuss Poe (1809-1849), the American author who is famous for his Gothic tales of horror, madness and the dark interiors of the mind, such as The Fall of the House of Usher and The Tell-Tale Heart. As well as tapping at our deepest fears in poems such as The Raven, Poe pioneered detective fiction with his character C. Auguste Dupin in The Murders in the Rue Morgue. After his early death, a rival rushed out a biography to try to destroy Poe's reputation but he has only become more famous over the years as a cultural icon as well as an author.
@@ -47,3 +45,6 @@ Scott Peeples and Michelle Van Parys, The Man of the Crowd: Edgar Allan Poe and 
 Edgar Allan Poe, The Portable Edgar Allan Poe (Penguin, 2006)
 
 Shawn Rosenhelm and Stephen Rachman (eds.), The American Face of Edgar Allan Poe (Johns Hopkins University Press, 1995)
+
+first_broadcast_date: "2023-11-30T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001svfv"

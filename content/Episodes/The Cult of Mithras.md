@@ -3,8 +3,6 @@ pid: "b01pg5nt"
 title: "The Cult of Mithras"
 subtitle: "The Cult of Mithras"
 synopsis: "Melvyn Bragg and his guests discuss the cult of Mithras, the Roman mystery religion."
-first_broadcast_date: "2012-12-27T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b01pg5nt"
 ---
 
 Melvyn Bragg and his guests discuss the cult of Mithras, a mystery religion that existed in the Roman Empire from the 1st to the 4th centuries AD. Also known as the Mysteries of Mithras, its origins are uncertain. Academics have suggested a link with the ancient Vedic god Mitra and the Iranian Zoroastrian deity Mithra, but the extent and nature of the connection is a matter of controversy. 
@@ -23,3 +21,6 @@ John North
 Acting Director of the Institute of Classical Studies, University of London.
 
 Producer: Victoria Brignell.
+
+first_broadcast_date: "2012-12-27T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b01pg5nt"

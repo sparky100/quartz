@@ -3,8 +3,6 @@ pid: "b01nl963"
 title: "The Anarchy"
 subtitle: "The Anarchy"
 synopsis: "Melvyn Bragg and his guests discuss The Anarchy, the 12th-century English civil war."
-first_broadcast_date: "2012-11-01T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b01nl963"
 ---
 
 Melvyn Bragg and his guests discuss The Anarchy, the civil war that took place in mid-twelfth century England. The war began as a succession dispute between the Empress Matilda, daughter of Henry I, and her cousin, Stephen of Blois. On Henry's death Stephen seized the English throne and held it for a number of years before Matilda wrestled it from him, although she was chased out of London before she could be crowned. 
@@ -23,3 +21,6 @@ David Carpenter
 Professor of Medieval History at Kings College London. 
 
 Producer: Natalia Fernandez.
+
+first_broadcast_date: "2012-11-01T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b01nl963"

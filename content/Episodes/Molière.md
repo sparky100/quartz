@@ -3,8 +3,6 @@ pid: "m002b701"
 title: "Molière"
 subtitle: "Molière"
 synopsis: "The great French playwright and comic actor who flourished at the court of Louis XIV."
-first_broadcast_date: "2025-04-24T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m002b701"
 ---
 
 Melvyn Bragg and guests discuss one of the great figures in world literature. The French playwright Molière (1622-1673) began as an actor, aiming to be a tragedian, but he was stronger in comedy, touring with a troupe for 13 years until Louis XIV summoned him to audition at the Louvre and gave him his break.  It was in Paris and at Versailles that Molière wrote and performed his best known plays, among them Tartuffe, Le Misanthrope and Le Malade Imaginaire, and in time he was so celebrated that French became known as The Language of Molière.
@@ -47,3 +45,6 @@ Julia Prest, Controversy in French Drama: Molière’s Tartuffe and the Struggle
 Virginia Scott, Molière: A Theatrical Life (Cambridge University Press, 2020)
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2025-04-24T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m002b701"

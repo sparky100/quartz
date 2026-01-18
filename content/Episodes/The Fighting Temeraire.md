@@ -3,8 +3,6 @@ pid: "b081r260"
 title: "The Fighting Temeraire"
 subtitle: "The Fighting Temeraire"
 synopsis: "Melvyn Bragg and guests discuss JMW Turner's The Fighting Temeraire."
-first_broadcast_date: "2016-11-10T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b081r260"
 ---
 
 This image: Joseph Mallord William Turner, The Fighting Temeraire, 1839 (c) The National Gallery, London
@@ -26,3 +24,6 @@ Curator of Naval History at the National Maritime Museum
 
 
 Producer: Simon Tillotson.
+
+first_broadcast_date: "2016-11-10T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b081r260"

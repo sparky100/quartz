@@ -3,8 +3,6 @@ pid: "m001tqnd"
 title: "Twelfth Night, or What You Will"
 subtitle: "Twelfth Night, or What You Will"
 synopsis: "Melvyn Bragg and guests discuss Shakespeare's great comedy of love, desire and marriage."
-first_broadcast_date: "2023-12-28T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001tqnd"
 ---
 
 Melvyn Bragg and guests discuss one of Shakespeare’s great comedies, which plays in the space between marriage, love and desire. By convention a wedding means a happy ending and here there are three, but neither Orsino nor Viola, Olivia nor Sebastian know much of each other’s true character and even the identities of the twins Viola and Sebastian have only just been revealed to their spouses to be. These twins gain some financial security but it is unclear what precisely the older Orsino and Olivia find enduringly attractive in the adolescent objects of their love.  Meanwhile their hopes and illusions are framed by the fury of Malvolio, tricked into trusting his mistress Olivia loved him and who swears an undefined revenge on all those who mocked him.
@@ -55,3 +53,6 @@ William Shakespeare (ed. Keir Elam), Twelfth Night (Arden Shakespeare, 2008)
 Emma Smith, This is Shakespeare: How to Read the World's Greatest Playwright (Pelican, 2019)
 
 Victoria Sparey, Shakespeare’s Adolescents: Age, Gender and the Body in Shakespearean Performance and Early Modern Culture (Manchester University Press, 2024)
+
+first_broadcast_date: "2023-12-28T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001tqnd"

@@ -3,8 +3,6 @@ pid: b0092j0x
 title: Ada Lovelace
 subtitle: Ada Lovelace
 synopsis: Melvyn Bragg and guests discuss Ada Lovelace - the Victorian ‘enchantress of numbers’.
-first_broadcast_date: 2008-03-06T09:00:00Z
-website_url: https://www.bbc.co.uk/programmes/b0092j0x
 tags:
   - Mathematics
 ---
@@ -17,3 +15,6 @@ With  Patricia Fara, Senior Tutor at Clare College, Cambridge; Doron Swade, Visi
 #Mathematics
 
 [[Alan Turing]]
+
+first_broadcast_date: 2008-03-06T09:00:00Z
+website_url: https://www.bbc.co.uk/programmes/b0092j0x

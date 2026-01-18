@@ -3,8 +3,6 @@ pid: "m002dzy4"
 title: "Dragons"
 subtitle: "Dragons"
 synopsis: "Melvyn Bragg and guests discuss this ubiquitous mythical creature."
-first_broadcast_date: "2025-06-26T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m002dzy4"
 ---
 
 Melvyn Bragg and guests explore dragons, literally and symbolically potent creatures that have appeared in many different guises in countries and cultures around the world. 
@@ -64,3 +62,6 @@ Yang Xin, Li Yihua, and Xu Naixiang, Art of the Dragon (Shambhala, 1988)
 In Our Time is a BBC Studios Audio production 
 
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the characters, events and discoveries that have shaped our world.
+
+first_broadcast_date: "2025-06-26T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m002dzy4"

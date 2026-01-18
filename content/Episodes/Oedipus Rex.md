@@ -3,8 +3,6 @@ pid: "m001mlm4"
 title: "Oedipus Rex"
 subtitle: "Oedipus Rex"
 synopsis: "Melvyn Bragg and guests on Sophocles' tragedy, sometimes called the best play ever written"
-first_broadcast_date: "2023-06-08T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001mlm4"
 ---
 
 Sophocles’ play Oedipus Rex begins with a warning: the murderer of the old king of Thebes, Laius, has never been identified or caught, and he’s still at large in the city. Oedipus is the current king of Thebes, and he sets out to solve the crime. 
@@ -21,3 +19,6 @@ Nick Lowe, Reader in Classical Literature at Royal Holloway, University of Londo
 Fiona Macintosh, Professor of Classical Reception and Fellow of St Hilda’s College at the University of Oxford
 
 Edith Hall, Professor of Classics at Durham University
+
+first_broadcast_date: "2023-06-08T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001mlm4"

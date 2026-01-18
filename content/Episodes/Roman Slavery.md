@@ -3,8 +3,6 @@ pid: "b09xnl51"
 title: "Roman Slavery"
 subtitle: "Roman Slavery"
 synopsis: "Melvyn Bragg and guests discuss the relationship between slavery and the power of Rome."
-first_broadcast_date: "2018-04-05T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b09xnl51"
 ---
 
 Melvyn Bragg and guests discuss the role of slavery in the Roman world, from its early conquests to the fall of the Western Empire. 
@@ -25,3 +23,6 @@ Myles Lavan
 Senior lecturer in Ancient History at the University of St Andrews
 
 Producer: Simon Tillotson.
+
+first_broadcast_date: "2018-04-05T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b09xnl51"

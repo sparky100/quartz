@@ -3,8 +3,6 @@ pid: "b00y9283"
 title: "The Nervous System"
 subtitle: "The Nervous System"
 synopsis: "Melvyn Bragg and his guests discuss the nervous system."
-first_broadcast_date: "2011-02-10T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b00y9283"
 ---
 
 Melvyn Bragg and his guests discuss the nervous system.
@@ -26,3 +24,6 @@ Professor of the History of Modern Medical Sciences at Queen Mary, University of
 
 
 Producer: Thomas Morris.
+
+first_broadcast_date: "2011-02-10T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b00y9283"

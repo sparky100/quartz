@@ -3,8 +3,6 @@ pid: "m001r7sv"
 title: "The Federalist Papers"
 subtitle: "The Federalist Papers"
 synopsis: "Melvyn Bragg and guests discuss Hamilton, Madison and Jay's urgings for a US Constitution."
-first_broadcast_date: "2023-10-12T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001r7sv"
 ---
 
 Melvyn Bragg and guests discuss Alexander Hamilton, James Madison and John Jay's essays written in 1787/8 in support of the new US Constitution. They published these anonymously in New York as 'Publius' but, when it became known that Hamilton and Madison were the main authors, the essays took on a new significance for all states.  As those two men played a major part in drafting the Constitution itself, their essays have since informed debate over what the authors of that Constitution truly intended.  To some, the essays have proved to be America’s greatest contribution to political thought.
@@ -47,3 +45,6 @@ Michael I. Meyerson, Liberty's Blueprint: How Madison and Hamilton Wrote the Fed
 Jack Rakove, Original Meanings: Politics and Ideas in the Making of the Constitution (Knopf, 1996)
 
 Jack N. Rakove and Colleen A. Sheehan, The Cambridge Companion to The Federalist (Cambridge University Press, 2020)
+
+first_broadcast_date: "2023-10-12T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001r7sv"

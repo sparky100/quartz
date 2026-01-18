@@ -3,8 +3,6 @@ pid: "b01nzgjz"
 title: "The Borgias"
 subtitle: "The Borgias"
 synopsis: "Melvyn Bragg and guests discuss the Borgias, the most infamous family in Renaissance Italy"
-first_broadcast_date: "2012-11-22T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b01nzgjz"
 ---
 
 Melvyn Bragg and his guests discuss the Borgias, the most notorious family in Renaissance Italy. Famed for their treachery and corruption, the Borgias produced two popes during their time of dominance in Rome in the late 15th century. The most well-known of these two popes is Alexander VI, previously Cardinal Rodrigo Borgia. He was accused of buying votes to elect him to the papacy and openly promoted his children in positions of power. Rodrigo's daughter, Lucrezia, is widely remembered as a ruthless poisoner; his son, Cesare, as a brutal soldier. 
@@ -24,3 +22,6 @@ Christine Shaw
 Honorary Research Fellow at Swansea University 
 
 Producer: Natalia Fernandez.
+
+first_broadcast_date: "2012-11-22T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b01nzgjz"

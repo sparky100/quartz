@@ -3,8 +3,6 @@ pid: "m0028tzc"
 title: "Cyrus the Great"
 subtitle: "Cyrus the Great"
 synopsis: "Melvyn Bragg and guests discuss the Persian ruler Cyrus the Great."
-first_broadcast_date: "2025-03-13T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m0028tzc"
 ---
 
 Melvyn Bragg and guests explore the history and reputation of the Persian ruler Cyrus the Great. Cyrus the Second of Persia as he was known then was born in the sixth century BCE in Persis which is now in Iran. He was the founder of the first Persian Empire, the largest empire at that point in history, spanning more than two million square miles.  
@@ -48,3 +46,6 @@ Vesta Sarkosh Curtis and Sarah Stewart (eds.), Birth of the Persian Empire (I.B.
 Matt Waters, King of the World: The Life of Cyrus the Great (Oxford University Press, 2022)
 
 In Our Time is a BBC Studios Audio production
+
+first_broadcast_date: "2025-03-13T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m0028tzc"

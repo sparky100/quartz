@@ -3,8 +3,6 @@ pid: "m001lrd7"
 title: "The Shimabara Rebellion"
 subtitle: "The Shimabara Rebellion"
 synopsis: "Melvyn Bragg and guests discuss the 1637-8 Christian uprising in Japan."
-first_broadcast_date: "2023-05-11T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001lrd7"
 ---
 
 Melvyn Bragg and guests discuss the Christian uprising in Japan and its profound and long-term consequences. 
@@ -27,3 +25,6 @@ Christopher Harding
 Senior Lecturer in Asian History at the University of Edinburgh
 
 Producer  Luke Mulhall
+
+first_broadcast_date: "2023-05-11T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001lrd7"

@@ -3,8 +3,6 @@ pid: "m001kpty"
 title: "Cnut"
 subtitle: "Cnut"
 synopsis: "Melvyn Bragg and guests discuss the Dane who became a powerful King of England in 1016."
-first_broadcast_date: "2023-04-06T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001kpty"
 ---
 
 Melvyn Bragg and guests discuss the Danish prince who became a very effective King of England in 1016.  
@@ -25,3 +23,6 @@ Elizabeth Tyler
 Professor of Medieval Literature and Co-Director of the Centre for Medieval Studies at the University of York 
 
 Producer  Luke Mulhall
+
+first_broadcast_date: "2023-04-06T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001kpty"

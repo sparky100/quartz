@@ -3,8 +3,6 @@ pid: m00046rp
 title: A Midsummer Night's Dream
 subtitle: A Midsummer Night's Dream
 synopsis: Melvyn Bragg and guests discuss Shakespeare's comedy, one of his most popular plays
-first_broadcast_date: 2019-04-18T09:00:00+01:00
-website_url: https://www.bbc.co.uk/programmes/m00046rp
 tags:
   - Literature
 ---
@@ -25,3 +23,6 @@ Alison Findlay
 Professor of Renaissance Drama at Lancaster University and Chair of the British Shakespeare Association
 
 Producer: Simon Tillotson
+
+first_broadcast_date: 2019-04-18T09:00:00+01:00
+website_url: https://www.bbc.co.uk/programmes/m00046rp

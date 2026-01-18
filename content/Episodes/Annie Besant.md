@@ -3,8 +3,6 @@ pid: "b01jxtd7"
 title: "Annie Besant"
 subtitle: "Annie Besant"
 synopsis: "Melvyn Bragg and his guests discuss the 19th-century writer and campaigner Annie Besant."
-first_broadcast_date: "2012-06-21T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b01jxtd7"
 ---
 
 Melvyn Bragg and his guests discuss the life of the prominent 19th-century social reformer Annie Besant. Born in 1847, Annie Besant espoused a range of causes including secularism, women's rights, Socialism, Irish Home Rule, birth control and better conditions for workers. Described by Beatrice Webb as having "the voice of a beautiful soul", Besant became an eloquent public speaker as well as writing numerous campaigning articles and pamphlets. She is perhaps most famous for the key role she played in the successful strike by female workers at the Bryant and May match factory in East London in 1888, which brought the appalling working conditions of many factory workers to greater public attention. 
@@ -24,3 +22,6 @@ Senior Lecturer in Politics and International Relations at Royal Holloway, Unive
 
 
 Producer: Victoria Brignell.
+
+first_broadcast_date: "2012-06-21T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b01jxtd7"

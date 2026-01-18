@@ -3,8 +3,6 @@ pid: "m000dqy8"
 title: "Alcuin"
 subtitle: "Alcuin"
 synopsis: "Melvyn Bragg and guests discuss the scholar who revived learning for its own sake in C8th"
-first_broadcast_date: "2020-01-30T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m000dqy8"
 ---
 
 Melvyn Bragg and guests discuss Alcuin of York, c735-804AD, who promoted education as a goal in itself, and had a fundamental role in the renaissance at Charlemagne's court. He wrote poetry and many letters, hundreds of which survive and provide insight into his life and times. He was born in or near York and spent most of his life in Northumbria before accepting an invitation to Charlemagne's court in Aachen. To this he brought Anglo-Saxon humanism, encouraging a broad liberal education for itself and the better to understand Christian doctrine. He left to be abbot at Marmoutier, Tours, where the monks were developing the Carolingian script that influenced the Roman typeface. 
@@ -26,3 +24,6 @@ Mary Garrison
 Lecturer in History at the Centre for Medieval Studies at the University of York
 
 Producer: Simon Tillotson
+
+first_broadcast_date: "2020-01-30T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m000dqy8"

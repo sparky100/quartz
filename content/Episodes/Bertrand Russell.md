@@ -3,8 +3,6 @@ pid: "b01p8fsr"
 title: "Bertrand Russell"
 subtitle: "Bertrand Russell"
 synopsis: "Melvyn Bragg and guests discuss influential British philosopher Bertrand Russell."
-first_broadcast_date: "2012-12-06T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b01p8fsr"
 ---
 
 Melvyn Bragg and his guests discuss the influential British philosopher Bertrand Russell. Born in 1872 into an aristocratic family, Russell is widely regarded as one of the founders of Analytic philosophy, which is today the dominant philosophical tradition in the English-speaking world. In his important book The Principles of Mathematics, he sought to reduce mathematics to logic. Its revolutionary ideas include Russell's Paradox, a problem which inspired Ludwig [[Wittgenstein]] to pursue philosophy. Russell's most significant and famous idea, the theory of descriptions, had profound consequences for the discipline.
@@ -27,3 +25,6 @@ Producer: Victoria Brignell.
 
 [[Godel's Incompleteness Theorems]]
 [
+
+first_broadcast_date: "2012-12-06T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b01p8fsr"

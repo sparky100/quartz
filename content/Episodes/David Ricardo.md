@@ -3,8 +3,6 @@ pid: "m000tfjk"
 title: "David Ricardo"
 subtitle: "David Ricardo"
 synopsis: "Melvyn Bragg and guests discuss Ricardo's argument on free trade after the Napoleonic wars"
-first_broadcast_date: "2021-03-25T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m000tfjk"
 ---
 
 Melvyn Bragg and guests discuss one of the most influential economists from the age of Adam Smith and Thomas Malthus.  Ricardo (1772 -1823) reputedly made his fortune at the Battle of Waterloo, and he made his lasting impact with his ideas on free trade.  At a time when nations preferred to be self-sufficient, to produce all their own food and manufacture their own goods, and to find markets for export rather than import, Ricardo argued for free trade even with rivals for the benefit of all.  He contended that existing economic policy unduly favoured landlords above all others and needed to change, and that nations would be less likely to go to war with their trading partners if they were more reliant on each other.  For the last two hundred years, Ricardo’s Theory of Comparative Advantage in support of free trade has been developed and reinterpreted by generations of economists across the political spectrum.
@@ -23,3 +21,6 @@ Richard Whatmore
 Professor of Modern History at the University of St Andrews and Co-Director of the St Andrews Institute of Intellectual History
 
 Producer: Simon Tillotson
+
+first_broadcast_date: "2021-03-25T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m000tfjk"

@@ -3,8 +3,6 @@ pid: "b08kscgb"
 title: "Pauli's Exclusion Principle"
 subtitle: "Pauli's Exclusion Principle"
 synopsis: "Melvyn Bragg and guests discuss Wolfgang Pauli and the Pauli Exclusion Principle."
-first_broadcast_date: "2017-04-06T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b08kscgb"
 ---
 
 After 27 years, Melvyn Bragg has decided to step down from the In Our Time presenter’s chair. With over a thousand episodes to choose from, he has selected just six that capture the huge range and depth of the subjects he and his experts have tackled. In this fifth of his choices, we hear Melvyn Bragg and his guests discuss a key figure from quantum mechanics.
@@ -29,3 +27,6 @@ Producer: Simon Tillotson
 
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the characters, events and discoveries that have shaped our world
 #Physics
+
+first_broadcast_date: "2017-04-06T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b08kscgb"

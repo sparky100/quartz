@@ -3,8 +3,6 @@ pid: "m0029zmc"
 title: "Typology"
 subtitle: "Typology"
 synopsis: "Melvyn Bragg and guests discuss biblical typology."
-first_broadcast_date: "2025-04-17T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m0029zmc"
 ---
 
 Melvyn Bragg and guests explore typology, a method of biblical interpretation that aims to meaningfully link people, places, and events in the Hebrew Bible, what Christians call the Old Testament, with the coming of Christ in the New Testament.  Old Testament figures like Moses, Jonah, and King David were regarded by Christians as being ‘types’ or symbols of Jesus. 
@@ -50,3 +48,6 @@ Montague Rhodes James and Kenneth Harrison, A Guide to the Windows of King's Col
 J. W. Rogerson and Judith M. Lieu (eds.), The Oxford Handbook of Biblical Studies (Oxford University Press, 2008)
 
 In Our Time is a BBC Studios Audio production
+
+first_broadcast_date: "2025-04-17T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m0029zmc"

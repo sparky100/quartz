@@ -3,8 +3,9 @@ pid: "b00vy2dd"
 title: "Foxe's Book of Martyrs"
 subtitle: "Foxe's Book of Martyrs"
 synopsis: "Melvyn Bragg and guests discuss Foxe's Book of Martyrs."
-first_broadcast_date: "2010-11-18T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b00vy2dd"
 ---
 
 Melvyn Bragg and his guests discuss John Foxe and his book Actes and Monuments, better known today as Foxe's Book of Martyrs. Born in 1517, John Foxe was an early Protestant who was forced to flee the persecutions which ensued when the Catholic Mary came to the English throne in 1553. He was a horrified observer on the Continent as more than three hundred of his countrymen were burnt at the stake. In exile he began work on a substantial work of scholarship, bringing together eyewitness accounts of these horrifying deaths.First published in 1563, Foxe's Book of Martyrs was one of the most elaborate early books produced, and thanks to vivid woodcut illustrations reached an audience far beyond the literate elite. Its stories of Protestant martyrdom became powerful Church propaganda in the late sixteenth century and were used by those who wished to banish Catholicism from England permanently. But despite its use as an instrument of religious factionalism, Foxe's work remains one of the key and most read books of the early modern period. With:Diarmaid MacCullochProfessor of Church History at the University of OxfordJustin ChampionProfessor of the History of Early Modern Ideas at Royal Holloway, University of LondonElizabeth EvendenLecturer in Book History at Brunel UniversityProducer: Thomas Morris.
+
+first_broadcast_date: "2010-11-18T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b00vy2dd"
