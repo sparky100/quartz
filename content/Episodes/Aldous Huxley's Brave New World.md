@@ -12,4 +12,5 @@ In Act V Scene I of Shakespeare's The Tempest, the character Miranda declares 'O
 Brave New World is a lurid, satirical dystopia in which the hopes and fears of the 1930s are writ large and yet the book seems uncannily prescient about our own time. But why did Huxley feel the need to write it and is Brave New World really as dystopian as we are led to believe?
 
 first_broadcast_date: "2009-04-09T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/b00jn8bc"

@@ -47,4 +47,5 @@ Claude Rawson, Henry Fielding and the Augustan Ideal under Stress (first publish
 Claude Rawson (ed.), The Cambridge Companion to Henry Fielding (Cambridge University Press, 2007)
 
 first_broadcast_date: "2024-06-13T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m00202lf"

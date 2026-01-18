@@ -40,4 +40,5 @@ Clare Mac Cumhaill and Rachael Wiseman, Metaphysical Animals: How Four Women Bro
 Dan Russell (ed.), The Cambridge Companion to Virtue Ethics (Cambridge University Press), especially ‘Virtue Ethics in the Twentieth Century’ by Timothy (now Sophie Grace) Chappell
 
 first_broadcast_date: "2024-05-16T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m001z6p8"

@@ -59,4 +59,5 @@ Paula Sommers, ‘The Mirror and its Reflections: Marguerite de Navarre’s Bibl
 Kathleen Wellman, Queens and Mistresses of Renaissance France (Yale University Press, 2013)
 
 first_broadcast_date: "2023-11-23T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/m001smkv"

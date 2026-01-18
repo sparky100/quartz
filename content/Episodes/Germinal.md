@@ -57,4 +57,5 @@ Emile Zola (trans. Peter Collier), Germinal (Oxford University Press, 1993)
 Emile Zola (trans. Roger Pearson), Germinal (Penguin Classics, 2004)
 
 first_broadcast_date: "2023-10-26T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m001rq08"

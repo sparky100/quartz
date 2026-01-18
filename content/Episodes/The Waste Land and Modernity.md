@@ -8,4 +8,5 @@ synopsis: "Melvyn Bragg and guests discuss TS Eliot's seminal poem The Waste Lan
 Melvyn Bragg and guests, including Steve Connor and Lawrence Rainey, discuss TS Eliot's seminal poem The Waste Land and its ambivalence to the modern world of technology, democracy and capitalism that was being forged around it.
 
 first_broadcast_date: "2009-02-26T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/b00hlb38"

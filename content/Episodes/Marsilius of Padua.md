@@ -54,4 +54,5 @@ C. Nederman, Community and Consent: The Secular Political Theory of Marsiglio of
 Vasileios Syros, Marsilius of Padua at the Intersection of Ancient and Medieval Traditions of Political Thought (University of Toronto Press, 2012)
 
 first_broadcast_date: "2024-05-30T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m001znkd"

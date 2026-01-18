@@ -10,4 +10,5 @@ In this episode, writer and voracious reader James Marriott discusses the so-cal
 If you enjoy this episode, you can find new instalments of The Global Story every day wherever you get your BBC Podcasts.
 
 first_broadcast_date: 
+
 website_url: "https://www.bbc.co.uk/programmes/p0mqdhj0"

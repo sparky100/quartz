@@ -53,4 +53,5 @@ Daniel Wildenstein, Monet: The Triumph of Impressionism (first published 1996; T
 Jackie Wullschläger, Monet: The Restless Vision (Allen Lane, 2023)
 
 first_broadcast_date: "2024-06-27T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m0020j9z"

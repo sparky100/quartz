@@ -50,4 +50,5 @@ Ronald Speirs, Brecht’s Poetry of Political Exile (Cambridge University Press,
 David Zoob, Brecht: A Practical Handbook (Nick Hern Books, 2018)
 
 first_broadcast_date: "2024-04-25T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m001yj9q"

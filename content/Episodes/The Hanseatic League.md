@@ -59,4 +59,5 @@ Justyna Wubs-Mrozewicz and Stuart Jenks (eds.), The Hanse in Medieval & Early Mo
 Justyna Wubs-Mrozewicz, ‘The late medieval and early modern Hanse as an institution of conflict management’ (Continuity and Change 32/1, Cambridge University Press, 2017)
 
 first_broadcast_date: "2024-02-01T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/m001vshs"

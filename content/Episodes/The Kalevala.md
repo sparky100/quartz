@@ -62,4 +62,5 @@ Karl Spracklen, Metal Music and the Re-imagining of Masculinity, Place, Race and
 Leea Virtanen and Thomas A. DuBois, Finnish Folklore: Studia Fennica Folkloristica 9 (Finnish Literature Society, 2000)
 
 first_broadcast_date: "2024-03-28T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/m001xm8t"

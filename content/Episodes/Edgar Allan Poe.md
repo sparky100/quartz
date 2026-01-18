@@ -47,4 +47,5 @@ Edgar Allan Poe, The Portable Edgar Allan Poe (Penguin, 2006)
 Shawn Rosenhelm and Stephen Rachman (eds.), The American Face of Edgar Allan Poe (Johns Hopkins University Press, 1995)
 
 first_broadcast_date: "2023-11-30T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/m001svfv"

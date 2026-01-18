@@ -48,4 +48,5 @@ Brian Vick, The Congress of Vienna: Power and Politics after Napoleon (Harvard U
 Zack White (ed.), The Sword and the Spirit: Proceedings of the first ‘War & Peace in the Age of Napoleon’ Conference (Helion and Company, 2021)
 
 first_broadcast_date: "2024-04-18T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m001y8fp"

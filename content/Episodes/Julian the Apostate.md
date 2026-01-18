@@ -51,4 +51,5 @@ Shaun Tougher, Julian the Apostate (Edinburgh University Press, 2007)
 W. C. Wright, The Works of Emperor Julian of Rome (Loeb, 1913-23)
 
 first_broadcast_date: "2024-03-21T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/m001xd7b"

@@ -63,4 +63,5 @@ Milena Wazeck (trans. Geoffrey S. Koby), Einstein's Opponents: The Public Contro
 [[Emmy Noether]]
 
 first_broadcast_date: "2023-09-14T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m001qdx1"

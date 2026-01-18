@@ -47,4 +47,5 @@ Nancy Sherman, The Fabric of Character: Aristotle's Theory of Virtue (Clarendon 
 J.O. Urmson, Aristotle’s Ethics (John Wiley & Sons, 1988)
 
 first_broadcast_date: "2023-11-02T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/m001rylh"

@@ -43,4 +43,5 @@ M. Vargas and J. Dorris (eds.), The Oxford Handbook of Moral Psychology (Oxford 
 J. Zu, 'Collective Karma Cluster Concepts in Chinese Canonical Sources: A Note' (Journal of Global Buddhism, Vol.24: 2, 2023)
 
 first_broadcast_date: "2024-06-20T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m0020966"

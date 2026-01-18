@@ -64,4 +64,5 @@ X. L. Woo, Empress Dowager Cixi: China's Last Dynasty and the Long Reign of a Fo
 Zheng Yangwen, Ten Lessons in Modern Chinese History (Manchester University Press, 2018)
 
 first_broadcast_date: "2024-05-23T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m001zdw0"

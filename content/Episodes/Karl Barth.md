@@ -41,4 +41,5 @@ Christiane Tietz, Karl Barth: A Life in Conflict (Oxford University Press, 2021)
 John Webster, Karl Barth: Outstanding Christian Thinkers (Continuum, 2004)
 
 first_broadcast_date: "2023-12-07T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/m001t2zf"

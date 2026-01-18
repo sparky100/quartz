@@ -23,4 +23,5 @@ Reader in Modern European History,  University of Glasgow
 Producer: Simon Tillotson
 
 first_broadcast_date: "2019-09-19T09:00:00+01:00"
+
 website_url: "https://www.bbc.co.uk/programmes/m0008jd2"

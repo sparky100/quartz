@@ -51,4 +51,5 @@ Louis van Tilborgh, Martin Bailey, Karen Serres (ed.), Van Gogh Self-Portraits (
 Ingo F. Walther and Rainer Metzger, Van Gogh. The Complete Paintings (Taschen, 2022)
 
 first_broadcast_date: "2023-12-21T09:00:00Z"
+
 website_url: "https://www.bbc.co.uk/programmes/m001thzh"
