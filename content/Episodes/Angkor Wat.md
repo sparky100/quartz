@@ -9,17 +9,9 @@ Melvyn Bragg and guests discuss the largest and arguably the most astonishing re
 
 
 With
-
-Piphal Heng
-Postdoctoral scholar at the Cotsen Institute and the Programme for Early Modern Southeast Asia at UCLA
-
-Ashley Thompson
-Hiram W Woodward Chair of Southeast Asian Art at SOAS University of London
-
-And
-
-Simon Warrack
-A stone conservator who has worked extensively at Angkor Wat
+Piphal Heng, Postdoctoral scholar at the Cotsen Institute and the Programme for Early Modern Southeast Asia at UCLA
+Ashley Thompson, Hiram W Woodward Chair of Southeast Asian Art at SOAS University of London
+Simon Warrack, A stone conservator who has worked extensively at Angkor Wat
 
 Producer: Simon Tillotson
 

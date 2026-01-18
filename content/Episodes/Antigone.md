@@ -10,17 +10,9 @@ Melvyn Bragg and guests discuss what is reputedly the most performed of all Gree
 
 With
 
-Edith Hall
-Professor of Classics at Durham University
-
-Oliver Taplin
-Emeritus Professor of Classics, University of Oxford
-
-And
-
-Lyndsay Coo
-Senior Lecturer in Ancient Greek Language and Literature at the University of Bristol
-
+Edith Hall, Professor of Classics at Durham University
+Oliver Taplin, Emeritus Professor of Classics, University of Oxford
+Lyndsay Coo, Senior Lecturer in Ancient Greek Language and Literature at the University of Bristol
 
 Producer: Simon Tillotson
 

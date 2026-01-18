@@ -9,17 +9,9 @@ Melvyn Bragg and guests discuss Lewis Carroll's book which first appeared in pri
 
 
 With
-
-Franziska Kohlt
-Leverhulme Research Fellow in the History of Science at the University of Leeds and the Inaugural Carrollian Fellow of the University of Southern California
-
-Kiera Vaclavik
-Professor of Children’s Literature and Childhood Culture at Queen Mary, University of London
-
-And
-
-Robert Douglas-Fairhurst
-Professor of English Literature at Magdalen College, University of Oxford
+Franziska Kohlt, Leverhulme Research Fellow in the History of Science at the University of Leeds and the Inaugural Carrollian Fellow of the University of Southern California
+Kiera Vaclavik, Professor of Children’s Literature and Childhood Culture at Queen Mary, University of London
+Robert Douglas-Fairhurst, Professor of English Literature at Magdalen College, University of Oxford
 
 Producer: Simon Tillotson
 

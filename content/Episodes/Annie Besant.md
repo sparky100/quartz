@@ -12,15 +12,9 @@ Later in life she became a follower of theosophy, a belief system bringing toget
 
 With: 
 
-Lawrence Goldman
-Fellow in Modern History at St Peter's College, University of Oxford
-
-David Stack 
-Reader in History at the University of Reading 
-
-Yasmin Khan
-Senior Lecturer in Politics and International Relations at Royal Holloway, University of London. 
-
+Lawrence Goldman, Fellow in Modern History at St Peter's College, University of Oxford
+David Stack, Reader in History at the University of Reading 
+Yasmin Khan, Senior Lecturer in Politics and International Relations at Royal Holloway, University of London. 
 
 Producer: Victoria Brignell.
 

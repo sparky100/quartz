@@ -10,16 +10,9 @@ Melvyn Bragg and guests discuss the life, works, context and legacy of Antarah (
 
 With 
 
-James Montgomery
-Sir Thomas Adams's Professor of Arabic at the University of Cambridge
-
-Marlé Hammond
-Senior Lecturer in Arabic Popular Literature and Culture at SOAS, University of London
-
-And 
-
-Harry Munt
-Lecturer in Medieval History at the University of York
+James Montgomery, Sir Thomas Adams's Professor of Arabic at the University of Cambridge
+Marlé Hammond, Senior Lecturer in Arabic Popular Literature and Culture at SOAS, University of London
+Harry Munt,Lecturer in Medieval History at the University of York
 
 Producer: Simon Tillotson
 

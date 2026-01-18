@@ -7,7 +7,11 @@ synopsis: "Melvyn Bragg and guests discuss the role of animals in humankind’s 
 
 Melvyn Bragg and guests discuss the role of animals in humankind's search for knowledge. Since the Greek physician Galen used pigs for anatomical studies in the 2nd century, animals have been used by scientists to further human knowledge. Yet few, if any subjects in this country, raise such violent feelings and passions as animals and their place in our society.
 
-With the growing politicisation of animal rights, it is a subject which is increasing in intensity.  Do animals have rights and do our needs permit us to use them still to enhance our own lives in the twentieth century? Is it still necessary to experiment on animals for the good of humankind?  Or is that morally unacceptable and barbaric - particularly in the light of new research into animal consciousness?With Colin Blakemore, Professor of Physiology, Oxford University, President of the British Association for the Advancement of Science, Fellow of the Royal Society and targeted in the 1980s by animal welfare activists protesting at his research methods; Dr Lynda Birke, biologist, teacher at Lancaster and Warwick Universities, and previously worked for 7 years in animal behaviour at the Open University.
+With the growing politicisation of animal rights, it is a subject which is increasing in intensity.  Do animals have rights and do our needs permit us to use them still to enhance our own lives in the twentieth century? Is it still necessary to experiment on animals for the good of humankind?  Or is that morally unacceptable and barbaric - particularly in the light of new research into animal consciousness?
+
+With 
+Colin Blakemore, Professor of Physiology, Oxford University, President of the British Association for the Advancement of Science, Fellow of the Royal Society and targeted in the 1980s by animal welfare activists protesting at his research methods; 
+Dr Lynda Birke, biologist, teacher at Lancaster and Warwick Universities, and previously worked for 7 years in animal behaviour at the Open University.
 #Physics
 
 first_broadcast_date: "1999-03-18T09:02:00Z"

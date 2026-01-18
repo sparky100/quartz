@@ -10,9 +10,7 @@ Melvyn Bragg and guests discuss Anarchism and why its political ideas became syn
 
 With
 John Keane, Professor of Politics at Westminster University; 
-
 Ruth Kinna, Senior Lecturer in Politics at Loughborough University; 
-
 Peter Marshall, philosopher and historian.
 
 first_broadcast_date: "2006-12-07T09:00:00Z"

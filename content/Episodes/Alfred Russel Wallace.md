@@ -11,9 +11,7 @@ Melvyn Bragg and his guests discuss the work of Alfred Russel Wallace, a pioneer
 With:
 
 Steve Jones, Emeritus Professor of Genetics at University College London
-
 George Beccaloni, Curator of Cockroaches and Related Insects and Director of the Wallace Correspondence Project at the Natural History Museum
-
 Ted Benton, Professor of Sociology at the University of Essex
 
 Producer: Thomas Morris.

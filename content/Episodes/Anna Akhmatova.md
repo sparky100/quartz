@@ -12,16 +12,9 @@ The image above is based on 'Portrait of Anna Akhmatova' by N.I. Altman, 1914, M
 
 With
 
-Katharine Hodgson
-Professor in Russian at the University of Exeter
-
-Alexandra Harrington
-Reader in Russian Studies at Durham University
-
-And
-
-Michael Basker
-Professor of Russian Literature and Dean of Arts at the University of Bristol
+Katharine Hodgson, Professor in Russian at the University of Exeter
+Alexandra Harrington, Reader in Russian Studies at Durham University
+Michael Basker, Professor of Russian Literature and Dean of Arts at the University of Bristol
 
 Producer: Simon Tillotson.
 

@@ -11,9 +11,7 @@ Alexander the Great is one of the most celebrated military commanders in history
 With:
 
 Paul Cartledge, Emeritus Professor of Greek Culture and AG Leventis Senior Research Fellow at Clare College, University of Cambridge
-
 Diana Spencer, Professor of Classics at the University of Birmingham
-
 Rachel Mairs,Lecturer in Classics at the University of Reading
 
 Producer: Victoria Brignell.

@@ -13,12 +13,10 @@ Setting his satire in an English farm, Orwell drew on the Russian Revolution of 
 
 At first, London publishers did not want to touch Orwell's work out of sympathy for the USSR, an ally of Britain in the Second World War, but the Cold War gave it a new audience and Animal Farm became a commercial as well as a critical success.
 
-Featuring:   
+With:   
 
 Steven Connor - Grace 2 Professor of English at the University of Cambridge
-
 Mary Vincent - Professor of Modern European History at the University of Sheffield
-
 Robert Colls - Professor of Cultural History at De Montfort University
 
 Producer: Simon Tillotson

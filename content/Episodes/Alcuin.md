@@ -14,11 +14,7 @@ The image above is Alcuin’s portrait, found in a copy of the Bible made at his
 With 
 
 Joanna Story, Professor of Early Medieval History at the University of Leicester
-
 Andy Orchard, Rawlinson and Bosworth Professor of Anglo-Saxon at the University of Oxford and a fellow of Pembroke College
-
-And  
-
 Mary Garrison, Lecturer in History at the Centre for Medieval Studies at the University of York
 
 Producer: Simon Tillotson
