@@ -10,14 +10,11 @@ Melvyn Bragg and his guests discuss the life and work of Al-Ghazali, a major phi
 
 With:
 
-Peter Adamson
-Professor of Late Ancient and Arabic Philosophy at the LMU in Munich
+Peter Adamson, Professor of Late Ancient and Arabic Philosophy at the LMU in Munich
 
-Carole Hillenbrand
-Professor of Islamic History at Edinburgh and St Andrews Universities
+Carole Hillenbrand, Professor of Islamic History at Edinburgh and St Andrews Universities
 
-Robert Gleave
-Professor of Arabic Studies at the University of Exeter
+Robert Gleave, Professor of Arabic Studies at the University of Exeter
 
 Producer: Victoria Brignell.
 

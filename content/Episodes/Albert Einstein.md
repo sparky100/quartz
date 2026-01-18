@@ -10,20 +10,15 @@ Melvyn Bragg and guests discuss the man who, in 1905, produced several papers th
 
 With 
 
-Richard Staley
-Professor in History and Philosophy of Science at the University of Cambridge and Professor in History of Science at the University of Copenhagen
+Richard Staley, Professor in History and Philosophy of Science at the University of Cambridge and Professor in History of Science at the University of Copenhagen
 
-Diana Kormos Buchwald
-Robert M. Abbey Professor of History and Director and General Editor of The Einstein Papers Project at the California Institute of Technology
+Diana Kormos Buchwald, Robert M. Abbey Professor of History and Director and General Editor of The Einstein Papers Project at the California Institute of Technology
 
 And
 
-John Heilbron 
-Professor Emeritus at the University of California, Berkeley
+John Heilbron, Professor Emeritus at the University of California, Berkeley
 
 Producer: Simon Tillotson
-
-
 
 Reading list: 
 

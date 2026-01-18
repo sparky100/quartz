@@ -10,16 +10,12 @@ Melvyn Bragg and guests discuss Alan Turing (1912-1954) whose 1936 paper On Comp
 
 With
 
-Leslie Ann Goldberg
-Professor of Computer Science and Fellow of St Edmund Hall, University of Oxford
+Leslie Ann Goldberg, Professor of Computer Science and Fellow of St Edmund Hall, University of Oxford
 
-Simon Schaffer
-Professor of the History of Science at the University of Cambridge and Fellow of Darwin College
+Simon Schaffer, Professor of the History of Science at the University of Cambridge and Fellow of Darwin College
 
 And 
-
-Andrew Hodges
-Biographer of Turing and Emeritus Fellow of  Wadham College, Oxford
+Andrew Hodges, Biographer of Turing and Emeritus Fellow of  Wadham College, Oxford
 
 Producer: Simon Tillotson
 

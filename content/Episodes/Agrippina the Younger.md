@@ -10,14 +10,11 @@ Agrippina the Younger was one of the most notorious and influential of the Roman
 
 With:
 
-Catharine Edwards
-Professor of Classics and Ancient History at Birkbeck, University of London
+Catharine Edwards, Professor of Classics and Ancient History at Birkbeck, University of London
 
-Alice König
-Lecturer in Latin and Classical Studies at the University of St Andrews
+Alice König, Lecturer in Latin and Classical Studies at the University of St Andrews
 
-Matthew Nicholls
-Associate Professor of Classics at the University of Reading
+Matthew Nicholls, Associate Professor of Classics at the University of Reading
 
 Producer: Victoria Brignell.
 
