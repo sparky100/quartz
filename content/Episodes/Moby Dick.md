@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the most popular idea sent in by list
 
 Melvyn Bragg and guests discuss Herman Melville's (1819-1891) epic novel, published in London in 1851, the story of Captain Ahab's pursuit of a great white sperm whale that had bitten off his leg. He risks his own life and that of his crew on the Pequod, single-mindedly seeking his revenge, his story narrated by Ishmael who was taking part in a whaling expedition for the first time. This is one of the c1000 ideas which listeners sent in this autumn for our fourth Listener Week, following Kafka's The Trial in 2014, Captain Cook in 2015 and Garibaldi and the Risorgimento in 2016.
 
+
 With 
 
 Bridget Bennett

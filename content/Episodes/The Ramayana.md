@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the Ramayana, the ancient Hindu epic which is re
 
 Written in Sanskrit, it tells the story of the legendary prince and princess Rama and Sita, and the many challenges, misfortunes and choices that they face. About 24,000 verses long, the Ramayana is also one of the longest ancient epics. It’s a text that’s been hugely influential and it continues to be popular in India and elsewhere in Asia.
  
+
 With 
 
 Jessica Frazier

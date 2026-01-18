@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Sophocles' tragedy of an autocrat who
 
 Melvyn Bragg and guests discuss what is reputedly the most performed of all Greek tragedies. Antigone, by Sophocles (c496-c406 BC), is powerfully ambiguous, inviting the audience to reassess its values constantly before the climax of the play resolves the plot if not the issues. Antigone is barely a teenager and is prepared to defy her uncle Creon,  the new king of Thebes, who has decreed that nobody should bury the body of her brother, a traitor, on pain of death.  This sets up a conflict between  generations, between the state and the individual, uncle and niece, autocracy and pluralism, and it releases an enormous tragic energy that brings sudden death to Antigone, her fiance Haemon who is also Creon's son, and to Creon's wife Eurydice, while Creon himself is condemned to a living death of grief.
 
+
 With
 
 Edith Hall

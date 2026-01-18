@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Charles Dickens."
 
 To celebrate Melvyn Bragg’s 27 years presenting In Our Time, five well-known fans of the programme have chosen their favourite episodes. The singer Joan Armatrading has selected the episode about Charles Dickens and recorded an introduction to it. (This introduction will be available on BBC Sounds and the In Our Time webpage shortly after the broadcast and will be longer than the version broadcast on Radio 4). Dickens is best known for the strength of his plots and the richness of his characters but he can also be regarded as a political writer. Some have seen him as a social reformer of great persuasiveness, as a man who sought through satire to expose the powerful and privileged, and whose scenes moved decision-makers to make better decisions. George Bernard Shaw said of Dickens’ novel Little Dorrit that it was “more seditious than Das Kapital”. Others argue that, although Dickens was a great caricaturist, he was really a conservative at heart. 
 
+
 With 
 
 Rosemary Ashton 

@@ -13,6 +13,7 @@ This was the starting point for a body of work that changed the terms in which p
 
 A leading student of the philosopher Ludwig Wittgenstein, Anscombe combined his insights with rejuvenated interpretations of Aristotle and Thomas Aquinas that made these ancient figures speak to modern issues and concerns. Anscombe was also instrumental in making action, and the question of what it means to intend to do something, a leading area of philosophical work.  
 
+
 With 
 
 Rachael Wiseman, Senior Lecturer in Philosophy at the University of Liverpool

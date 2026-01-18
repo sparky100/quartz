@@ -9,6 +9,7 @@ Melvyn Bragg and guests explore typology, a method of biblical interpretation th
 
 This way of thinking became hugely popular in medieval Europe, Renaissance England and Victorian Britain, as Christians sought to make sense of their Jewish inheritance - sometimes rejecting that inheritance with antisemitic fervour. It was a way of seeing human history as part of a divine plan, with ancient events prefiguring more modern ones, and it influenced debates about the relationship between metaphor and reality in the bible, in literature, and in art. It also influenced attitudes towards reality, time and history.   
 
+
 With
 
 Miri Rubin, Professor of Medieval and Early Modern History at Queen Mary, University of London

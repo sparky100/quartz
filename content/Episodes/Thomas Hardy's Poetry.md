@@ -5,9 +5,12 @@ subtitle: "Thomas Hardy's Poetry"
 synopsis: "Melvyn Bragg and guests discuss Hardy's goal of being a great poet and how he succeeded."
 ---
 
-After 27 years, Melvyn Bragg has decided to step down from the In Our Time presenter’s chair. With over a thousand episodes to choose from, he has selected just six that capture the huge range and depth of the subjects he and his experts have tackled. In this second of his choices, we hear Melvyn Bragg and his guests discuss one of his favourite poets.
+After 27 years, Melvyn Bragg has decided to step down from the In Our Time presenter’s chair.
+
+With over a thousand episodes to choose from, he has selected just six that capture the huge range and depth of the subjects he and his experts have tackled. In this second of his choices, we hear Melvyn Bragg and his guests discuss one of his favourite poets.
 
 Their topic is Thomas Hardy (1840 -1928) and his commitment to poetry, which he prized far above his novels.  In the 1890s, once he had earned enough from his fiction, Hardy stopped writing novels altogether and returned to the poetry he had largely put aside since his twenties.  He hoped that he might be ranked one day alongside Shelley and Byron, worthy of inclusion in a collection such as Palgrave's Golden Treasury which had inspired him. Hardy kept writing poems for the rest of his life, in different styles and metres, and he explored genres from nature,  to war, to epic.  Among his best known are what he called his Poems of 1912 to 13, responding to his grief at the death of his first wife, Emma (1840 -1912), who he credited as the one who had made it possible for him to leave his work as an architect's clerk and to write the novels that made him famous.
+
 
 With
 

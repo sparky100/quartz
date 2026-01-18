@@ -7,6 +7,7 @@ synopsis: "Why two brothers became linked to the fall of the Roman Republic and 
 
 Melvyn Bragg and guests discuss the brothers Tiberius and Gaius Gracchus whose names are entwined with the end of Rome's Republic and the rise of the Roman Emperors. As tribunes, they brought popular reforms to the Roman Republic at the end of the 2nd century BC. Tiberius (c163-133BC) brought in land reform so every soldier could have his farm, while Gaius (c154-121BC) offered cheap grain for Romans and targeted corruption among the elites. Those elites saw the reforms as such a threat that they had the brothers killed: Tiberius in a shocking murder led by the Pontifex Maximus, the high priest, in 133BC and Gaius 12 years later with the senate's approval. This increase in political violence was to destabilise the Republic, forever tying the Gracchi to the question of why Rome’s Republic gave way to the Rome of Emperors.
 
+
 With
 
 Catherine Steel

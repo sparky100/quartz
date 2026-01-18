@@ -5,7 +5,10 @@ subtitle: "The Hanseatic League"
 synopsis: "Melvyn Bragg and guests discuss the medieval trading network the Hanseatic League."
 ---
 
-Melvyn Bragg and guests discuss the Hanseatic League or Hansa which dominated North European trade in the medieval period. With a trading network that stretched from Iceland to Novgorod via London and Bruges, these German-speaking Hansa merchants benefitted from tax exemptions and monopolies. Over time, the Hansa became immensely influential as rulers felt the need to treat it well. Kings and princes sometimes relied on loans from the Hansa to finance their wars and an embargo by the Hansa could lead to famine. Eventually, though, the Hansa went into decline with the rise in the nation state’s power, greater competition from other merchants and the development of trade across the Atlantic. 
+Melvyn Bragg and guests discuss the Hanseatic League or Hansa which dominated North European trade in the medieval period.
+
+With a trading network that stretched from Iceland to Novgorod via London and Bruges, these German-speaking Hansa merchants benefitted from tax exemptions and monopolies. Over time, the Hansa became immensely influential as rulers felt the need to treat it well. Kings and princes sometimes relied on loans from the Hansa to finance their wars and an embargo by the Hansa could lead to famine. Eventually, though, the Hansa went into decline with the rise in the nation state’s power, greater competition from other merchants and the development of trade across the Atlantic. 
+
 
 With
 

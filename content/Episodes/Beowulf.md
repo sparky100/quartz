@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the epic Anglo-Saxon poem Beowulf
 
 Melvyn Bragg and his guests discuss the epic poem Beowulf, one of the masterpieces of Anglo-Saxon literature. Composed in the early Middle Ages by an anonymous poet, the work tells the story of a Scandinavian hero whose feats include battles with the fearsome monster Grendel and a fire-breathing dragon. It survives in a single manuscript dating from around 1000 AD, and was almost completely unknown until its rediscovery in the nineteenth century. Since then it has been translated into modern English by writers including William Morris, JRR Tolkien and Seamus Heaney, and inspired poems, novels and films.
 
+
 With:
 
 Laura Ashe

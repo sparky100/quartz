@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the celebrated French novelist, her l
 
 Melvyn Bragg and guests discuss the works and life of one of the most popular writers in Europe in C19th, Amantine Lucile Aurore Dupin (1804-1876) who wrote under the name George Sand. When she wrote her first novel under that name, she referred to herself as a man. This was in Indiana (1832), which had the main character breaking away from her unhappy marriage.  It made an immediate impact as it overturned the social conventions of the time and it drew on her own early marriage to an older man, Casimir Dudevant. Once Sand's identity was widely known, her works became extremely popular in French and in translation, particularly her rural novels, outselling Hugo and Balzac in Britain, perhaps buoyed by an interest in her personal life, as well as by her ideas on the rights and education of women and strength of her writing.
 
+
 With 
 
 Belinda Jack

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Roman emperor Constantine the Gre
 
 Melvyn Bragg and guests discuss the life, reputation and impact of Constantine I, known as Constantine the Great (c280s -337AD). Born in modern day Serbia and proclaimed Emperor by his army in York in 306AD, Constantine became the first Roman Emperor to profess Christianity. He legalised Christianity and its followers achieved privileges that became lost to traditional religions, leading to the steady Christianisation of the Empire. He built a new palace in Byzantium, renaming it Constantinople, as part of the decentralisation of the Empire, an Eastern shift that saw Roman power endure another thousand years there, long after the collapse of the empire in the West. 
 
+
 With 
 
 Christopher Kelly

@@ -11,6 +11,7 @@ Malory died shortly after his release in 1470 and it was to be another fifteen y
 
 The Arthurian legend is one of the most enduring and popular in western literature and its characters - Sir Lancelot, Guinevere, Merlin and King Arthur himself, are as well-known today as they were then; and the book's themes - chivalry, betrayal, love and honour - remain as compelling.
 
+
 With: 
 
 Helen Cooper 

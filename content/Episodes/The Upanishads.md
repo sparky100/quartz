@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss the Upanishads, the ancient sacred texts of 
 
 Yet the Upanishads go beyond incantations performed during sacrifices, and ask profound questions about human existence and man's place in the cosmos. The concepts of Brahman (the universal cosmic power) and Atman (the deeper soul of the individual) are central to the understanding of the Upanishads. Each individual treatise has its own character. Some are poetic; some are scientific; others are dialogues between kings and sages or metaphysical reflections. More than one hundred Upanishads were produced, thirteen of which are regarded as the canonical scriptures of Hinduism.
 
+
 With:
 
 Jessica Frazier

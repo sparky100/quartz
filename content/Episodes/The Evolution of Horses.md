@@ -7,6 +7,7 @@ synopsis: "Discussion of the origin, migration, extinction and domestication of 
 
 Melvyn Bragg and guests discuss the origins of horses, from their dog sized ancestors to their proliferation in the New World until hunted to extinction, their domestication in Asia and their development since. The genetics of the modern horse are the most studied of any animal, after humans, yet it is still uncertain why they only have one toe on each foot when their wider family had more, or whether speed or stamina has been more important in their evolution.  What is clear, though, is that when humans first chose to ride horses, as well as eat them, the future of both species changed immeasurably.
 
+
 With 
 
 Alan Outram

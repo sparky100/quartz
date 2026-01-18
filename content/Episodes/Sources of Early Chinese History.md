@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the sources for early Chinese his
 
 Melvyn Bragg and his guests discuss the sources for early Chinese history. The first attempts to make a record of historical events in China date from the Shang dynasty of the second millennium BC. The earliest surviving records were inscribed on bones or tortoise shells; in later centuries, chroniclers left detailed accounts on paper or silk. In the last hundred years, archaeologists have discovered a wealth of new materials, including a cache of previously unknown texts which were found in a sealed cave on the edge of the Gobi Desert. Such sources are are shedding new light on Chinese history, although interpreting ancient sources from the period before the invention of printing presents a number of challenges.
 
+
 With:
 
 Roel Sterckx

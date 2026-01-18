@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss one of the most important philosopher
 
 Melvyn Bragg and guests discuss one of the most significant philosophers of the twentieth century,  Philippa Foot (1920 - 2010).  Her central question was, “Why be moral?”  Drawing on Aristotle and Aquinas, Foot spent her life working through her instinct that there was something lacking in the prevailing philosophy of the 1950s and 1960s which held that values could only be subjective. Could there really be no objective response to the horrors of the concentration camps that she had seen on newsreels, no way of saying that such acts were morally wrong? Foot developed an ethics based on virtues, in which humans needed virtues to flourish as surely as plants needed light and water. While working through her ideas she explored applied ethics and the difference between doing something and letting it happen, an idea she illustrated with what became The Trolley Problem.
 
+
 With 
 
 Anil Gomes

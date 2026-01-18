@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss John Rawls' influential ideas on libe
 
 Melvyn Bragg and guests discuss A Theory of Justice by John Rawls (1921 - 2002) which has been called the most influential book in twentieth century political philosophy. It was first published in 1971.  Rawls (pictured above)  drew on his own experience in WW2 and saw the chance in its aftermath to build a new society, one founded on personal liberty and fair equality of opportunity.  While in that just society there could be inequalities, Rawls’ radical idea was that those inequalities must be to the greatest advantage not to the richest but to the worst off.  
 
+
 With
 
 Fabienne Peter

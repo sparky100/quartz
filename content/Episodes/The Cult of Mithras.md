@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss the cult of Mithras, a mystery religion that
 
 Followers of Mithras are thought to have taken part in various rituals, most notably communal meals and a complex seven-stage initiation system. Typical depictions of Mithras show him being born from a rock, enjoying food with the sun god Sol and stabbing a bull. Mithraic places of worship have been found throughout the Roman world, including an impressive example in London. However, Mithraism went into decline in the 4th century AD with the rise of Christianity and eventually completely disappeared. In recent decades, many aspects of the cult have provoked debate, especially as there are no written accounts by its members. As a result, archaeology has been of great importance in the study of Mithraism and has provided new insights into the religion and its adherents. 
 
+
 With:
 
 Greg Woolf

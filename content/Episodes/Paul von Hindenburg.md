@@ -7,6 +7,7 @@ synopsis: "How the cult of personality around this German WWI figurehead helped 
 
 Melvyn Bragg and guests discuss the life and role of one of the most significant figures in early 20th Century German history. Paul von Hindenburg (1847-1934) had been famous since 1914 as the victorious commander at the Battle of Tannenberg against Russian invaders, soon burnishing this fame on the Western Front and Hindenburg was to claim he would have won there too, if enemies at home had not 'stabbed Germany in the back'.  He won Germany’s Presidential election twice during the Weimar Republic, as a candidate of national unity and, while he gained his second term as a ‘stop Hitler’ candidate, President Hindenburg was to appoint Hitler as Chancellor and transfer some of his charisma onto him – a move so disastrous that Germans were later to ask if the myth of Hindenburg had always been an illusion. 
 
+
 With
 
 Anna von der Goltz

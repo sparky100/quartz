@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the events behind and impact of Picas
 
 Melvyn Bragg and guests discuss the context and impact of Pablo Picasso's iconic work, created soon after the bombing on 26th April 1937 that obliterated much of the Basque town of Guernica, and its people. The attack was carried out by warplanes of the German Condor Legion, joined by the Italian air force, on behalf of Franco's Nationalists. At first the Nationalists denied responsibility, blaming their opponents for creating the destruction themselves for propaganda purposes, but the accounts of journalists such as George Steer, and the prominence of Picasso's work, kept the events of that day under close scrutiny. Picasso's painting has gone on to become a symbol warning against the devastation of war.
 
+
 With 
 
 Mary Vincent

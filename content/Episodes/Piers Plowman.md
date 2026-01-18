@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss William Langland's celebrated poem, w
 
 Melvyn Bragg and guests discuss William Langland's poem, written around 1370, about a man called Will who fell asleep on the Malvern Hills and dreamed of Piers the Plowman. This was a time between the Black Death and The Peasants’ Revolt, when Christians wanted to save their souls but doubted how best to do it - and had to live with that uncertainty. Some call this the greatest medieval poem in English, one offering questions not answers, and it can be as unsettling now as it was then.
 
+
 With
 
 Laura Ashe

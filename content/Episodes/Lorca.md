@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Spanish poet and playwright's wor
 
 Melvyn Bragg and guests discuss the Spanish poet and playwright Federico Garcia Lorca (1898-1936), author of Blood Wedding, Yerma and The House of Bernarda Alba, who mixed the traditions of Andalusia with the avant-garde.  He found his first major success with his Gypsy Ballads, although Dali, once his close friend, mocked him for these, accusing Lorca of being too conservative.  He preferred performing his poems to publishing them, and his plays marked a revival in Spanish theatre.  He was captured and killed by Nationalist forces at the start of the Civil War, his body never recovered, and it's been suggested this was punishment for his politics and for being openly gay.  He has since been seen as the most important Spanish playwright and poet of the last century.
 
+
 With
 
 Maria Delgado

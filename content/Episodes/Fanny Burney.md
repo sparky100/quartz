@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the work of the 18th-century writ
 
 Melvyn Bragg and his guests discuss the life and work of the 18th-century novelist, playwright and diarist Fanny Burney, also known as Madame D'Arblay and Frances Burney. Her first novel, Evelina, was published anonymously and caused a sensation, attracting the admiration of many eminent contemporaries. In an era when very few women published their work she achieved extraordinary success, and her admirers included Dr Johnson and Edmund Burke; later Virginia Woolf called her 'the mother of English fiction'.
 
+
 With 
 
 Nicole Pohl

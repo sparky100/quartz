@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the 1691 peace treaty that ended the Williamite 
 
 The image above is from  British Battles on Land and Sea, Vol. I, by James Grant, 1880, and is meant to show Irish troops leaving Limerick as part of The Flight of the Wild Geese - a term used for soldiers joining continental European armies from C16th-C18th.
 
+
 With 
 
 Jane Ohlmeyer

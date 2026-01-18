@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the discovery of penicillin."
 
 Melvyn Bragg and guests discuss penicillin, discovered by Alexander Fleming in 1928. It is said he noticed some blue-green penicillium mould on an uncovered petri dish at his hospital laboratory, and that this mould had inhibited bacterial growth around it. After further work, Fleming filtered a broth of the mould and called that penicillin, hoping it would be useful as a disinfectant. Howard Florey and Ernst Chain later shared a Nobel Prize in Medicine with Fleming, for their role in developing a way of mass-producing the life-saving drug. Evolutionary theory predicted the risk of resistance from the start and, almost from the beginning of this 'golden age' of antibacterials, scientists have been looking for ways to extend the lifespan of antibiotics.
 
+
 With
 
 Laura Piddock

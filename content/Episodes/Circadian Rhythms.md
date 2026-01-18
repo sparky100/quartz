@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss circadian rhythms."
 
 Melvyn Bragg and his guests discuss the evolution and role of Circadian Rhythms, the so-called body clock that influences an organism's daily cycle of physical, behavioural and mental changes. The rhythms are generated within organisms and also in response to external stimuli, mainly light and darkness. They are found throughout the living world, from bacteria to plants, fungi to animals and, in humans, are noticed most clearly in sleep patterns. 
 
+
 With
 
 Russell Foster

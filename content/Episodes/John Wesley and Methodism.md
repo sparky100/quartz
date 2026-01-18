@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Wesley's role in the rise of Methodis
 
 Melvyn Bragg and guests discuss John Wesley (1703 - 1791) and the movement he was to lead and inspire.  As a student, he was mocked for approaching religion too methodically  and this jibe gave a name to the movement: Methodism.   Wesley took his ideas out across Britain wherever there was an appetite for Christian revival, preaching in the open, especially the new industrial areas.  Others spread Methodism too, such as George Whitefield, and the sheer energy of the movement led to splits within it, but it soon became a major force. 
 
+
 With 
 
 Stephen Plant

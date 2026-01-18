@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the life and reputation of Julius
 
 Melvyn Bragg and his guests discuss the life, work and reputation of Julius Caesar. Famously assassinated as he entered the Roman senate on the Ides of March, 44 BC, Caesar was an inspirational general who conquered much of Europe. He was a ruthless and canny politician who became dictator of Rome, and wrote The Gallic Wars, one of the most admired and studied works of Latin literature. Shakespeare is one of many later writers to have been fascinated by the figure of Julius Caesar.
 
+
 With:
 
 Christopher Pelling

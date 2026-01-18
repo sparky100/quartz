@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the work of the pioneering scient
 
 Melvyn Bragg and his guests discuss the life and work of Robert Boyle, a pioneering scientist and a founder member of the Royal Society. Born in Ireland in 1627, Boyle was one of the first natural philosophers to conduct rigorous experiments, laid the foundations of modern chemistry and derived Boyle's Law, describing the physical properties of gases. In addition to his experimental work he left a substantial body of writings about philosophy and religion; his piety was one of the most important factors in his intellectual activities, prompting a celebrated dispute with his contemporary Thomas Hobbes.
 
+
 With:
 
 Simon Schaffer

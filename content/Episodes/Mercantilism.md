@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss how,  between the 16th and 18th centuries, Europ
 
 For more than 300 years, almost every ruler and political thinker was a mercantilist. Eventually, economists including Adam Smith, in his ground-breaking work of 1776 The Wealth of Nations, declared that mercantilism was a flawed concept and it became discredited. However, a mercantilist economic approach can still be found in modern times and today’s politicians sometimes still use rhetoric related to mercantilism.  
 
+
 With
 
 D’Maris Coffman

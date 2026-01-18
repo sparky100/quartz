@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Physiocrats, important French
 
 Melvyn Bragg and his guests discuss the Physiocrats, an important group of economic thinkers in eighteenth-century France. The Physiocrats believed that the land was the ultimate source of all wealth, and crucially that markets should not be constrained by governments. Their ideas were important not just to economists but to the course of politics in France. Later they influenced the work of Adam Smith, who called Physiocracy "perhaps the nearest approximation to the truth that has yet been published upon the subject of political economy."
 
+
 With:
 
 Richard Whatmore

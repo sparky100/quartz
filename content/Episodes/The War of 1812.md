@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss the War of 1812, the conflict between Americ
  
 Although the War of 1812 is often overlooked, historians say it had a profound effect on the USA and Canada's sense of national identity, confirming the USA as an independent country. America's national anthem, The Star-Spangled Banner began life as a poem written after its author, Francis Scott Key, witnessed the British bombardment of Fort McHenry during the Battle of Baltimore. The war also led to Native Americans losing hundreds of thousands of acres of land in a programme of forced removal.
  
+
 With:
  
 Kathleen Burk

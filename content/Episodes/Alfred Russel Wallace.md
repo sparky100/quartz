@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the work of the biologist Alfred 
 
 Melvyn Bragg and his guests discuss the work of Alfred Russel Wallace, a pioneer of evolutionary theory. Born in 1823, Wallace travelled extensively, charting the distribution of animal species throughout the world. This fieldwork in the Amazon and later the Malay Archipelago led him to formulate a theory of evolution through natural selection. In 1858 he sent the paper he wrote on the subject to Charles Darwin, who was spurred into the writing and publication of his own masterpiece On the Origin of Species. Wallace was also the founder of the science of biogeography and made important discoveries about the nature of animal coloration. But despite his visionary work, Wallace has been overshadowed by the greater fame of his contemporary Darwin.
 
+
 With:
 
 Steve Jones

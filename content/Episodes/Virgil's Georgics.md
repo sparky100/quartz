@@ -12,6 +12,7 @@ They’re from his poem the Georgics, a detailed account of farming life in the 
 
 It’s exerted a profound influence on European writing about agriculture and rural life, and has much to offer environmental thinking today. 
 
+
 With 
 
 Katharine Earnshaw 

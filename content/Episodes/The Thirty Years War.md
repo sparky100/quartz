@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the war in Europe which begain in 1618 and conti
 
 The image above is a detail from a painting of The Battle of White Mountain on 7-8 November 1620, by Pieter Snayers (1592-1667)
 
+
 With
 
 Peter Wilson

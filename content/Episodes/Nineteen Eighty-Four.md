@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Orwell's novel on totalitarianism, tr
 
 Melvyn Bragg and guests discuss George Orwell's (1903-1950) final novel, published in 1949, set in a dystopian London which is now found in Airstrip One, part of the totalitarian superstate of Oceania which is always at war and where the protagonist, Winston Smith, works at the Ministry of Truth as a rewriter of history: 'Who controls the past,' ran the Party slogan, 'controls the future: who controls the present controls the past.' The influence of Orwell's novel is immeasurable, highlighting threats to personal freedom with concepts he named such as doublespeak, thoughtcrime, Room 101, Big Brother, memory hole and thought police.
 
+
 With 
 
 David Dwan

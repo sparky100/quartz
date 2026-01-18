@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss one of our ancestors, Homo erectus, who thrived 
 
 The image above is from a diorama at the Moesgaard Museum in Denmark, depicting the Turkana Boy referred to in the programme. 
 
+
 With 
 
 Peter Kjærgaard

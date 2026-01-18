@@ -11,6 +11,7 @@ Copyright protects and regulates a piece of work - whether that's a book, a pain
  
 Writers and artists such as Alexander Pope, William Hogarth and Charles Dickens became involved in heated debates about ownership and originality that continue to this day - especially with the emergence of artificial intelligence.
  
+
 With:
 
 Lionel Bently, Herchel Smith Professor of Intellectual Property Law at the University of Cambridge

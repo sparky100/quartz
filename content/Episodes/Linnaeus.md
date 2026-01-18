@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the life, ideas and legacy of the pioneering Swe
 
 The son of a parson, Linnaeus grew up in an impoverished part of Sweden but managed to gain a place at university. He went on to transform biology by making two major innovations. He devised a simpler method of naming species and he developed a new system for classifying plants and animals, a system that became known as the Linnaean hierarchy. He was also one of the first people to grow a banana in Europe. 
 
+
 With
 
 Staffan Muller-Wille

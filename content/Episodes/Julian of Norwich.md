@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the medieval anchoress and her Revela
 
 Melvyn Bragg and guests discuss the anchoress and mystic who, in the late fourteenth century, wrote about her visions of Christ suffering, in a work since known as Revelations of Divine Love.  She is probably the first named woman writer in English, even if questions about her name and life remain open. Her account is an exploration of the meaning of her visions and is vivid and bold, both in its imagery and theology. From her confined cell in a Norwich parish church, in a land beset with plague, she dealt with the nature of sin and with the feminine side of God,  and shared the message she received that God is love and, famously, that all shall be well and all manner of things shall be well.
 
+
 With
 
 Katherine Lewis

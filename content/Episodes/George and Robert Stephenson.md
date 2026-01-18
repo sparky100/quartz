@@ -9,6 +9,7 @@ In a programme first broadcast on April 12th 2018, Melvyn Bragg and guests discu
 
 Robert is credited with the main role in the design of their locomotives. George had worked on stationary colliery steam engines and, with Robert, developed the moving steam engine Locomotion No1 for the Stockton and Darlington Railway in 1825. They produced the Rocket for the Rainhill Trials on the Liverpool and Manchester Railway in 1829. From there, the success of their designs and engineering led to the expansion of railways across Britain and around the world. 
 
+
 with 
 
 Dr Michael Bailey

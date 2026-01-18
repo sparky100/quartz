@@ -8,6 +8,7 @@ synopsis: "Melvyn Bragg and guests discuss the astonishing poet at the heart of 
 Melvyn Bragg and guests discuss  'the greatest poet of his age', Thomas Wyatt (1503 -1542), who brought the poetry of the Italian Renaissance into the English Tudor world, especially the sonnet, so preparing the way for Shakespeare and Donne.  As an ambassador to Henry VIII and, allegedly, too close to Anne Boleyn, he experienced great privilege under intense scrutiny.  Some of Wyatt's poems, such as They Flee From Me That Sometime Did Me Seek, are astonishingly fresh and conversational and yet he wrote them under the tightest constraints, when a syllable out of place could have condemned him to the Tower. 
 
 
+
 With 
 
 Brian Cummings

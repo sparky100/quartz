@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss complexity theory."
 
 Melvyn Bragg and his guests discuss complexity and how it can help us understand the world around us. When living beings come together and act in a group, they do so in complicated and unpredictable ways: societies often behave very differently from the individuals within them. Complexity was a phenomenon little understood a generation ago, but research into complex systems now has important applications in many different fields, from biology to political science. Today it is being used to explain how birds flock, to predict traffic flow in cities and to study the spread of diseases.
 
+
 With:
 
 Ian Stewart

@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the role of slavery in the Roman world, from its
 
 The system became so entrenched that no-one appeared to question it, following Aristotle's view that slavery was a natural state. Whole populations could be marched into slavery after military conquests, and the freedom that Roman citizens prized for themselves, even in poverty, was partly defined by how it contrasted with enslavement. Slaves could be killed or tortured with impunity, yet they could be given great responsibility and, once freed, use their contacts to earn fortunes. The relationship between slave and master informed early Christian ideas of how the faithful related to God, informing debate for centuries.
 
+
 With
 
 Neville Morley

@@ -11,6 +11,7 @@ Inside each cell of every complex organism there are structures known as mitocho
 
 Mitochondria are essential for complex life, but as the components that run our metabolisms they can also be responsible for a range of diseases – and they probably play a role in how we age. The DNA in mitochondria is only passed down the maternal line. This means it can be used to trace population movements deep into human history, even back to an ancestor we all share: mitochondrial Eve. 
 
+
 With 
 
 Mike Murphy

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss one of the greatest theoretical physi
 
 Melvyn Bragg and guests discuss the theoretical physicist Dirac (1902-1984), whose achievements far exceed his general fame. To his peers, he was ranked with Einstein and, when he moved to America in his retirement, he was welcomed as if he were Shakespeare. Born in Bristol, he trained as an engineer before developing theories in his twenties that changed the understanding of quantum mechanics, bringing him a Nobel Prize in 1933 which he shared with Erwin Schrödinger.  He continued to make deep contributions, bringing abstract maths to physics, beyond predicting anti-particles as he did in his Dirac Equation.
 
+
 With 
 
 Graham Farmelo

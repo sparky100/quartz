@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Mary Magdalene, one of the best-known
 
 Mary Magdalene is one of the best-known figures in the Bible and has been a frequent inspiration to artists and writers over the last 2000 years. According to the New Testament, she was at the foot of the cross when Jesus was crucified and was one of the first people to see Jesus after the resurrection. However, her identity has provoked a large amount of debate and in the Western Church she soon became conflated with two other figures mentioned in the Bible, a repentant sinner and Mary of Bethany. Texts discovered in the mid-20th century provoked controversy and raised further questions about the nature of her relations with Jesus.
 
+
 With:
 
 Joanne Anderson

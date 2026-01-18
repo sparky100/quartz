@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Arab philosopher Al-Kindi."
 
 Melvyn Bragg and his guests discuss the life and work of the Arab philosopher al-Kindi. Born in the early ninth century, al-Kindi was heavily influenced by Greek philosophy and supervised the translation of many works by Aristotle and others into Arabic. The author of more than 250 works, he wrote on many different subjects, from optics to mathematics, music and astrology. He was the first significant thinker to argue that philosophy and Islam had much to offer each other and need not be kept apart. Today al-Kindi is regarded as one of the greatest scholars of the medieval Islamic world.
 
+
 With:
 
 Hugh Kennedy

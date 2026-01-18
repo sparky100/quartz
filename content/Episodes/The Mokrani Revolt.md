@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss a major Algerian uprising against Fre
 
 Melvyn Bragg and guests discuss the revolt that broke out in 1871 in Algeria against French rule, spreading over hundreds of miles and countless towns and villages before being brutally suppressed.  It began with the powerful Cheikh Mokrani and his family and was taken up by hundreds of thousands, becoming the last major revolt there before Algeria’s war of independence in 1954.  In the wake of its swift suppression though came further waves of French migrants to settle on newly confiscated lands, themselves displaced by French defeat in Europe and the loss of Alsace-Lorraine, and their arrival only increased tensions. The Mokrani Revolt came to be seen as a watershed between earlier Ottoman rule and full national identity, an inspiration to nationalists in the 1950s.
 
+
 With
 
 Natalya Benkhaled-Vince

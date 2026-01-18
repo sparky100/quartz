@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss some of the greatest and most challen
 
 To celebrate Melvyn Bragg’s 27 years presenting In Our Time, some well-known fans of the programme have chosen their favourite episodes. Historian and broadcaster Simon Schama has selected the episode on Shakespeare’s Sonnets and recorded an introduction to it. (This introduction will be available on BBC Sounds and the In Our Time webpage shortly after the broadcast and will be longer than the one broadcast on Radio 4). In 1609 Thomas Thorpe published a collection of poems entitled Shakespeare’s Sonnets, “never before imprinted”.  Yet, while some of Shakespeare's other poems and many of his plays were often reprinted in his lifetime, the Sonnets were not a publishing success.  They had to make their own way, outside the main canon of Shakespeare’s work: wonderful, troubling, patchy, inspiring and baffling, and they have appealed in different ways to different times.  Most are addressed to a man, something often overlooked and occasionally concealed; one early and notorious edition even changed some of the pronouns. 
 
+
 With:
 
 Hannah Crawforth

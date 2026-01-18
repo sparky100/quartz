@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the story of Tristan and Iseult."
 
 Melvyn Bragg and guests discuss Tristan and Iseult, one of the most popular stories of the Middle Ages. From roots in Celtic myth, it passed into written form in Britain a century after the Norman Conquest and almost immediately spread throughout northern Europe. It tells of a Cornish knight and an Irish queen, Tristan and Iseult, who accidentally drink a love potion, at the same time, on the same boat, travelling to Cornwall. She is due to marry Tristan's king, Mark. Tristan and Iseult seemed ideally matched and their love was heroic, but could that excuse their adultery, in the minds of medieval listeners, particularly when the Church was so clear they were wrong?
 
+
 With
 
 Laura Ashe

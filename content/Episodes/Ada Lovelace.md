@@ -11,6 +11,7 @@ Melvyn Bragg and guests discuss the 19th century mathematician Ada Lovelace.  De
 
 Ada Lovelace has been called many things - the first computer programmer and a prophet of the computer age – but most poetically perhaps by Babbage himself as an ‘enchantress of numbers’.
 
+
 With  Patricia Fara, Senior Tutor at Clare College, Cambridge; Doron Swade, Visiting Professor in the History of Computing at Portsmouth University; John Fuegi, Visiting Professor in Biography at Kingston University.
 #Mathematics
 

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the great Portuguese poet and his man
 
 Melvyn Bragg and guests discuss the Portuguese poet Pessoa (1888-1935) who was largely unknown in his lifetime but who, in 1994, Harold Bloom included in his list of the 26 most significant western writers since the Middle Ages.  Pessoa wrote in his own name but mainly in the names of characters he created, each with a distinctive voice and biography, which he called heteronyms rather than pseudonyms, notably Ricardo Reis, Alberto Caeiro, Álvaro de Campos and one who was closer to Pessoa's own identity, Bernardo Soares. Most of Pessoa's works were unpublished at his death, discovered in a trunk; as more and more was printed and translated, his fame and status grew.
 
+
 With
 
 Cláudia Pazos-Alonso

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the great Dutch painter of Sunflowers
 
 Melvyn Bragg and guests discuss the Dutch artist famous for starry nights and sunflowers, self portraits and simple chairs. These are images known the world over, and Vincent van Gogh (1853-1890) painted them and around 900 others in the last decade of his short, brilliant life and, famously, in that lifetime he made only one recorded sale.  Yet within a few decades after his death these extraordinary works, with all their colour and life, became the most desirable of all modern art, propelled in part by the story of Vincent van Gogh's struggle with mental health.
 
+
 With 
 
 Christopher Riopelle

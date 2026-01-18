@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss how the study of earthquakes helps re
 
 Melvyn Bragg and guests discuss the study of earthquakes. A massive earthquake in 1755 devastated Lisbon, and this disaster helped inspire a new science of seismology which intensified after San Francisco in 1906 and advanced even further with the need to monitor nuclear tests around the world from 1945 onwards.  While we now know so much more about what lies beneath the surface of the Earth, and how rocks move and crack, it remains impossible to predict when earthquakes will happen. Thanks to seismology, though, we have a clearer idea of where earthquakes will happen and how to make some of them less hazardous to lives and homes.
 
+
 With
 
 Rebecca Bell

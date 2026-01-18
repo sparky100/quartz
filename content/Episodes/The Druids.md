@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Druids of ancient Europe."
 
 Melvyn Bragg and his guests discuss the Druids, the priests of ancient Europe. Active in Ireland, Britain and Gaul, the Druids were first written about by Roman authors including Julius Caesar and Pliny, who described them as wearing white robes and cutting mistletoe with golden sickles. They were suspected of leading resistance to the Romans, a fact which eventually led to their eradication from ancient Britain. In the early modern era, however, interest in the Druids revived, and later writers reinvented and romanticised their activities. Little is known for certain about their rituals and beliefs, but modern archaeological discoveries have shed new light on them.
 
+
 With:
 
 Barry Cunliffe

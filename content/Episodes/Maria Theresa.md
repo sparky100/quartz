@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the woman who ruled Austria, shaking 
 
 Melvyn Bragg and guests discuss Maria Theresa (1717-1780) who inherited the Austrian throne in 1740 at the age of 23.  Her neighbours circled like wolves and, within two months, Frederick the Great had seized one of her most prized lands, Silesia, exploiting her vulnerability.  Yet over the next forty years through political reforms, alliances and marriages, she built Austria up into a formidable power, and she would do whatever it took to save the souls of her Catholic subjects, with a rigidity and intolerance that Joseph II, her son and heir, could not wait to challenge. 
 
+
 With
 
 Catriona Seth

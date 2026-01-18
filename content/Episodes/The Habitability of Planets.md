@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss ideas about where life may begin in t
 
 Melvyn Bragg and guests discuss some of the great unanswered questions in science: how and where did life on Earth begin, what did it need to thrive and could it be found elsewhere? Charles Darwin speculated that we might look for the cradle of life here in 'some warm little pond'; more recently the focus moved to ocean depths, while new observations in outer space and in laboratories raise fresh questions about  the potential for lifeforms to develop and thrive, or 'habitability' as it is termed. What was the chemistry needed for life to begin and is it different from the chemistry we have now? With that in mind, what signs of life should we be looking for in the universe to learn if we are alone?
 
+
 With 
 
 Jayne Birkby

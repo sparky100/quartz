@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the day in 1792 when the French Revol
 
 Melvyn Bragg and guests discuss one of the most consequential battles of recent centuries. On 20th September 1792 at Valmy, 120 miles to the east of Paris, the army of the French Revolution faced Prussians, Austrians and French royalists heading for Paris to free Louis XVI and restore his power and end the Revolution. The professional soldiers in the French army were joined by citizens singing the Marseillaise and their refusal to give ground prompted their opponents to retreat when they might have stayed and won. The French success was transformative. The next day, back in Paris, the National Convention abolished the monarchy and declared the new Republic.  Goethe, who was at Valmy, was to write that from that day forth began a new era in the history of the world.
 
+
 With 
 
 Michael Rowe

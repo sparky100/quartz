@@ -11,6 +11,7 @@ People from all walks of life bought shares in the South Sea Company, from serva
 
 But how did such a financial crisis develop and were there any lessons learnt following this early example of a stock market boom and bust?
 
+
 With:
 
 Anne Murphy

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the life and work of the Russian 
 
 Melvyn Bragg and his guests discuss the life and work of Anton Chekhov.  Born in 1860, Chekhov trained as a doctor and for most of his adult life divided his time between medicine and writing.  Best known for plays including The Cherry Orchard and Three Sisters, he is also celebrated today as one of the greatest of short story writers.  His works are often powerful character studies and chronicle the changing nature of Russian society in the late nineteenth century.
 
+
 With:
 
 Catriona Kelly

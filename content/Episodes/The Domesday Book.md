@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Domesday Book."
 
 Melvyn Bragg and his guests discuss the Domesday Book, a vast survey of the land and property of much of England and Wales completed in 1086. Twenty years after the Battle of Hastings, William the Conqueror sent officials to most of his new territories to compile a list of land holdings and to gather information about settlements, the people who lived there and even their farm animals. Almost without parallel in European history, the resulting document was of immense importance for many centuries, and remains a central source for medieval historians.
 
+
 With:
 
 Stephen Baxter

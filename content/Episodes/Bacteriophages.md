@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss how viruses can help us track and cur
 
 Melvyn Bragg and guests discuss the most abundant lifeform on Earth: the viruses that 'eat' bacteria.   Early in the 20th century, scientists noticed that something in their Petri dishes was making bacteria disappear and they called these bacteriophages, things that eat bacteria. From studying these phages, it soon became clear that they offered countless real or potential benefits for understanding our world, from the tracking of diseases to helping unlock the secrets of DNA to treatments for long term bacterial infections.  With further research, they could be an answer to the growing problem of antibiotic resistance.
 
+
 With 
 
 Martha Clokie

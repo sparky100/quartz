@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the influential English architect Joh
 
 Melvyn Bragg and guests discuss the architect Sir John Soane (1753 -1837), the son of a bricklayer. He rose up the ranks of his profession as an architect to see many of his designs realised to great acclaim, particularly the Bank of England and the Law Courts at Westminster Hall, although his work on both of those has been largely destroyed. He is now best known for his house in Lincoln’s Inn Fields in London, which he remodelled and crammed with antiquities and artworks: he wanted visitors to experience the house as a dramatic grand tour of Europe in microcosm. He became professor of architecture at the Royal Academy, and in a series of influential lectures he set out his belief in the power of buildings to enlighten people about “the poetry of architecture”. Visitors to the museum and his other works can see his trademark architectural features such as his shallow dome, which went on to inspire Britain's red telephone boxes.
 
+
 With: 
 
 Frances Sands, the Curator of Drawings and Books at Sir John Soane’s Museum

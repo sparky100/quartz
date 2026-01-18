@@ -9,6 +9,7 @@ This image: Joseph Mallord William Turner, The Fighting Temeraire, 1839 (c) The 
 
 Melvyn Bragg and guests discuss "The Fighting Temeraire", one of Turner's greatest works and the one he called his 'darling'. It shows one of the most famous ships of the age, a hero of Trafalgar, being towed up the Thames to the breakers' yard, sail giving way to steam. Turner displayed this masterpiece to a public which, at the time, was deep in celebration of the Temeraire era, with work on Nelson's Column underway, and it was an immediate success, with Thackeray calling the painting 'a national ode'.
 
+
 With 
 
 Susan Foister

@@ -5,7 +5,10 @@ subtitle: "Fungi"
 synopsis: "Melvyn Bragg and guests discuss fungi."
 ---
 
-Melvyn Bragg and guests discuss fungi. These organisms are not plants or animals but a kingdom of their own. Millions of species of fungi live on the Earth and they play a crucial role in ecosystems, enabling plants to obtain nutrients and causing material to decay. Without fungi, life as we know it simply would not exist. They are also a significant part of our daily life, making possible the production of bread, wine and certain antibiotics. Although fungi brought about the colonisation of the planet by plants about 450 million years ago, some species can kill humans and devastate trees. 
+Melvyn Bragg and guests discuss fungi. These organisms are not plants or animals but a kingdom of their own. Millions of species of fungi live on the Earth and they play a crucial role in ecosystems, enabling plants to obtain nutrients and causing material to decay.
+
+Without fungi, life as we know it simply would not exist. They are also a significant part of our daily life, making possible the production of bread, wine and certain antibiotics. Although fungi brought about the colonisation of the planet by plants about 450 million years ago, some species can kill humans and devastate trees. 
+
 
 With:
 

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the scientific achievements of th
 
 Melvyn Bragg and his guests discuss the scientific achievements of the Curie family. In 1903 Marie and Pierre Curie shared a Nobel Prize in Physics with Henri Becquerel for their work on radioactivity, a term which Marie coined. Marie went on to win a Nobel in Chemistry eight years later; remarkably, her daughter Irène Joliot-Curie would later share a Nobel with her husband Frédéric Joliot-Curie for their discovery that it was possible to create radioactive materials in the laboratory. The work of the Curies added immensely to our knowledge of fundamental physics and paved the way for modern treatments for cancer and other illnesses.
 
+
 With:
 
 Patricia Fara

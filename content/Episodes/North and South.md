@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Elizabeth Gaskell's novel North and S
 
 Melvyn Bragg and guests discuss Elizabeth Gaskell's novel North and South, published in 1855 after serialisation in Dickens' Household Words magazine. It is the story of Margaret Hale, who was raised in the South in the New Forest and London's Harley Street, and then moves North to a smokey mill town, Milton, in Darkshire. As well as Margaret's emotional life and her growing sense of independence, the novel explores the new ways of living thrown up by industrialisation, and the relationships between 'masters and men'. Many of Margaret Hale's experiences echo Gaskell's own life, as she was born in Chelsea and later moved to Manchester, and the novel has become valued for its insights into social conflicts and the changing world in which Gaskell lived.
 
+
 With 
 
 Sally Shuttleworth

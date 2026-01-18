@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the geological theory of Catastro
 
 Melvyn Bragg and his guests discuss Catastrophism, the idea that natural disasters have had a significant influence in moulding the Earth's geological features. In 1822 William Buckland, the first reader of Geology at the University of Oxford, published his famous Reliquae Diluvianae, in which he ascribed most of the fossil record to the effects of Noah's flood. Charles Lyell in his Principles of Geology challenged these writings, arguing that geological change was slow and gradual, and that the processes responsible could still be seen at work today - a school of thought known as Uniformitarianism. But in the 1970s the idea that natural catastrophes were a major factor in the Earth's geology was revived and given new respectability by the discovery of evidence of a gigantic asteroid impact 65 million years ago, believed by many to have resulted in the extinction of the dinosaurs.
 
+
 With:
 
 Andrew Scott

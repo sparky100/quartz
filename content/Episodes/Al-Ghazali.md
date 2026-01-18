@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the medieval Islamic thinker Al-G
 
 Melvyn Bragg and his guests discuss the life and work of Al-Ghazali, a major philosopher and theologian of the late 11th century. Born in Persia, he was one of the most prominent intellectuals of his age, working in such centres of learning as Baghdad, Damascus and Jerusalem. He is now seen as a key figure in the development of Islamic thought, not just refining the theology of Islam but also building on the existing philosophical tradition inherited from the ancient Greeks.
 
+
 With:
 
 Peter Adamson

@@ -7,6 +7,7 @@ synopsis: "How Korea embraced modernisation at the end of the 19th Century in a 
 
 Melvyn Bragg and guests discuss Korea's brief but significant period as an empire as it moved from the 500-year-old dynastic Joseon monarchy towards modernity. It was in October 1897 that King Gojong declared himself Emperor, seizing his chance when the once-dominant China lost to Japan in the First Sino-Japanese War. The king wanted to have the same status as the neighbouring Russian, Chinese and Japanese Emperors, to shore up a bid for Korean independence and sovereignty when the world’s major powers either wanted to open Korea up to trade or to colonise it.  The Korean Empire lasted only thirteen years, yet it was a time of great transformation for this state and the whole region with lasting consequences in the next century…
 
+
 With 
 
 Nuri Kim

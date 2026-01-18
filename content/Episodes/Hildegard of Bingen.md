@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the medieval writer and mystic Hi
 
 Melvyn Bragg and his guests discuss one of the most remarkable figures of the Middle Ages, Hildegard of Bingen. The abbess of a Benedictine convent, Hildegard experienced a series of mystical visions which she documented in her writings. She was an influential person in the religious world and much of her extensive correspondence with popes, monarchs and other important figures survives. Hildegard was also celebrated for her wide-ranging scholarship, which as well as theology covered the natural world, science and medicine. Officially recognised as a saint by the Catholic Church in 2012, Hildegard is also one of the earliest known composers. Since their rediscovery in recent decades her compositions have been widely recorded and performed.
 
+
 With:
 
 Miri Rubin

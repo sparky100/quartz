@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Aristophanes' comedy in which a sex s
 
 Melvyn Bragg and guests discuss Aristophanes' comedy in which the women of Athens and Sparta, led by Lysistrata, secure peace in the long-running war between them by staging a sex strike.  To the men in the audience in 411BC, the idea that peace in the Peloponnesian War could be won so easily was ridiculous and the thought that their wives could have so much power over them was even more so.  However Aristophanes' comedy also has the women seizing the treasure in the Acropolis that was meant to fund more fighting in an emergency, a fund the Athenians had recently had to draw on. They were in a perilous position and, much as they might laugh at Aristophanes' jokes, they knew there were real concerns about the actual cost of the war in terms of wealth and manpower. 
 
+
 With
 
 Paul Cartledge

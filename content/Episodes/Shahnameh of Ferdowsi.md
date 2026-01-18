@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss the epic poem the Shahnameh of Ferdowsi, the
 
 The Shahnameh took Ferdowsi thirty years to write and, consisting of over 50,000 verses, is said to be the longest poem ever written by a single author. Laced with tragedy, Ferdowsi's epic chronicles battles, romances, family rifts and Man's interior struggle with himself. Although the stories may not always be true they have a profound resonance with Iranians even today, and the poem has been referred to as both the 'encyclopaedia of Iranian culture' and the identity card of the Persian people. 
 
+
 With:
 
 Narguess Farzad 

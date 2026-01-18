@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Heisenberg's key role at the outset o
 
 Melvyn Bragg and guests discuss the German physicist who, at the age of 23 and while still a student, effectively created quantum mechanics for which he later won the Nobel Prize.  Werner Heisenberg made this breakthrough in a paper in 1925 when, rather than starting with an idea of where atomic particles were at any one time, he worked backwards from what he observed of atoms and their particles and the light they emitted, doing away with the idea of their continuous orbit of the nucleus and replacing this with equations. This was momentous and from this flowed what’s known as his Uncertainty Principle, the idea that, for example, you can accurately measure the position of an atomic particle or its momentum, but not both.
 
+
 With 
 
 Fay Dowker

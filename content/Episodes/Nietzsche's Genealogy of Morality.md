@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Nietzsche's On The Genealogy of Moral
 
 Melvyn Bragg and guests discuss Nietzsche's On The Genealogy of Morality - A Polemic, which he published in 1887 towards the end of his working life and in which he considered the price humans have paid, and were still paying, to become civilised. In three essays, he argued that having a guilty conscience was the price of living in society with other humans. He suggested that Christian morality, with its consideration for others, grew as an act of revenge by the weak against their masters, 'the blond beasts of prey', as he calls them, and the price for that slaves' revolt was endless self-loathing. These and other ideas were picked up by later thinkers, perhaps most significantly by Sigmund Freud who further explored the tensions between civilisation and the individual.
 
+
 With
 
 Stephen Mulhall

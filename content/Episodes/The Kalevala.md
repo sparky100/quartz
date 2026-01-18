@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the epic poem that helped build the F
 
 Melvyn Bragg and guests discuss the Finnish epic poem that first appeared in print in 1835 in what was then the Grand Duchy of Finland, part of the Russian Empire and until recently part of Sweden.  The compiler of this epic was a doctor, Elias Lönnrot (1802-1884), who had travelled the land to hear traditional poems about mythical heroes being sung in Finnish, the language of the peasantry, and writing them down in his own order to create this landmark work. In creating The Kalevala, Lönnrot helped the Finns realise they were a distinct people apart from Sweden and Russia, who deserved their own nation state and who came to demand independence, which they won in 1917.  
 
+
 With 
 
 Riitta Valijärvi

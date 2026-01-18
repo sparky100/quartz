@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the speeches that became a byword for fierce att
 
 The image above is painted on the dome of the library of the National Assembly, Paris and is by Eugene Delacroix (1798-1863).  It depicts Demosthenes haranguing the waves of the sea as a way of strengthening his voice for his speeches.
 
+
 With 
 
 Paul Cartledge

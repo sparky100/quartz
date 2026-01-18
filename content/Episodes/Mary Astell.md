@@ -9,6 +9,7 @@ The philosopher Mary Astell (1666 – 1731) has been described as “the first E
 
 The image above is from Astell's "Reflections upon Marriage", 3rd edition, 1706, held by the British Library (Shelfmark 8415.bb.27)
 
+
 With:
 
 Hannah Dawson 

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Flavius Josephus, author of The Jewis
 
 It is said that, in Britain from the 18th Century, copies of Josephus' works were as widespread and as well read as The Bible. Christians valued "The Antiquities of the Jews" in particular, for the retelling of parts of the Old Testament and apparently corroborating the historical existence of Jesus. Born Joseph son of Matthias, in Jerusalem, in 37AD, he fought the Romans in Galilee in the First Jewish-Roman War. He was captured by Vespasian's troops and became a Roman citizen, later describing the siege and fall of Jerusalem. His actions and writings made him a controversial figure, from his lifetime to the present day.
 
+
 With
 
 Tessa Rajak

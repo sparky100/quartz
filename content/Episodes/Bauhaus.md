@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the Bauhaus which began in 1919 in Weimar, Germa
 
 The image above is of the Bauhaus Building, Dessau, designed by Gropius and built in 1925-6
 
+
 With
 
 Robin Schuldenfrei

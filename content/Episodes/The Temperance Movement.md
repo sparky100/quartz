@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the momentum behind teetotalism in 19th Century 
 
 The image above, which appeared in The Teetotal Progressionist in 1852, is an example of the way in which images contained many points of temperance teaching, and is © Copyright Livesey Collection at the University of Central Lancashire.
  
+
 With
 
 Annemarie McAllister

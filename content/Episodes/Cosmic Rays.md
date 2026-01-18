@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss cosmic rays."
 
 Melvyn Bragg and his guests discuss cosmic rays. In 1912 the physicist Victor Hess discovered that the Earth is under constant bombardment from radiation coming from outside our atmosphere. These so-called cosmic rays have been known to cause damage to satellites and electronic devices on Earth, but most are absorbed by our atmosphere. The study of cosmic rays and their effects has led to major breakthroughs in particle physics. But today physicists are still trying to establish where these highly energetic subatomic particles come from.
 
+
 With:
 
 Carolin Crawford

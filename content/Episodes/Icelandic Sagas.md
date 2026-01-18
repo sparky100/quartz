@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Icelandic sagas."
 
 Melvyn Bragg and his guests discuss the Icelandic Sagas. First written down in the 13th century, the sagas tell the stories of the Norse settlers of Iceland, who began to arrive on the island in the late 9th century. They contain some of the richest and most extraordinary writing of the Middle Ages, and often depict events known to have happened in the early years of Icelandic history, although there is much debate as to how much of their content is factual and how much imaginative. Full of heroes, feuds and outlaws, with a smattering of ghosts and trolls, the sagas inspired later writers including Sir Walter Scott, William Morris and WH Auden.
 
+
 With:
 
 Carolyne Larrington

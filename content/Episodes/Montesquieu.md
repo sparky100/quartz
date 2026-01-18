@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss republicanism, despotism and the sepa
 
 Melvyn Bragg and guests discuss the ideas of Charles-Louis de Secondat, Baron de La Brède et de Montesquieu (1689-1755) whose works on liberty, monarchism, despotism, republicanism and the separation of powers were devoured by intellectuals across Europe and New England in the eighteenth century, transforming political philosophy and influencing the American Constitution. He argued that an individual's liberty needed protection from the arm of power, checking that by another power; where judicial, executive and legislative power were concentrated in the hands of one figure, there could be no personal liberty. 
 
+
 With 
 
 Richard Bourke

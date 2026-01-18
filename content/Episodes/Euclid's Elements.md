@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Elements of Euclid."
 
 Melvyn Bragg and guests discuss Euclid's Elements, a mathematical text book attributed to Euclid and in use from its appearance in Alexandria, Egypt around 300 BC until modern times, dealing with geometry and number theory. It has been described as the most influential text book ever written. Einstein had a copy as a child, which he treasured, later saying "If Euclid failed to kindle your youthful enthusiasm, then you were not born to be a scientific thinker."
 
+
 With 
 
 Marcus du Sautoy

@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the Czech educator Jan Amos Komenský (1592-1670
 
 The image above is from a portrait of Comenius by Jürgen Ovens, 1650 - 1670, painted while he was living in Amsterdam and held in the Rikjsmuseum
 
+
 With
 
 Vladimir Urbanek

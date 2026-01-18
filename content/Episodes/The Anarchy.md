@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss The Anarchy, the civil war that took place i
 
 The Anarchy dragged on for nearly twenty years and is so called because of the chaos and lawlessness that characterised the period. Yet only one major battle ever took place, the Battle of Lincoln in 1141, and any other fighting associated with the conflict was fairly localised. This has led historians to question the accuracy of labelling the civil war as The Anarchy, a name only bestowed on the era in the 19th century. But why did Matilda fail to become the monarch, and what impact did it have on the way England was ruled in centuries to come?
 
+
 With: 
 
 John Gillingham

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the doctrine on how you answer for yo
 
 Melvyn Bragg and guests discuss the doctrine of Karma as developed initially among Hindus, Jains and Buddhists in India from the first millennium BCE.  Common to each is an idea, broadly, that you reap what you sow: how you act in this world has consequences either for your later life or your future lives, depending on your view of rebirth and transmigration.  From this flow different ideas including those about free will, engagement with the world or disengagement, the nature of ethics and whether intention matters, and these ideas continue to develop today.
 
+
 With 
 
 Monima Chadha

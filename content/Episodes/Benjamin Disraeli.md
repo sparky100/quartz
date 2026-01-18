@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss one of the most prominent Victorian p
 
 Melvyn Bragg and guests discuss one of the major figures in Victorian British politics. Disraeli (1804 -1881) served both as Prime Minister twice and, for long periods, as leader of the opposition. Born a Jew, he was only permitted to enter Parliament as his father had him baptised into the Church of England when he was twelve. Disraeli was a gifted orator and, outside Parliament, he shared his views widely through several popular novels including Sybil or The Two Nations, which was to inspire the idea of One Nation Conservatism.  He became close to Queen Victoria and she mourned his death with a primrose wreath, an event marked for years after by annual processions celebrating his life in politics.
 
+
 With
 
 Lawrence Goldman

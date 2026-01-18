@@ -5,9 +5,12 @@ subtitle: "Zeno's Paradoxes"
 synopsis: "Does an arrow in flight move and could Achilles overtake a tortoise? Not according to Zeno"
 ---
 
-After 27 years, Melvyn Bragg has decided to step down from the In Our Time presenter’s chair. With over a thousand episodes to choose from, he has selected just six that capture the huge range and depth of the subjects he and his experts have tackled. In this third of his choices, we hear Melvyn Bragg and his guests discuss Greek philosophy.
+After 27 years, Melvyn Bragg has decided to step down from the In Our Time presenter’s chair.
+
+With over a thousand episodes to choose from, he has selected just six that capture the huge range and depth of the subjects he and his experts have tackled. In this third of his choices, we hear Melvyn Bragg and his guests discuss Greek philosophy.
 
 Their topic is Zeno of Elea, a pre-Socratic philosopher from c490-430 BC whose paradoxes were described by Bertrand Russell as "immeasurably subtle and profound." The best known argue against motion, such as that of an arrow in flight which is at a series of different points but moving at none of them, or that of Achilles who, despite being the faster runner, will never catch up with a tortoise with a head start. Aristotle and Aquinas engaged with these, as did Russell, yet it is still debatable whether Zeno's Paradoxes have been resolved.
+
 
 With 
 

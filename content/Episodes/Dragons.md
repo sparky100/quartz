@@ -11,6 +11,7 @@ Sometimes compared to snakes, alligators, lions and even dinosaurs, dragons have
 
 They are often portrayed as terrifying but sometimes appear as sacred and even benign creatures, and they continue to populate our cultural fantasies through blockbuster films, TV series and children’s books. 
 
+
 With:
 
 Kelsey Granger, Post Doctoral Researcher in Chinese History at the University of Edinburgh

@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss why the potato crop failures in the 1840s had su
 
 The image above is from The Illustrated London News, Dec. 29, 1849, showing a scalp or shelter, "a hole, surrounded by pools, and three sides of the scalp  were dripping with water, which ran in small streams over the floor and out by the entrance. The poor inhabitants said they would be thankful  if the landlord would leave them there, and the Almighty would spare their lives. Its principal tenant is Margaret Vaughan."
 
+
 With 
 
 Cormac O'Grada

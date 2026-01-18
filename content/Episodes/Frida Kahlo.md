@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Frida Kahlo."
 
 Born near Mexico City in 1907, Frida Kahlo is considered one of Mexico's greatest artists. She took up painting after a bus accident left her severely injured, was a Communist, married Diego Rivera, a celebrated muralist, became friends with Trotsky and developed an iconic series of self-portraits. Her work brings together elements such as surrealism, pop culture, Aztec and Indian mythology and commentary on Mexican culture. In 1938, artist and poet Andre Breton organised an exhibition of her work in New York, writing in the catalogue, "The Art of Frida Kahlo is a ribbon around a bomb." She was not as widely appreciated during her lifetime as she has since become, but is now one of the most recognised artists of the 20th century. 
 
+
 With
 
 Patience Schell

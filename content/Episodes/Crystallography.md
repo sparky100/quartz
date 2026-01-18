@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss the history of crystallography, the study of
 
 The history of crystallography began with the work of Johannes Kepler in the 17th century, but perhaps the most crucial leap in understanding came with the work of the father-and-son team the Braggs in 1912. They built on the work of the German physicist Max von Laue who had proved that X-rays are a form of light waves and that it was possible to scatter these rays using a crystal. The Braggs undertook seminal experiments which transformed our perception of crystals and their atomic arrangements, and led to some of the most significant scientific findings of the last century - such as revealing the structure of DNA. 
 
+
 With:
 
 Judith Howard

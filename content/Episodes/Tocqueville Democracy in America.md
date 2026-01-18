@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Alexis de Tocqueville's analysis of A
 
 Melvyn Bragg and guests discuss Alexis de Tocqueville (1805-1859) and his examination of the American democratic system. He wrote De La Démocratie en Amérique in two parts, published in 1835 and 1840, when France was ruled by the July Monarchy of Louis-Philippe. Tocqueville was interested in how aspects of American democracy, in the age of President Andrew Jackson, could be applied to Europe as it moved away from rule by monarchs and aristocrats. His work has been revisited by politicians ever since, particularly in America, with its analysis of the strengths and weaknesses of direct democracy and its warnings of mediocrity and the tyranny of the majority.
 
+
 With
 
 Robert Gildea

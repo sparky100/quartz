@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss the life of the prominent 19th-century socia
 
 Later in life she became a follower of theosophy, a belief system bringing together elements of Hinduism, Buddhism and other Eastern religions. She moved to India, its main base, and took on a leading role in the Indian self-rule movement, being appointed the first female president of the Indian National Congress in 1917. 
 
+
 With: 
 
 Lawrence Goldman

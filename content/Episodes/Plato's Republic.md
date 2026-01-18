@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss one of the great works of political a
 
 Is it always better to be just than unjust? That is the central question of Plato's Republic, discussed here by Melvyn Bragg and guests. Writing in c380BC, Plato applied this question both to the individual and the city-state, considering earlier and current forms of government in Athens and potential forms, in which the ideal city might be ruled by philosophers. The Republic is arguably Plato's best known and greatest work, a dialogue between Socrates and his companions, featuring the allegory of the cave and ideas about immortality of the soul, the value of poetry to society, and democracy's vulnerability to a clever demagogue seeking tyranny.
 
+
 With 
 
 Angie Hobbs

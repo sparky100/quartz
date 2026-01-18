@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss William Blake's Songs of Innocence an
 
 Melvyn Bragg and guests discuss William Blake's collection of illustrated poems "Songs of Innocence and of Experience." He published Songs of Innocence first in 1789 with five hand-coloured copies and, five years later, with additional Songs of Experience poems and the explanatory phrase "Shewing the Two Contrary States of the Human Soul." Blake drew on the street ballads and improving children's rhymes of the time, exploring the open and optimistic outlook of early childhood with the darker and more cynical outlook of adult life, in which symbols such as the Lamb belong to innocence and the Tyger to experience.
 
+
 With
 
 Sir Jonathan Bate

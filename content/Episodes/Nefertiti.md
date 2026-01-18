@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the life and impact of ancient Egypt'
 
 Melvyn Bragg and guests discuss the woman who inspired one of the best known artefacts from ancient Egypt. The Bust of Nefertiti is multicoloured and symmetrical, about 49cm/18" high and, despite the missing left eye, still holds the gaze of onlookers below its tall, blue, flat topped headdress. Its discovery in 1912 in Amarna was kept quiet at first but its display in Berlin in the 1920s caused a sensation, with replicas sent out across the world.  Ever since, as with Tutankhamun perhaps, the concrete facts about Nefertiti herself have barely kept up with the theories, the legends and the speculation, reinvigorated with each new discovery. 
 
+
 With
 
 Aidan Dodson

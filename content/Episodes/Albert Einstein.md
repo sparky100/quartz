@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Einstein's astonishing impact on theo
 
 Melvyn Bragg and guests discuss the man who, in 1905, produced several papers that were to change the world of physics and whose name went on to become a byword for genius. This was Albert Einstein, then still a technical expert at a Swiss patent office, and that year of 1905 became known as his annus mirabilis ('miraculous year').  While Einstein came from outside the academic world, some such as Max Planck championed his theory of special relativity, his principle of mass-energy equivalence that followed, and his explanations of Brownian Motion and the photoelectric effect.  Yet it was not until 1919, when a solar eclipse proved his theory that gravity would bend light, that Einstein became an international celebrity and developed into an almost mythical figure.
 
+
 With 
 
 Richard Staley

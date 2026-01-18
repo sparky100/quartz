@@ -6,10 +6,9 @@ synopsis: Melvyn Bragg and guests discuss Aesop, legendary author of the famous 
 tags:
   - Literature
 ---
-
 Melvyn Bragg and guests discuss Aesop. According to some accounts, Aesop was a strikingly ugly slave who was dumb until granted the power of speech by the goddess Isis. In stories of his life he's often found outwitting his masters using clever wordplay, but he's best known today as the supposed author of a series of fables that are some of the most enduringly popular works of Ancient Greek literature. Some modern scholars question whether he existed at all, but the body of work that has come down to us under his name gives us a rare glimpse of the popular culture of the Ancient World.
 
-WITH
+WIth
 
 Pavlos Avlamis, Junior Research Fellow in Classics at Trinity College at the University of Oxford
 

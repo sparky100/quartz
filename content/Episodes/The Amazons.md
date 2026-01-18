@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Amazons, formidable female warrio
 
 Melvyn Bragg and his guests discuss the Amazons, a tribe of formidable female warriors first described in Greek literature. They appear in the Homeric epics and were described by Herodotus, and featured prominently in the decoration of Greek vases and public buildings. In later centuries, particularly in the Renaissance, the Amazons became a popular theme of literature and art. After the discovery of the New World, the largest river in South America was named the Amazon, since the warlike tribes inhabiting the river's margins reminded Spanish pioneers of the warriors of classical myth.
 
+
 With:
 
 Paul Cartledge

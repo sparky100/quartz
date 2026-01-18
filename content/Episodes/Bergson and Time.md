@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Henri Bergson's ideas about our exper
 
 Melvyn Bragg and guests discuss the French philosopher Henri Bergson (1859-1941) and his ideas about human experience of time passing and how that differs from a scientific measurement of time, set out in his thesis on 'Time and Free Will' in 1889.  He became famous in France and abroad for decades, rivalled only by Einstein and, in the years after the Dreyfus Affair, was the first ever Jewish member of the Académie Française.  It's thought his work influenced Proust and Woolf, and the Cubists. He died in 1941 from a cold which, reputedly, he caught while queuing to register as a Jew, refusing the Vichy government's offer of exemption.
 
+
 With
 
 Keith Ansell-Pearson

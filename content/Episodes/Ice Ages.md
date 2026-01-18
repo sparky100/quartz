@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss ice ages."
 
 Jane Francis, Richard Corfield and Carrie Lear join Melvyn Bragg to discuss ice ages, periods when a reduction in the surface temperature of the Earth has resulted in ice sheets at the Poles. Although the term 'ice age' is commonly associated with prehistoric eras when much of northern Europe was covered in ice, we are in fact currently in an ice age which began up to 40 million years ago. Geological evidence indicates that there have been several in the Earth's history, although their precise cause is not known. Ice ages have had profound effects on the geography and biology of our planet.
 
+
 With:
 
 Jane Francis

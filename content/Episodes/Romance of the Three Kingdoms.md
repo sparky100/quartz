@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Chinese book Romance of the T
 
 Melvyn Bragg and his guests discuss the Romance of the Three Kingdoms, widely regarded as one of the greatest works of Chinese literature. Written 600 years ago, it is an historical novel that tells the story of a tumultuous period in Chinese history, the 2nd and 3rd centuries AD. Partly historical and partly legend, it recounts the fighting and scheming of the feudal lords and the three states which came to power as the Han Dynasty collapsed. The influence of Romance of the Three Kingdoms in East Asia has been likened to that of Homer in the West, and this warfare epic remains popular in China today.
 
+
 With:
 
 Frances Wood

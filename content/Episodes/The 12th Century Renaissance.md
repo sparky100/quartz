@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the changes in the intellectual world of Western
 
 The image above is part of Notre-Dame de la Belle-Verrière, Chartres Cathedral, from 1180.
 
+
 With
 
 Laura Ashe

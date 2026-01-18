@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Thomas Paine's pamphlet Common Sense,
 
 Melvyn Bragg and guests discuss Thomas Paine and his pamphlet "Common Sense" which was published in Philadelphia in January 1776 and promoted the argument for American independence from Britain. Addressed to The Inhabitants of America, it sold one hundred and fifty thousand copies in the first few months and is said, proportionately, to be the best-selling book in American history. Paine had arrived from England barely a year before. He vigorously attacked monarchy generally and George the Third in particular. He argued the colonies should abandon all hope of resolving their dispute with Britain and declare independence immediately. Many Americans were scandalised. More were inspired and, for Paine's vision of America's independent future, he has been called a Founding Father of the United States.
 
+
 With 
 
 Kathleen Burk

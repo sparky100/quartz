@@ -5,9 +5,12 @@ subtitle: "Garibaldi and the Risorgimento"
 synopsis: "Melvyn Bragg and guests discuss Garibaldi and the Risorgimento, for our Listener Week."
 ---
 
-Melvyn Bragg and guests discuss Giuseppe Garibaldi and the Italian Risorgimento. According to the historian AJP Taylor, Garibaldi was the only wholly admirable figure in modern history. Born in Nice in 1807, one of Garibaldi's aims in life was the unification of Italy and, in large part thanks to him, Italy was indeed united substantially in 1861 and entirely in 1870. With his distinctive red shirt and poncho, he was a hero of Romantic revolutionaries around the world. His fame was secured when, with a thousand soldiers, he invaded Sicily and toppled the monarchy in the Italian south. The Risorgimento was soon almost complete.
+Melvyn Bragg and guests discuss Giuseppe Garibaldi and the Italian Risorgimento. According to the historian AJP Taylor, Garibaldi was the only wholly admirable figure in modern history. Born in Nice in 1807, one of Garibaldi's aims in life was the unification of Italy and, in large part thanks to him, Italy was indeed united substantially in 1861 and entirely in 1870.
+
+With his distinctive red shirt and poncho, he was a hero of Romantic revolutionaries around the world. His fame was secured when, with a thousand soldiers, he invaded Sicily and toppled the monarchy in the Italian south. The Risorgimento was soon almost complete.
 
 This topic is the one chosen from over 750 different ideas suggested by listeners in October, for our yearly Listener Week.
+
 
 With
 

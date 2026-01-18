@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss slime mould, a basic organism that grows on logs
  
 But despite not having a brain, slime mould can solve complex problems: it can find the most efficient way round a maze and has been used to map Tokyo’s rail network. Researchers are using it to help find treatments for cancer, Parkinson's and Alzheimer's disease, and computer scientists have designed an algorithm based on slime mould behaviour to learn about dark matter. It’s even been sent to the international space station to help study the effects of weightlessness.
  
+
 With
 
 Jonathan Chubb

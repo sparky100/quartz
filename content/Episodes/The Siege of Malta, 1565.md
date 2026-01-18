@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the event of which Voltaire, two hundred years l
 
 The image above is the Death of Dragut at the Siege of Malta (1867), after a painting by Giuseppe Cali. Dragut (1485  1565) was an Ottoman Admiral and privateer, known as The Drawn Sword of Islam and as one of the finest generals of the time.
 
+
 With 
 
 Helen Nicholson

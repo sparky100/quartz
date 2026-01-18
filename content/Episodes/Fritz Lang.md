@@ -8,6 +8,7 @@ synopsis: "Melvyn Bragg and guests discuss a giant of cinema in Weimar Germany a
 Melvyn Bragg and guests discuss the Austrian-born film director Fritz Lang (1890-1976), who was one of the most celebrated film-makers of the 20th century. He worked first in Weimar Germany, creating  a range of films including the startling and subversive Mabuse the Gambler and the iconic but ruinously expensive Metropolis before arguably his masterpiece, M, with both the police and the underworld hunting for a child killer in Berlin, his first film with sound. The rise of the Nazis prompted Lang's move to Hollywood where he developed some of his Weimar themes in memorable and disturbing films such as Fury and The Big Heat. 
 
 
+
 With 
 
 Stella Bruzzi

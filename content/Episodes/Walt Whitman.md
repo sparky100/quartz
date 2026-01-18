@@ -17,6 +17,7 @@ The book was called Leaves of Grass. In it, Whitman set out to break away from E
 
 Leaves of Grass is full of verse that celebrates both the sovereign individual, and the deep fellowship between individuals. Its optimism about the American experience was challenged by the Civil War and its aftermath, but Whitman emerged as a celebrity and a key figure in the development of American culture.  
 
+
 With 
 
 Sarah Churchwell

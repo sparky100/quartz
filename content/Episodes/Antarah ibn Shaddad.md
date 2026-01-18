@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the poetry and context of this pre-Is
 
 Melvyn Bragg and guests discuss the life, works, context and legacy of Antarah (525-608AD), the great poet and warrior.  According to legend, he was born a slave; his mother was an Ethiopian slave, his father an elite Arab cavalryman.  Antarah won his freedom in battle and loved a woman called Abla who refused him, and they were later celebrated in the saga of Antar and Abla. One of Antarah's poems was so esteemed in pre-Islamic Arabia that it is believed it was hung up on the wall of the Kaaba in Mecca. 
 
+
 With 
 
 James Montgomery

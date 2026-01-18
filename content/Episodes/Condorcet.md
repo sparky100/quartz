@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss one of the last great figures of the 
 
 Melvyn Bragg and guests discuss Nicolas de Condorcet (1743-94), known as the Last of the Philosophes, the intellectuals in the French Enlightenment who sought to apply their learning to solving the problems of their world. He became a passionate believer in the progress of society, an advocate for equal rights for women and the abolition of the slave trade and for representative government. The French Revolution gave him a chance to advance those ideas and, while the Terror brought his life to an end, his wife Sophie de Grouchy 91764-1822) ensured his influence into the next century and beyond. 
 
+
 With
 
 Rachel Hammersley

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Talmud, a major text of rabbi
 
 Melvyn Bragg and his guests discuss the history and contents of the Talmud, one of the most important texts of Judaism. The Talmud was probably written down over a period of several hundred years, beginning in the 2nd century. It contains the authoritative text of the traditional Jewish oral law, and also an account of early Rabbinic discussion of, and commentary on, these laws. In later centuries scholars wrote important commentaries on these texts, which remain central to most strands of modern Judaism.
 
+
 With:
 
 Philip Alexander

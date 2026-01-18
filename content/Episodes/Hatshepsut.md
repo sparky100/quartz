@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the female Egyptian pharaoh Hatshepsu
 
 Melvyn Bragg and guests discuss the Egyptian pharaoh Hatshepsut, whose name means 'foremost of noble ladies'. She ruled Egypt from about 1479 - 1458 BC and some scholars argue that she was one of the most successful and influential pharaohs. When she came to the throne, Egypt was still recovering from a period of turbulence known as the Second Intermediate Period a few generations earlier. Hatshepsut reasserted Egyptian power by building up international trade and commissioned buildings considered masterpieces of Egyptian architecture. She also made significant changes to the ideology surrounding the pharaoh and the gods. However, following her death, her name was erased from the records and left out of ancient lists of Egyptian kings.
 
+
 With:
 
 Elizabeth Frood

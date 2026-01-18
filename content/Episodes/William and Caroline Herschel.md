@@ -5,7 +5,10 @@ subtitle: "William and Caroline Herschel"
 synopsis: "Melvyn Bragg and guests discuss the siblings at the forefront of 18th-century astronomy"
 ---
 
-Melvyn Bragg and guests discuss William Herschel (1738 – 1822) and his sister Caroline Herschel (1750 – 1848) who were born in Hanover and made their reputation in Britain. William was one of the most eminent astronomers in British history. Although he started life as a musician, as a young man he became interested in studying the night sky. With an extraordinary talent, he constructed telescopes that were able to see further and more clearly than any others at the time. He is most celebrated today for discovering the planet Uranus and detecting what came to be known as infrared radiation. Caroline also became a distinguished astronomer, discovering several comets and collaborating with her brother.
+Melvyn Bragg and guests discuss William Herschel (1738 – 1822) and his sister Caroline Herschel (1750 – 1848) who were born in Hanover and made their reputation in Britain. William was one of the most eminent astronomers in British history. Although he started life as a musician, as a young man he became interested in studying the night sky.
+
+With an extraordinary talent, he constructed telescopes that were able to see further and more clearly than any others at the time. He is most celebrated today for discovering the planet Uranus and detecting what came to be known as infrared radiation. Caroline also became a distinguished astronomer, discovering several comets and collaborating with her brother.
+
 
 With
 

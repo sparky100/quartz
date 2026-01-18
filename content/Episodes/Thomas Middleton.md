@@ -7,6 +7,7 @@ synopsis: "The prolific and versatile Jacobean playwright tasked with 'improving
 
 Melvyn Bragg and guests discuss one of the most energetic, varied and innovative playwrights of his time. Thomas Middleton (1580-1627) worked across the London stages both alone and with others from Dekker and Rowley to Shakespeare and more.  Middleton’s range included raucous city comedies such as A Chaste Maid in Cheapside and chilling revenge tragedies like The Changeling and The Revenger’s Tragedy, some with the main adult companies and some with child actors playing the scheming adults.  Middleton seemed to be everywhere on the Jacobean stage, mixing warmth and cruelty amid laughter and horror, and even Macbeth’s witches may be substantially his work.
 
+
 With
 
 Emma Smith

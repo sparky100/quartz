@@ -11,6 +11,7 @@ In the 1630s, Japan was ruled by the Tokagawa Shoguns, a military dynasty who, 3
 
 The central government’s response was merciless. They met the rebels with an army of 150 000 men, possibly the largest force assembled anywhere in the world during the Early Modern period. Once the rebellion had been suppressed, the Shogun enforced a ban on Christianity and expelled nearly all foreigners from the country. Japan remained more or less completely sealed off from the rest of the world for the next 250 years. 
 
+
 With 
 
 Satona Suzuki 

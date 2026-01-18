@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss how artists from the Middle Ages onwards have be
 
 The image of Judith, above is from a tapestry in the Duomo, Milan, by Giovanni or Nicola Carcher, 1555
 
+
 With 
 
 Susan Foister

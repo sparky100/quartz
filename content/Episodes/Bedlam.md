@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the early history of Bethlehem Hospit
 
 Melvyn Bragg and guests discuss the early years of Bedlam, the name commonly used for the London hospital of St Mary of Bethlehem outside Bishopsgate, described in 1450 by the Lord Mayor of London as a place where may "be found many men that be fallen out of their wit. And full honestly they be kept in that place; and some be restored onto their wit and health again. And some be abiding therein for ever." As Bethlem, or Bedlam, it became a tourist attraction in the 17th Century at its new site in Moorfields and, for its relatively small size, made a significant impression on public attitudes to mental illness. The illustration, above, is from the eighth and final part of Hogarth's 'A Rake's Progress' (1732-3), where Bedlam is the last stage in the decline and fall of a young spendthrift,Tom Rakewell.
 
+
 With 
 
 Hilary Marland

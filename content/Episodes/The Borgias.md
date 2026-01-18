@@ -10,6 +10,7 @@ Melvyn Bragg and his guests discuss the Borgias, the most notorious family in Re
 Murder, intrigue and power politics characterised their rule, but many of the stories now told about their depraved behaviour and evil ways emerged after their demise and gave rise to the so-called 'Black Legend'. The sullied reputation of the Borgia dynasty endures even today and their lives have provided a major theme for plays, novels and over forty films.
 
 
+
 With:
 
 Evelyn Welch

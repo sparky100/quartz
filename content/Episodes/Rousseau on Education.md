@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the ideas of Jean-Jacques Rousseau (1712-1778) o
 
 The image above is of Emile playing with a mask on his mother's lap, from a Milanese edition published in 1805.
 
+
 With 
 
 Richard Whatmore

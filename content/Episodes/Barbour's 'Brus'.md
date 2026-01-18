@@ -7,6 +7,7 @@ synopsis: "How the earliest poem in Older Scots framed the legend of Robert the 
 
 Melvyn Bragg and guests discuss John Barbour's epic poem The Brus, or Bruce, which he wrote c1375. The Brus is the earliest surviving poem in Older Scots and the only source of many of the stories of King Robert I of Scotland (1274-1329), popularly known as Robert the Bruce, and his victory over the English at Bannockburn in 1314.  In almost 14,000 lines of rhyming couplets, Barbour distilled the aspects of the Bruce’s history most relevant for his own time under Robert II (1316-1390), the Bruce's grandson and the first of the Stewart kings, when the mood was for a new war against England after decades of military disasters. Barbour’s battle scenes are meant to stir in the name of freedom, and the effect of the whole is to assert Scotland as the rightful equal of any power in Europe.
 
+
 With
 
 Rhiannon Purdie

@@ -11,6 +11,7 @@ In 1572 Brahe's observations of a new star challenged the idea, inherited from A
 
 The image above shows Brahe aged 40, from the Atlas Major by Johann Blaeu. 
 
+
 With 
 
 Ole Grell

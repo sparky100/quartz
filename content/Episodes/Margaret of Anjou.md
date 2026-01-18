@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss one of the most remarkable queens of the Middle 
 
 The image above is from the Talbot Shrewsbury Book, showing John Talbot, 1st Earl of Shrewsbury, presenting Margaret with that book on her betrothal to Henry
 
+
 With
 
 Katherine Lewis

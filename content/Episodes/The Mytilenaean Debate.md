@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Athenians' change of mind in the 
 
 Melvyn Bragg and guests discuss why Athenians decided to send a fast ship to Lesbos in 427BC,  rowing through the night to catch one they sent the day before. That earlier ship had instructions to kill all adult men in Mytilene, after their unsuccessul revolt against Athens, as a warning to others.  The later ship had orders to save them, as news of their killing would make others fight to the death rather than surrender.  Thucydides retells this in his History of the Peloponnesian War as an example of Athenian democracy in action, emphasising the right of Athenians to change their minds in their own interests, even when a demagogue argued they were bound by their first decision. 
 
+
 With
 
 Angela Hobbs

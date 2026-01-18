@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss one of the great novels of China’s Ming era, a
 
 The image above,  from the caricature series Yoshitoshi ryakuga or Sketches by Yoshitoshi, is of Monkey creating an army by plucking out his fur and blowing it into the air, and each hair becomes a monkey-warrior.
 
+
 With 
 
 Julia Lovell

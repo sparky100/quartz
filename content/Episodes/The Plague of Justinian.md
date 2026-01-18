@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the scale and impact of the plague th
 
 Melvyn Bragg and guests discuss the plague that broke out in Constantinople 541AD, in the reign of Emperor Justinian.  According to the historian Procopius, writing in Byzantium at the time, this was a plague by which the whole human race came near to being destroyed, embracing the whole world, and blighting the lives of all mankind.   The bacterium behind the Black Death has since been found on human remains from that time, and the symptoms described were the same, and evidence of this plague has since been traced around the Mediterranean and from Syria to Britain and Ireland.  The question of how devastating it truly was, though, is yet to be resolved.
 
+
 With 
 
 John Haldon

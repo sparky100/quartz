@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Weber's The Protestant Ethic and the 
 
 Melvyn Bragg and his guests discuss Max Weber's book the Protestant Ethic and the Spirit of Capitalism. Published in 1905, Weber's essay proposed that Protestantism had been a significant factor in the emergence of capitalism, making an explicit connection between religious ideas and economic systems. Weber suggested that Calvinism, with its emphasis on personal asceticism and the merits of hard work, had created an ethic which had enabled the success of capitalism in Protestant countries. Weber's essay has come in for some criticism since he published the work, but is still seen as one of the seminal texts of twentieth-century sociology.
 
+
 With:
 
 Peter Ghosh

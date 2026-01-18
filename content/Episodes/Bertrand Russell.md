@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss the influential British philosopher Bertrand
 
 In addition to his academic work, Russell played an active role in many social and political campaigns. He supported women's suffrage, was imprisoned for his pacifism during World War I and was a founder of the Campaign for Nuclear Disarmament. He wrote a number of books aimed at the general public, including The History of Western Philosophy which became enormously popular, and in 1950 he was awarded the Nobel Prize in Literature. Russell's many appearances on the BBC also helped to promote the public understanding of ideas.
 
+
 With: 
 
 AC Grayling

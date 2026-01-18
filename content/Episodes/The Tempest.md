@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss Shakespeare's play The Tempest. Written in a
 
 The Tempest is set entirely on an unnamed island inhabited by the magician Prospero, his daughter Miranda and the monstrous Caliban, one of the most intriguing characters in Shakespeare's output. Its themes include magic and the nature of theatre itself - and some modern critics have seen it as an early meditation on the ethics of colonialism.
 
+
 With:
 
 Jonathan Bate

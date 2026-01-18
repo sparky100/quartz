@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the goddess Lakshmi."
 
 Melvyn Bragg and guests discuss the origins of the Hindu goddess Lakshmi, and of the traditions that have built around her for over 3,000 years. According to the creation story of the Puranas, she came to existence in the churning of the ocean of milk. Her prominent status grew alongside other goddesses in the mainly male world of the Vedas, as female deities came to be seen as the Shakti, the energy of the gods, without which they would be powerless. Lakshmi came to represent the qualities of blessing, prosperity, fertility, beauty and good fortune and, more recently, political order, and she has a significant role in Diwali, one of the most important of the Hindu festivals. 
 
+
 With 
 
 Jessica Frazier

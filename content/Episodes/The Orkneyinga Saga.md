@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Saga of the Earls of Orkney up to
 
 Melvyn Bragg and guests discuss the Saga of the Earls of Orkney, as told in the 13th Century by an unknown Icelander. This was the story of arguably the most important, strategically, of all the islands in the British Viking world, when the Earls controlled Shetland, Orkney and Caithness from which they could raid the Irish and British coasts, from Dublin round to Lindisfarne. The Saga combines myth with history, bringing to life the places on those islands where Vikings met, drank, made treaties, told stories, became saints, plotted and fought.
 
+
 With 
 
 Judith Jesch

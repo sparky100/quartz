@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the emperor who aimed to return Chris
 
 Melvyn Bragg and guests discuss the last pagan ruler of the Roman Empire.  Fifty years after Constantine the Great converted to Christianity and introduced a policy of tolerating the faith across the empire, Julian (c.331 - 363 AD) aimed to promote paganism instead, branding Constantine the worst of all his predecessors.  Julian was a philosopher-emperor in the mould of Marcus Aurelius and was noted in his lifetime for his letters and his satires, and it was his surprising success as a general in his youth in Gaul that had propelled him to power barely twenty years after a rival had slaughtered his family.  Julian's pagan mission  and his life were brought to a sudden end while on campaign against the Sasanian Empire in the east, but he left so much written evidence of his ideas that he remains one of the most intriguing of all the Roman emperors and a hero to the humanists of the Enlightenment. 
 
+
 With 
 
 James Corke-Webster 

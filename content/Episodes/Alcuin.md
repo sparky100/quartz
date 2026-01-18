@@ -10,6 +10,7 @@ Melvyn Bragg and guests discuss Alcuin of York, c735-804AD, who promoted educati
 The image above is Alcuin’s portrait, found in a copy of the Bible made at his monastery in Tours during the rule of his successor Abbot Adalhard (834–843).  Painted in red on gold leaf, it shows Alcuin with a tonsure and a halo, signifying respect for his memory at the monastery where he had died in 804.  His name and rank are spelled out alongside: Alcvinvs abba, ‘Alcuin the abbot’.  It is held at the Staatsbibliothek Bamberg -Kaiser-Heinrich-Bibliothek - Msc.Bibl.1,fol.5v (photo by Gerald Raab).
 
 
+
 With 
 
 Joanna Story

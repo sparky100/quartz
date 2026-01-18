@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the life and legacy of Alexander the 
 
 Alexander the Great is one of the most celebrated military commanders in history. Born into the Macedonian royal family in 356 BC, he gained control of Greece and went on to conquer the Persian Empire, defeating its powerful king, Darius III. At its peak, Alexander's empire covered modern Turkey, Syria, Egypt, Iran, Iraq, Afghanistan, Pakistan and part of India. As a result, Greek culture and language was spread into regions it had not penetrated before, and he is also remembered for founding a number of cities. Over the last 2,000 years, the legend of Alexander has grown and he has influenced numerous generals and politicians.
 
+
 With:
 
 Paul Cartledge

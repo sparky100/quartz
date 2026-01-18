@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss Fermat's Last Theorem."
 
 Melvyn Bragg and his guests discuss Fermat's Last Theorem. In 1637 the French mathematician Pierre de Fermat scribbled a note in the margin of one of his books. He claimed to have proved a remarkable property of numbers, but gave no clue as to how he'd gone about it. "I have found a wonderful demonstration of this proposition," he wrote, "which this margin is too narrow to contain". Fermat's theorem became one of the most iconic problems in mathematics and for centuries mathematicians struggled in vain to work out what his proof had been. In the 19th century the French Academy of Sciences twice offered prize money and a gold medal to the person who could discover Fermat's proof; but it was not until 1995 that the puzzle was finally solved by the British mathematician Andrew Wiles. 
 
+
 With:
 
 Marcus du Sautoy

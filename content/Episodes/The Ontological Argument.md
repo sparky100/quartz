@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Ontological Argument for the 
 
 Melvyn Bragg and his guests discuss the Ontological Argument. In the eleventh century St Anselm of Canterbury proposed that it was possible to prove the existence of God using reason alone. His argument was ridiculed by some of his contemporaries, but was analysed and improved by later thinkers including Descartes, Spinoza and Leibniz. Other philosophers have been less kind, with the Enlightenment thinker David Hume offering one possible refutation. But the debate continued, fuelled by interventions from such heavyweights as Immanuel Kant and Kurt Gödel; and it remains one of the most discussed problems in philosophy.
 
+
 With:
 
 John Haldane

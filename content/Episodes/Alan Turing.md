@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the short, brilliant life of computer
 
 Melvyn Bragg and guests discuss Alan Turing (1912-1954) whose 1936 paper On Computable Numbers effectively founded computer science.  Immediately recognised by his peers, his wider reputation has grown as our reliance on computers has grown.  He was a leading figure at Bletchley Park in the Second World War, using his ideas for cracking enemy codes, work said to have shortened the war by two years and saved millions of lives. That vital work was still secret when Turing was convicted in 1952 for having a sexual relationship with another man for which he was given oestrogen for a year, or chemically castrated. Turing was to kill himself two years later.  The immensity of his contribution to computing was recognised in the 1960s by the creation of the Turing Award, known as the Nobel of computer science, and he is to be the new face on the £50 note.
 
+
 With
 
 Leslie Ann Goldberg

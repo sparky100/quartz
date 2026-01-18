@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the author of the Fall of the House o
 
 Melvyn Bragg and guests discuss Poe (1809-1849), the American author who is famous for his Gothic tales of horror, madness and the dark interiors of the mind, such as The Fall of the House of Usher and The Tell-Tale Heart. As well as tapping at our deepest fears in poems such as The Raven, Poe pioneered detective fiction with his character C. Auguste Dupin in The Murders in the Rue Morgue. After his early death, a rival rushed out a biography to try to destroy Poe's reputation but he has only become more famous over the years as a cultural icon as well as an author.
 
+
 With
 
 Bridget Bennett

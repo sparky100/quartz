@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss one of the great English comic novels
 
 Melvyn Bragg and guests discuss "The History of Tom Jones, A Foundling" (1749) by Henry Fielding (1707-1754), one of the most influential of the early English novels and a favourite of Dickens. Coleridge wrote that it had one of the 'three most perfect plots ever planned'. Fielding had made his name in the theatre with satirical plays that were so painful for their targets in government that, from then until the 1960s, plays required approval before being staged; seeking other ways to make a living, Fielding turned to law and to fiction. 'Tom Jones' is one of the great comic novels, with the tightness of a farce and the ambition of a Greek epic as told by the finest raconteur. While other authors might present Tom as a rake and a libertine, Fielding makes him the hero for his fundamental good nature, so offering a caution not to judge anyone too soon, if ever.
 
+
 With 
 
 Judith Hawley

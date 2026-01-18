@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Lewis Carroll's fantastical tale insp
 
 Melvyn Bragg and guests discuss Lewis Carroll's book which first appeared in print in 1865 with illustrations by John Tenniel. It has since become one of the best known works in English, captivating readers who follow young Alice as she chases a white rabbit, pink eyed, in a waistcoat with pocket watch, down a rabbit hole that becomes a well and into wonderland. There she meets the Cheshire Cat, the Hatter, the March Hare, the Mock Turtle and more, all the while growing smaller and larger, finally outgrowing everyone at the trial of Who Stole the Tarts from the Queen of Hearts and exclaiming 'Who cares for you? You’re nothing but a pack of cards!'
 
+
 With
 
 Franziska Kohlt

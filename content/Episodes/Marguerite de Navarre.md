@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss writer and Renaissance queen Margueri
 
 Melvyn Bragg and guests discuss Marguerite, Queen of Navarre (1492 – 1549), author of the Heptaméron, a major literary landmark in the French Renaissance. Published after her death, The Heptaméron features 72 short stories, many of which explore relations between the sexes. However, Marguerite’s life was more eventful than that of many writers. Born into the French nobility, she found herself the sister of the French king when her brother Francis I came to the throne in 1515. At a time of growing religious change, Marguerite was a leading exponent of reform in the Catholic Church and translated an early work of Martin Luther into French. As the Reformation progressed, she was not afraid to take risks to protect other reformers.
 
+
 With 
 
 Sara Barker 

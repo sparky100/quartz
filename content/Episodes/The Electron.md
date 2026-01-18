@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the atomic particle that's proved a g
 
 Melvyn Bragg and guests discuss an atomic particle that's become inseparable from modernity. JJ Thomson discovered the electron 125 years ago, so revealing that atoms, supposedly the smallest things, were made of even smaller things. He pictured them inside an atomic ball like a plum pudding, with others later identifying their place outside the nucleus - and it is their location on the outer limit that has helped scientists learn so much about electrons and with electrons.  We can use electrons to reveal the secrets of other particles and, while electricity exists whether we understand electrons or not, the applications of electricity and electrons grow as our knowledge grows. Many questions, though, remain unanswered.
 
+
 With 
 
 Victoria Martin

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the life and works of Harriet Martine
 
 Melvyn Bragg and guests discuss Harriet Martineau who, from a non-conformist background in Norwich, became one of the best known writers in the C19th. She had a wide range of interests and used a new, sociological method to observe the world around her, from religion in Egypt to slavery in America and the rights of women everywhere. She popularised writing about economics for those outside the elite and, for her own popularity, was invited to the coronation of Queen Victoria, one of her readers. 
 
+
 With
 
 Valerie Sanders

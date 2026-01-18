@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss Euler's number, e."
 
 Melvyn Bragg and his guests discuss Euler's number, also known as e. First discovered in the seventeenth century by the Swiss mathematician Jacob Bernoulli when he was studying compound interest, e is now recognised as one of the most important and interesting numbers in mathematics. Roughly equal to 2.718, e is useful in studying many everyday situations, from personal savings to epidemics. It also features in Euler's Identity, sometimes described as the most beautiful equation ever written. 
 
+
 With:
 
 Colva Roney-Dougal

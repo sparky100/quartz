@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss Hindu ideas about the creation of
 
 Melvyn Bragg and his guests discuss Hindu ideas about Creation. According to most Western religious traditions, a deity was the original creator of the Universe. Hinduism, on the other hand, has no single creation story. For thousands of years, Hindu thinkers have taken a variety of approaches to the question of where we come from, with some making the case for divine intervention and others asking whether it is even possible for humans to comprehend the nature of creation. The origin of our existence, and the nature of the Universe we live in, is one of the richest strands of Hindu thought.
 
+
 With:
 
 Jessica Frazier

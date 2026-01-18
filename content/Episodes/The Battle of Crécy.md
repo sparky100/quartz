@@ -11,6 +11,7 @@ Although the French, led by Philip VI, massively outnumbered the English, under 
 
 The Battle of Crécy was the result of years of simmering tension between Edward III and Philip VI, and it led to decades of further conflict between England and France, a conflict that came to be known as the Hundred Years War. 
 
+
 With
 
 Anne Curry 

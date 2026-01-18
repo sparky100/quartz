@@ -11,6 +11,7 @@ Most animals have a nervous system, a network of nerve tissues which allows part
 
 Scholars first described the nerves of the human body over two thousand years ago. For 1400 years it was believed that they were animated by 'animal spirits', mysterious powers which caused sensation and movement. In the eighteenth century scientists discovered that nerve fibres transmitted electrical impulses; it was not until the twentieth century that chemical agents - neurotransmitters - were first identified.
 
+
 With:
 
 Colin Blakemore

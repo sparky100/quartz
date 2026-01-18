@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Pushkin's masterpiece, Eugene Onegin,
 
 Melvyn Bragg and guests discuss Alexander Pushkin's verse novel, the story of Eugene Onegin, widely regarded as his masterpiece. Pushkin (pictured above) began this in 1823 and worked on it over the next ten years, while moving around Russia, developing the central character of a figure all too typical of his age, the so-called superfluous man. Onegin is cynical, disillusioned and detached, his best friend Lensky is a romantic poet and Tatyana, whose love for Onegin is not returned until too late, is described as a poetic ideal of a Russian woman, and they are shown in the context of the Russian landscape and society that has shaped them. Onegin draws all three into tragic situations which, if he had been willing and able to act, he could have prevented, and so becomes the one responsible for the misery of himself and others as well as the death of his friend.
 
+
 With 
 
 Andrew Kahn

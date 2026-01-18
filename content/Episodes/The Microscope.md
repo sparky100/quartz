@@ -9,6 +9,7 @@ Melvyn Bragg and his guests discuss the development of the microscope, an instru
 
 The microscope became an essential component of scientific enquiry by the nineteenth century, but in the 1930s a German physicist, Ernst Ruska, discovered that by using a beam of electrons he could view structures much tinier than was possible using visible light. Today light and electron microscopy are among the most powerful tools at the disposal of modern science, and new techniques are still being developed.
 
+
 With:
 
 Jim Bennett

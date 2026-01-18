@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss literary modernism. In James Joyce’s Ulysses h
 
 Modernism claimed to be revolutionary, and has been accused of being wilfully obscure. Some modernist writers campaigned for the rites of working women, others embraced fascism. What were the movements defining features, and do the questions that exercised the genre at the start of the twentieth century have relevance to us at the beginning of the twenty-first?
 
+
 With John Carey, Merton Professor of English Literature at Oxford University; Laura Marcus, Reader in English at the University of Sussex; Valentine Cunningham, Professor of English Language and Literature at the University of Oxford.
 
 first_broadcast_date: "2001-04-26T09:02:00+01:00"

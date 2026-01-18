@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Hegel's ideas on the consciousness of
 
 Melvyn Bragg and guests discuss ideas of Georg Wilhelm Friedrich Hegel (1770 - 1831) on history.  Hegel, one of the most influential of the modern philosophers, described history as the progress in the consciousness of freedom, asking whether we enjoy more freedom now than those who came before us.  To explore this, he looked into the past to identify periods when freedom was moving from the one to the few to the all, arguing that once we understand the true nature of freedom we reach an endpoint in understanding. That end of history, as it's known, describes an understanding of freedom so far progressed, so profound, that it cannot be extended or deepened even if it can be lost.
 
+
 With
 
 Sally Sedgwick

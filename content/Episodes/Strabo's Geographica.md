@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss Strabo's Geographica, an early wo
 
 Melvyn Bragg and his guests discuss Strabo's Geographica. Written almost exactly two thousand years ago by a Greek scholar living in Rome, the Geographica is an ambitious attempt to describe the entire world known to the Romans and Greeks at that time. Strabo seems to have based his book on accounts of distant lands given to him by contemporary travellers and imperial administrators, and on earlier works of scholarship by other Greek writers. One of the earliest systematic works of geography, Strabo's book offers a revealing insight into the state of ancient scholarship, and remained influential for many centuries after the author's death. 
 
+
 With:
 
 Paul Cartledge

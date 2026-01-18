@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss this Hindu goddess in her many remark
 
 Melvyn Bragg and guests discuss the Hindu goddess Kali, often depicted as dark blue, fierce, defiant, revelling in her power, and holding in her four or more arms a curved sword and a severed head with a cup underneath to catch the blood. She may have her tongue out, to catch more blood spurting from her enemies, be wearing a garland of more severed heads and a skirt of severed hands and yet she is also a nurturing mother figure, known in West Bengal as ‘Maa Kali’ and she can be fiercely protective.  Sometimes she is shown as young and conventionally beautiful and at other times as old, emaciated and hungry, so defying any narrow definition.
 
+
 With
 
 Bihani Sarkar

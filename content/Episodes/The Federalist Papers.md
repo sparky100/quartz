@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Hamilton, Madison and Jay's urgings f
 
 Melvyn Bragg and guests discuss Alexander Hamilton, James Madison and John Jay's essays written in 1787/8 in support of the new US Constitution. They published these anonymously in New York as 'Publius' but, when it became known that Hamilton and Madison were the main authors, the essays took on a new significance for all states.  As those two men played a major part in drafting the Constitution itself, their essays have since informed debate over what the authors of that Constitution truly intended.  To some, the essays have proved to be America’s greatest contribution to political thought.
 
+
 With
 
 Frank Cogliano

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Keynes' influential attack on the Tre
 
 In an extended version of the programme that was broadcast, Melvyn Bragg and guests discuss the influential book John Maynard Keynes wrote in 1919 after he resigned in protest from his role at the Paris Peace Conference. There the victors of World War One were deciding the fate of the defeated, especially Germany and Austria-Hungary, and Keynes wanted the world to know his view that the economic consequences would be disastrous for all.  Soon Germany used his book to support their claim that the Treaty was grossly unfair, a sentiment that fed into British appeasement in the 1930s and has since prompted debate over whether Keynes had only warned of disaster or somehow contributed to it.
 
+
 With
 
 Margaret MacMillan

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the woman so important that two Tudor
 
 Melvyn Bragg and guests discuss Catherine of Aragon (1485-1536), the youngest child of the newly dominant Spanish rulers Ferdinand and Isabella.  When she was 3, her parents contracted her to marry Arthur, Prince of Wales, the heir to the Tudor king Henry VII in order to strengthen Spain's alliances, since Henry's kingdom was a longstanding trade partner and an enemy of Spain's greatest enemy, France.  For the next decade Catherine had the best humanist education available, preparing her for her expected life as queen and drawing inspiration from her warrior mother.  She arrived in London to be married when she was 15 but within a few months she was widowed, her situation uncertain and left relatively impoverished for someone of her status. Rather than return home, Catherine stayed and married her late husband's brother, Henry VIII. In her view and that of many around her, she was an exemplary queen and, even after Henry VIII had arranged the annulment of their marriage for the chance of a male heir with Anne Boleyn, Catherine continued to consider herself his only queen.
 
+
 With 
 
 Lucy Wooding

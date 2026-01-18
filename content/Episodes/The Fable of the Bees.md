@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Mandeville's work on the public benef
 
 Melvyn Bragg and guests discuss Bernard Mandeville (1670-1733) and his critique of the economy as he found it in London, where private vices were condemned without acknowledging their public benefit.  In his poem The Grumbling Hive (1705), he presented an allegory in which the economy collapsed once knavish bees turned honest.  When republished with a commentary, The Fable of the Bees was seen as a scandalous attack on Christian values and Mandeville was recommended for prosecution for his tendency to corrupt all morals.  He kept writing, and his ideas went on to influence David Hume and Adam Smith, as well as Keynes and Hayek.
 
+
 With 
 
 David Wootton

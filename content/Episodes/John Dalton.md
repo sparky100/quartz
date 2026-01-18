@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss scientist John Dalton."
 
 The scientist John Dalton was born in North England in 1766. Although he came from a relatively poor Quaker family, he managed to become one of the most celebrated scientists of his age. Through his work, he helped to establish Manchester as a place where not only products were made but ideas were born. His reputation during his lifetime was so high that unusually a statue was erected to him before he died. Among his interests were meteorology, gasses and colour blindness. However, he is most remembered today for his pioneering thinking in the field of atomic theory. 
 
+
 With: 
 
 Jim Bennett

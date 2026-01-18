@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Lancashire cotton famine during t
 
 Melvyn Bragg and guests discuss the Cotton Famine in Lancashire from 1861-65. The Famine followed the blockade of Confederate Southern ports during the American Civil War which stopped the flow of cotton into mills in Britain and Europe. Reports at the time told of starvation, mass unemployment and migration. Abraham Lincoln wrote, "I know and deeply deplore the sufferings which the working-men of Manchester, and in all Europe, are called to endure in this crisis." While the full cause and extent of the Famine in Lancashire are disputed, the consequences of this and the cotton blockade were far reaching.
 
+
 With
 
 Lawrence Goldman

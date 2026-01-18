@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the life and work of Japanese artist 
 
 Melvyn Bragg and guests discuss Katsushika Hokusai (1760-1849), the Japanese artist whose views of Mt Fuji such as The Great Wave off Kanagawa (pictured) are some of the most iconic in world art. He worked as Japan was slowly moving towards greater contact with the outside world, trading with China and allowing two Dutch ships to dock each year. From these ships he picked up new synthetic colours and illustrations with Western compositions, which he incorporated in his traditional wood block prints. The quality of his images helped drive demand for prints among the highly literate Japanese public, particularly those required to travel to Edo under feudal obligations and who wanted to collect all his prints. As well as the quality of his work, Hokusai's success stems partly from his long life and career. He completed some of his most memorable works in his 70s and 80s and claimed he would not reach his best until he was 110.
 
+
 With 
 
 Angus Lockyer

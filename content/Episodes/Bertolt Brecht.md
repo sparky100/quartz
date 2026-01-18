@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the great 20th-century German playwri
 
 Melvyn Bragg and guests discuss one of the greatest European playwrights of the twentieth century. The aim of Bertolt Brecht (1898-1956) was to make the familiar ‘strange’: with plays such as Mother Courage and The Caucasian Chalk Circle he wanted his audience not to sit back but to engage, observe and  discover the contradictions in life, and act on what they learnt.  He developed this approach in turbulent times, from Weimar Germany to the rise of the Nazis, to exile in Scandinavia and America and then post-war life in East Berlin, and he has since inspired dramatists around the world.
 
+
 With
 
 Laura Bradley

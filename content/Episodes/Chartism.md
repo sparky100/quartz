@@ -9,6 +9,7 @@ On 21 May 1838 an estimated 150,000 people assembled on Glasgow Green for a mass
 
 The Chartists, as they came to be known, were the first national mass working-class movement. In the decade that followed, they collected six million signatures for their Petitions to Parliament: all were rejected, but their campaign had a significant and lasting impact. 
 
+
 With 
 
 Joan Allen

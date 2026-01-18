@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the woman who dominated China's court
 
 Melvyn Bragg and guests discuss the woman who, for almost fifty years, was the most powerful figure in the Chinese court.  Cixi (1835-1908) started out at court as one of the Emperor's many concubines, yet was the only one who gave him a son to succeed him and who also possessed great political skill and ambition. When their son became emperor he was still a young child and Cixi ruled first through him and then, following his death, through another child emperor. This was a time of rapid change in China, when western powers and Japan humiliated the forces of the Qing empire time after time, and Cixi had the chance to push forward the modernising reforms the country needed to thrive. However, when she found those reforms conflicted with her own interests or those of the Qing dynasty, she was arguably obstructive or too slow to act and she has been personally blamed for some of those many humiliations even when the fault lay elsewhere. 
 
+
 With 
 
 Yangwen Zheng

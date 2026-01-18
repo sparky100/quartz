@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Napoleon Bonaparte's surprise coup in
 
 Melvyn Bragg and guests discuss Napoleon Bonaparte's temporary return to power in France in 1815, following his escape from exile on Elba .  He arrived with fewer than a thousand men, yet three weeks later he had displaced Louis XVIII and taken charge of an army as large as any that the Allied Powers could muster individually. He saw that his best chance was to pick the Allies off one by one, starting with the Prussian and then the British/Allied armies in what is now Belgium. He appeared to be on the point of victory at Waterloo yet somehow it eluded him, and his plans were soon in tatters. His escape to America thwarted, he surrendered on 15th July and was exiled again but this time to Saint Helena. There he wrote his memoirs to help shape his legacy, while back in Europe there were still fears of his return.
 
+
 With 
 
 Michael Rowe

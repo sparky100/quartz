@@ -7,6 +7,7 @@ synopsis: "Brian Boru's celebrated defeat of Hiberno-Norse forces and allies out
 
 Melvyn Bragg and guests discuss one of the best known events and figures in Irish history.  In 1014 Brian Boru, High King of Ireland, defeated the Hiberno-Norse forces of Sigtrygg Silkbeard and allies near their Dublin stronghold, with Brian losing his life on the day of battle.  Soon chroniclers in Ireland and abroad were recording and retelling the events, raising the status of Brian Boru as one who sacrificed himself for Ireland, Christ-like, a connection reinforced by the battle taking place on Good Friday.  While some of the facts are contested, the Battle of Clontarf became a powerful symbol of what a united Ireland could achieve by force against invaders.
 
+
 With
 
 Seán Duffy

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the origins, development and uses of 
 
 Melvyn Bragg and guests discuss the origins, development and uses of chromatography. In its basic form, it is familiar to generations of schoolchildren who put a spot of ink at the bottom of a strip of paper, dip it in water and then watch the pigments spread upwards, revealing their separate colours. Chemists in the 19th Century started to find new ways to separate mixtures and their work was taken further by Mikhail Tsvet, a Russian-Italian scientist who is often credited with inventing chromatography in 1900. The technique has become so widely used, it is now an integral part of testing the quality of air and water, the levels of drugs in athletes, in forensics and in the preparation of pharmaceuticals.
 
+
 With
 
 Andrea Sella

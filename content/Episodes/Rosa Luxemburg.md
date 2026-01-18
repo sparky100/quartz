@@ -5,7 +5,10 @@ subtitle: "Rosa Luxemburg"
 synopsis: "Melvyn Bragg and guests discuss the life and times of Rosa Luxemburg, revolutionary."
 ---
 
-Melvyn Bragg discusses the life and times of Rosa Luxemburg (1871-1919), 'Red Rosa', who was born in Poland under the Russian Empire and became one of the leading revolutionaries in an age of revolution. She was jailed for agitation and for her campaign against the Great War which, she argued, pitted workers against each other for the sake of capitalism. With Karl Liebknecht and other radicals, she founded the Spartacus League in the hope of ending the war through revolution. She founded the German Communist Party with Liebknecht; with the violence that followed the German Revolution of 1918, her opponents condemned her as Bloody Rosa. She and Liebknecht were seen as ringleaders in the Spartacus Revolt of 1919 and, on 15th January 1919, the Freikorps militia arrested and murdered them. While Luxemburg has faced opposition for her actions and ideas from many quarters, she went on to become an iconic figure in East Germany under the Cold War and a focal point for opposition to the Soviet-backed leadership.
+Melvyn Bragg discusses the life and times of Rosa Luxemburg (1871-1919), 'Red Rosa', who was born in Poland under the Russian Empire and became one of the leading revolutionaries in an age of revolution. She was jailed for agitation and for her campaign against the Great War which, she argued, pitted workers against each other for the sake of capitalism.
+
+With Karl Liebknecht and other radicals, she founded the Spartacus League in the hope of ending the war through revolution. She founded the German Communist Party with Liebknecht; with the violence that followed the German Revolution of 1918, her opponents condemned her as Bloody Rosa. She and Liebknecht were seen as ringleaders in the Spartacus Revolt of 1919 and, on 15th January 1919, the Freikorps militia arrested and murdered them. While Luxemburg has faced opposition for her actions and ideas from many quarters, she went on to become an iconic figure in East Germany under the Cold War and a focal point for opposition to the Soviet-backed leadership.
+
 
 With 
 

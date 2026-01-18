@@ -7,6 +7,7 @@ synopsis: "Insights into the relationship between the body and the mind, habits,
 
 Melvyn Bragg and guests discuss the French philosopher Maurice Merleau-Ponty (1908-1961), who was part of the movement known as phenomenology. While less well-known than his contemporaries Jean-Paul Sartre and Simone de Beauvoir, his popularity has increased among philosophers in recent years. Merleau-Ponty rejected Rene Descartes’ division between body and mind, arguing that the way we perceive the world around us cannot be separated from our experience of inhabiting a physical body. Merleau-Ponty was interested in the down-to-earth question of what it is actually like to live in the world. While performing actions as simple as brushing our teeth or patting a dog, we shape the world and, in turn, the world shapes us.
  
+
 With 
 
 Komarine Romdenh-Romluc

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the influential Swiss protestant theo
 
 Melvyn Bragg and guests discuss one of the most influential theologians of the twentieth century.  Karl Barth (1886 - 1968) rejected the liberal theology of his time which, he argued, used the Bible and religion to help humans understand themselves rather than prepare them to open themselves to divine revelation. Barth's aim was to put God and especially Christ at the centre of Christianity. He was alarmed by what he saw as the dangers in a natural theology where God might be found in a rainbow or an opera by Wagner;  for if you were open to finding God in German culture, you could also be open to accepting Hitler as God’s gift as many Germans did.  Barth openly refused to accept Hitler's role in the Church in the 1930s on these theological grounds as well as moral, for which he was forced to leave Germany for his native Switzerland.
 
+
 With
 
 Stephen Plant

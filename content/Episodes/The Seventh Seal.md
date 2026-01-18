@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Bergman's iconic film of a knight pla
 
 In the 1000th edition of In Our Time, Melvyn Bragg and guests discuss arguably the most celebrated film of the Swedish director Ingmar Bergman (1918-2007).  It begins with an image that, once seen, stays with you for the rest of your life: the figure of Death playing chess with a Crusader on the rocky Swedish shore.  The release  of this film in 1957 brought Bergman fame around the world.  We see Antonius Block, the Crusader, realising he can’t beat Death but wanting to prolong this final game for one last act, without yet knowing what that act might be. As he goes on a journey through a plague ridden world, his meeting with a family of jesters and their baby offers him some kind of epiphany. 
 
+
 With 
 
 Jan Holmberg

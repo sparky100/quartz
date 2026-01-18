@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the planet closest to our Sun."
 
 Melvyn Bragg and guests discuss the planet which is closest to our Sun.  We see it as an evening or a morning star, close to where the Sun has just set or is about to rise, and observations of Mercury helped Copernicus understand that Earth and the other planets orbit the Sun, so displacing Earth from the centre of our system.  In the 20th century, further observations of Mercury helped Einstein prove his general theory of relativity. For the last 50 years we have been sending missions there to reveal something of Mercury's secrets and how those relate to the wider universe, and he latest, BepiColombo, is out there in space now. 
 
+
 With
 
 Emma Bunce

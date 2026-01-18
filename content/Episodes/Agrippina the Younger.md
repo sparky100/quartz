@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Roman empress Agrippina the Young
 
 Agrippina the Younger was one of the most notorious and influential of the Roman empresses in the 1st century AD. She was the sister of the Emperor Caligula, a wife of the Emperor Claudius and mother of the Emperor Nero. Through careful political manoeuvres, she acquired a dominant position for herself in Rome. In 39 AD she was exiled for allegedly participating in a plot against Caligula and later it was widely thought that she killed Claudius with poison. When Nero came to the throne, he was only 16 so Agrippina took on the role of regent until he began to exert his authority. After relations between Agrippina and Nero soured, he had her murdered.
 
+
 With:
 
 Catharine Edwards

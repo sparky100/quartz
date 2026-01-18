@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the life of the Native American P
 
 Melvyn Bragg and his guests discuss the life of Pocahontas, the Native American woman who to English eyes became a symbol of the New World. During the colonisation of Virginia in the first years of the seventeenth century, Pocahontas famously saved the life of an English prisoner, John Smith. Later captured, she converted to Christianity, married a settler and travelled to England where she was regarded as a curiosity. She died in 1617 at the age of 22 and was buried in Gravesend; her story has fascinated generations on both sides of the Atlantic, and has been reinterpreted and retold by many writers and artists.
 
+
 With:
 
 Susan Castillo

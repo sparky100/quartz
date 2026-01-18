@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the tiny lifeforms that sustain so mu
 
 Melvyn Bragg and guests discuss the tiny drifting organisms in the oceans that sustain the food chain for all the lifeforms in the water and so for the billions of people who, in turn, depend on the seas for their diet.  In Earth's development, the plant-like ones among them, the phytoplankton, produced so much oxygen through photosynthesis that around half the oxygen we breathe today originated there. And each day as the sun rises, the animal ones, the zooplankton, sink to the depths of the seas to avoid predators in such density that they appear on ship sonars like a new seabed, only to rise again at night in the largest migration of life on this planet.
 
+
 With
 
 Carol Robinson

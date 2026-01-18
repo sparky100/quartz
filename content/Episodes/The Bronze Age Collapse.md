@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Bronze Age collapse."
 
 Melvyn Bragg and guests discuss The Bronze Age Collapse, the name given by many historians to what appears to have been a sudden, uncontrolled destruction of dominant civilizations around 1200 BC in the Aegean, Eastern Mediterranean and Anatolia. Among other areas, there were great changes in Minoan Crete, Egypt, the Hittite Empire, Mycenaean Greece and Syria. The reasons for the changes, and the extent of those changes, are open to debate and include droughts, rebellions, the breakdown of trade as copper became less desirable, earthquakes, invasions, volcanoes and the mysterious Sea Peoples. 
 
+
 With 
 
 John Bennet

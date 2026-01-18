@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss Evelyn Waugh's comic novel Declin
 
 David Bradshaw, John Bowen and Ann Pasternak Slater join Melvyn Bragg to discuss Evelyn Waugh's comic novel Decline and Fall. Set partly in a substandard boys' public school, the novel is a vivid, often riotous portrait of 1920s Britain. Its themes, including modernity, religion and fashionable society, came to dominate Waugh's later fiction, but its savage wit and economy of style were entirely new. Published when Waugh was 24, the book was immediately celebrated for its vicious satire and biting humour.
 
+
 With:
 
 David Bradshaw

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the history of ideas about the eye an
 
 Melvyn Bragg and his guests discuss the eye. Humans have been attempting to understand the workings and significance of the organ for at least 2500 years. Some ancient philosophers believed that the eye enabled creatures to see by emitting its own light. The function and structures of the eye became an area of particular interest to doctors in the Islamic Golden Age. In Renaissance Europe the work of thinkers including Kepler and Descartes revolutionised thinking about how the organ worked, but it took several hundred years for the eye to be thoroughly understood. Eyes have long attracted more than purely scientific interest, known even today as the 'windows on the soul'.
 
+
 With:
 
 Patricia Fara

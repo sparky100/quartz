@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the race to build an atom bomb in the USA during
 
 The image above is of Robert Oppenheimer and General Groves examining the remains of one the bases of the steel test tower, at the atomic bomb Trinity Test site, in September 1945.
 
+
 With
 
 Bruce Cameron Reed

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss 17th-century scientist Robert Hooke."
 
 Melvyn Bragg and guests discuss the life and work of Robert Hooke (1635-1703) who worked for Robert Boyle and was curator of experiments at the Royal Society. The engraving of a flea, above, is taken from his Micrographia which caused a sensation when published in 1665. Sometimes remembered for his disputes with Newton, he studied the planets with telescopes and snowflakes with microscopes. He was an early proposer of a theory of evolution, discovered light diffraction with a wave theory to explain it and felt he was rarely given due credit for his discoveries. 
 
+
 With
 
 David Wootton

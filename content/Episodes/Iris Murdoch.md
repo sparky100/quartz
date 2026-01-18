@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the philosophy of the celebrated auth
 
 Melvyn Bragg and guests discuss the author and philosopher Iris Murdoch (1919 - 1999).  In her lifetime she was most celebrated for her novels such as The Bell and The Black Prince, but these are now sharing the spotlight with her philosophy.  Responding to the horrors of the Second World War, she argued that morality was not subjective or a matter of taste, as many of her contemporaries held, but was objective, and good was a fact we could recognize.  To tell good from bad, though, we would need to see the world as it really is, not as we want to see it, and her novels are full of characters who are not yet enlightened enough to do that.
 
+
 With
 
 Anil Gomes

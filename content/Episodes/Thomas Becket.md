@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the life, murder and impact of Thomas
 
 Melvyn Bragg and guests discuss the man who was Henry II's Chancellor and then Archbishop of Canterbury and who was murdered by knights in Canterbury Cathedral (depicted by Matthew Paris, above). Henry believed that Becket owed him loyalty as he had raised him to the highest offices, and that he should agree to Henry's courts having jurisdiction over 'criminous clerics'. They fell out when Becket agreed to this jurisdiction verbally but would not put his seal on the agreement, the Constitutions of Clarendon. The rift deepened when Henry's heir was crowned without Becket, who excommunicated the bishops who took part. Becket's tomb became one of the main destinations for pilgrims for the next 400 years, including those in Chaucer's Canterbury Tales where he was the 'blisful martir'. 
 
+
 With 
 
 Laura Ashe

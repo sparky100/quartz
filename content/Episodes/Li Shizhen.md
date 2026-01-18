@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the heights of medical knowledge unde
 
 Melvyn Bragg and guests discuss the life and ideas of Li Shizhen (1518-1593) whose compendium of natural medicines is celebrated in China as the most complete survey of natural remedies of its time. He trained as a doctor and worked at the Ming court before spending almost 30 years travelling in China, inspecting local plants and animals for their properties, trying them out on himself and then describing his findings in his Compendium of Materia Medica or Bencao Gangmu, in 53 volumes. He's been called the uncrowned king of Chinese naturalists, and became a scientific hero in the 20th century after the revolution.
 
+
 With 
 
 Craig Clunas

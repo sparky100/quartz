@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the life and work of the French t
 
 Melvyn Bragg and his guests begin a new series of the programme with a discussion of the French polymath Blaise Pascal. Born in 1623, Pascal was a brilliant mathematician and scientist, inventing one of the first mechanical calculators and making important discoveries about fluids and vacuums while still a young man. In his thirties he experienced a religious conversion, after which he devoted most of his attention to philosophy and theology. Although he died in his late thirties, Pascal left a formidable legacy as a scientist and pioneer of probability theory, and as one of seventeenth century Europe's greatest writers. 
 
+
 With:
 
 David Wootton

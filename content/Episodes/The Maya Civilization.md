@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Maya civilization in central Amer
 
 Melvyn Bragg and guests discuss the Maya Civilization, developed by the Maya people, which flourished in central America from around 250 AD in great cities such as Chichen Itza and Uxmal with advances in mathematics, architecture and astronomy. Long before the Spanish Conquest in the 16th Century, major cities had been abandoned for reasons unknown, although there are many theories including overpopulation and changing climate. The hundreds of Maya sites across Belize, El Salvador, Guatemala, Honduras and Mexico raise intriguing questions about one of the world's great pre-industrial civilizations.
 
+
 With
 
 Elizabeth Graham

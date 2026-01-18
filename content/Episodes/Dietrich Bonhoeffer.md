@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the German theologian, killed for plo
 
 Melvyn Bragg and guests discuss the ideas and life of the German theologian, born in Breslau/Wroclaw in 1906 and killed in the Flossenbürg concentration camp on 9th April 1945. Bonhoeffer developed ideas about the role of the Church in the secular world, in particular Germany after the Nazis took power in 1933 and demanded the Churches' support. He strongly opposed anti-Semitism and, with a role in the Military Intelligence Department, took part in the resistance, plotting to kill Hitler and meeting with contacts in the Allies. Bonhoeffer's ideas on Christian ethics and the relationship between Christianity and humanism spread more widely from the 1960s with the discovery of unpublished works, including those written in prison as he awaited execution.
 
+
 With 
 
 Stephen Plant

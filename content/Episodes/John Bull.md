@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss the origin of this personification of the Englis
 
 The image above is by William Charles, a Scottish engraver who emigrated to the United States, and dates from 1814 during the Anglo-American War of 1812. 
 
+
 With
 
 Judith Hawley 

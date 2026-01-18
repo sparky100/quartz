@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the Germanic tribes' destruction of t
 
 Melvyn Bragg and guests discuss the great Roman military disaster of 9 AD when Germanic tribes under Arminius ambushed and destroyed three legions under Varus. According to Suetonius, emperor Augustus hit his head against the wall when he heard the news, calling on Varus to give him back his legions. The defeat ended Roman expansion east of the Rhine. Victory changed the development of the Germanic peoples, both in the centuries that followed and in the nineteenth century when Arminius, by then known as Herman, became a rallying point for German nationalism.
 
+
 With 
 
 Peter Heather

@@ -13,6 +13,7 @@ Her philosophy was both complex and intense. She argued that the presence of evi
 
 Weil died of TB in Kent at the age of only 34. Her strict lifestyle and self-denial may have contributed to her early death. T.S Eliot said "she was not just a woman of genius, but was a genius akin to that of a saint"; Albert Camus believed she was "the only great spirit of our time." 
 
+
 With:
 
 Beatrice Han-Pile

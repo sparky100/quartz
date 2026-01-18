@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss Gnosticism, a sect associated wit
 
 Melvyn Bragg and his guests discuss Gnosticism, a sect associated with early Christianity. The Gnostics divided the universe into two domains: the visible world and the spiritual one. They believed that a special sort of knowledge, or gnosis, would enable them to escape the evils of the physical world and allow them access to the higher spiritual realm. The Gnostics were regarded as heretics by many of the Church Fathers, but their influence was important in defining the course of early Christianity. A major archaeological discovery in Egypt in the 1940s, when a large cache of Gnostic texts were found buried in an earthenware jar, enabled scholars to learn considerably more about their beliefs.
 
+
 With:
 
 Martin Palmer

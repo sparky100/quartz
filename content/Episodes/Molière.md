@@ -7,6 +7,7 @@ synopsis: "The great French playwright and comic actor who flourished at the cou
 
 Melvyn Bragg and guests discuss one of the great figures in world literature. The French playwright Molière (1622-1673) began as an actor, aiming to be a tragedian, but he was stronger in comedy, touring with a troupe for 13 years until Louis XIV summoned him to audition at the Louvre and gave him his break.  It was in Paris and at Versailles that Molière wrote and performed his best known plays, among them Tartuffe, Le Misanthrope and Le Malade Imaginaire, and in time he was so celebrated that French became known as The Language of Molière.
 
+
 With 
 
 Noel Peacock

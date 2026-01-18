@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss philosophical approaches to truth."
 
 Melvyn Bragg and his guests discuss the philosophy of truth. Pontius Pilate famously asked: what is truth? In the twentieth century, the nature of truth became a subject of particular interest to philosophers, but they preferred to ask a slightly different question: what does it mean to say of any particular statement that it is true? What is the difference between these two questions, and how useful is the second of them?
 
+
 With:
 
 Simon Blackburn

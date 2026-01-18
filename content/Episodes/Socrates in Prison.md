@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the inspiring last days of the great 
 
 Melvyn Bragg and guests discuss Plato's Crito and Phaedo, his accounts of the last days of Socrates in prison in 399 BC as he waited to be executed by drinking hemlock. Both works show Socrates preparing to die in the way he had lived: doing philosophy. In the Crito, Plato shows Socrates arguing that he is duty bound not to escape from prison even though a bribe would open the door, while in the Phaedo his argument is for the immortality of the soul which, at the point of death, might leave uncorrupted from the 'prison' of his body, the one escape that truly mattered to Socrates. His example in his last days has proved an inspiration to thinkers over the centuries and in no small way has helped ensure the strength of his reputation.
 
+
 With
 
 Angie Hobbs

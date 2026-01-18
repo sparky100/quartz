@@ -11,6 +11,7 @@ In the first years of the 6th century BC, the city state of Athens was in crisis
 
 Solon instituted a programme of reforms that transformed Athens’ political and legal systems, its society and economy, so that later generations referred to him as Solon the Lawgiver. 
 
+
 With
 
 Melissa Lane

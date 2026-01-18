@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss F Scott Fitzgerald’s finest novel, published i
 
 The image above is of Robert Redford as Gatsby in a scene from the film 'The Great Gatsby', 1974. 
 
+
 With
 
 Sarah Churchwell

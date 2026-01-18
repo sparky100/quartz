@@ -11,6 +11,7 @@ He was born into a Jewish family in Hungary just before the outbreak of World Wa
 
 He also had an unconventional lifestyle. Instead of having a long-term post at one university, he spent much of his life travelling around visiting other mathematicians, often staying for just a few days. 
 
+
 With 
 
 Colva Roney-Dougal 

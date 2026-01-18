@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the voyages of James Cook, as suggest
 
 Melvyn Bragg and guests discuss the scientific advances made in the three voyages of Captain James Cook, from 1768 to 1779. Cook's voyages astonished Europeans, bringing back detailed knowledge of the Pacific and its people, from the Antarctic to the Bering Straits. This topic is one of more than a thousand different ideas suggested by listeners in October and came from Alysoun Hodges in the UK, Fiachra O'Brolchain in Ireland, Mhairi Mackay in New Zealand, Enzo Vozzo in Australia, Jeff Radford in British Columbia and Mark Green in Alaska. 
 
+
 With 
 
 Simon Schaffer

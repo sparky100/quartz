@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Aristotle's ideas on how to live a go
 
 Melvyn Bragg and guests discuss Aristotle's ideas on what happiness means and how to live a good life. Aristotle (384-322BC) explored these almost two and a half thousand years ago in what became known as his Nicomachean Ethics. His audience then were the elite in Athens as, he argued, if they knew how to live  their lives well then they could better rule the lives of others. While circumstances and values have changed across the centuries, Aristotle's approach to answering those questions has fascinated philosophers ever since and continues to do so.
 
+
 With 
 
 Angie Hobbs

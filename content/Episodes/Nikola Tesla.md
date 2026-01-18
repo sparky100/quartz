@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the celebrated Serbian-American inven
 
 Melvyn Bragg and guests discuss the Serbian-American inventor Nikola Tesla (1856-1943) and his role in the development of electrical systems towards the end of the nineteenth century.  He made his name in New York in the contest over which current should flow into homes and factories in America.  Some such as Edison backed direct current or DC while others such as Westinghouse backed alternating current or AC and Nikola Tesla’s invention of a motor that worked on AC swung it for the alternating system that went on to power the modern age.  He ensured his reputation and ideas burnt brightly for the next decades, making him synonymous with the lone, genius inventor of the new science fiction.  
 
+
 With 
 
 Simon Schaffer

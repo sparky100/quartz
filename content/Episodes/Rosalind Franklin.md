@@ -8,6 +8,7 @@ synopsis: "Melvyn Bragg and guests discuss the pioneering scientist Rosalind Fra
 Melvyn Bragg and guests discuss the pioneering scientist Rosalind Franklin (1920 - 1958). During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered for her investigations in the field of DNA. In 1952 her research generated a famous image that became known as Photograph 51. When the Cambridge scientists Francis Crick and James Watson saw this image, it enabled them the following year to work out that DNA has a double-helix structure, one of the most important discoveries of modern science. Watson, Crick and Franklin's colleague Maurice Wilkins received a Nobel Prize in 1962 for this achievement but Franklin did not and today many people believe that Franklin has not received enough recognition for her work. 
 
 
+
 With:
 
 Patricia Fara

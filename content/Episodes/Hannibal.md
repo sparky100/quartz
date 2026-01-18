@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the remarkable Carthaginian gener
 
 Melvyn Bragg and his guests discuss the life and achievements of Hannibal. One of the most celebrated military leaders in history, Hannibal was the Carthaginian general who led an entire army, complete with elephants, across the Alps in order to attack the Roman Republic. He lived at a time of prolonged hostility between the two great Mediterranean powers, Rome and Carthage, and was the Carthaginians' inspirational leader during the Second Punic War which unfolded between 218 and 202 BC. His career ended in defeat and exile, but he achieved such fame that even his enemies the Romans erected statues of him. Centuries later his tactical genius was admired and studied by generals including Napoleon and Wellington.
 
+
 With:
 
 Ellen O'Gorman

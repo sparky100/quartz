@@ -9,6 +9,7 @@ In 1661 the 23 year-old French king Louis the XIV had been on the throne for 18 
 
 So began the personal rule of Louis XIV, which lasted a further 54 years until his death in 1715. From his newly-built palace at Versailles, Louis was able to project an image of himself as the centre of gravity around which all of France revolved: it’s no accident that he became known as the Sun King. He centralized power to the extent he was able to say ‘L’etat c’est moi’: I am the state. Under his rule France became the leading diplomatic, military and cultural power in Europe.
 
+
 With
 
 Catriona Seth 

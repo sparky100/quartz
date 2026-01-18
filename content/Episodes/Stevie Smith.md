@@ -9,6 +9,7 @@ In 1957 Stevie Smith published a poetry collection called Not Waving But Drownin
 
 Its success has overshadowed her wider work as the author of more than half a dozen collections of poetry and three novels, mostly written while she worked as a secretary. Her poems, printed with her pen and ink sketches, can seem simple and comical, but often beneath the surface lurk themes of melancholy, loneliness, love and death.  
 
+
 With 
 Jeremy Noel-Tod
 Associate Professor in the School of Literature, Drama and Creative Writing at the University of East Anglia 

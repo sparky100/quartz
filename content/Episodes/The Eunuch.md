@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the history and significance of e
 
 Melvyn Bragg and his guests discuss the history and significance of eunuchs, castrated men who were a common feature of many civilisations for at least three thousand years. Eunuchs were typically employed as servants in royal households in the ancient Middle East, China and classical antiquity. In some civilisations they were used as administrators or senior military commanders, sometimes achieving high office. The tradition lingered until surprisingly recently, with castrated singers remaining a feature of Vatican choirs until the nineteenth century, while the last Chinese eunuch of the imperial court died in 1996.
 
+
 With:
 
 Karen Radner

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the great 12th-century Persian epic r
 
 Melvyn Bragg and guests discuss one of the greatest romantic poets in Persian literature.  Nizami Ganjavi (c1141–1209) is was born in the city of Ganja in what is now Azerbaijan and his popularity soon spread throughout the Persian-speaking lands and beyond. Nizami is best known for his Khamsa, a set of five epic poems that contains a famous retelling of the tragic love story of King Khosrow II (c570-628) and the Christian princess Shirin (unknown-628) and the legend of Layla and Majnun.  Not only did he write romances: his poetry also displays a dazzling knowledge of philosophy, astronomy, botany and the life of Alexander the Great.
 
+
 With 
 
 Christine van Ruymbeke

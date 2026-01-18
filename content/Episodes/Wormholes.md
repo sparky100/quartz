@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests test the idea that there are shortcuts betwee
 
 Melvyn Bragg and guests discuss the tantalising idea that there are shortcuts between distant galaxies, somewhere out there in the universe. The idea emerged in the context of Einstein's theories and the challenge has been not so much to prove their unlikely existence as to show why they ought to be impossible.  The universe would have to folded back on itself in places, and there would have to be something to make the wormholes and then to keep them open.  But is there anywhere in the vast universe like that?  Could there be holes that we or more advanced civilisations might travel through, from one galaxy to another and, if not, why not? 
 
+
 With 
 
 Toby Wiseman

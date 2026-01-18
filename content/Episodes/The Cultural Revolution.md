@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss Chairman Mao and the revolt he led within his ow
 
 The image above is of Red Guards, holding The Little Red Book, cheering Mao during a meeting to celebrate the Great Proletarian Cultural Revolution at Tiananmen Square, Beijing, August 1966 
 
+
 With
 
 Rana Mitter

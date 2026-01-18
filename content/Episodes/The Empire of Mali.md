@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the empire of Mali."
 
 Melvyn Bragg and guests discuss the Empire of Mali which flourished from 1200 to 1600 and was famous in the wider world for the wealth of rulers such as Mansa Musa. Mali was the largest empire in west Africa and for almost 400 years controlled the flow of gold from mines in the south up to the Mediterranean coast and across to the Middle East. These gold mines were the richest known deposits in the 14th Century and produced around half of the world's gold. When Mansa Musa journeyed to Cairo in 1324 as part of his Hajj, he distributed so much gold that its value depreciated by over 10%. Some of the mosques he built on his return survive, albeit rebuilt, such as the UNESCO World Heritage Site of the Great Mosque of Djenne. 
 
+
 With 
 
 Amira Bennison

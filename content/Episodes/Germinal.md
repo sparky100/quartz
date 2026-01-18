@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss Emile Zola's novel, set in a French m
 
 Melvyn Bragg and guests discuss Emile Zola's greatest literary success, his thirteenth novel in a series exploring the extended Rougon-Macquart family. The relative here is Etienne Lantier, already known to Zola’s readers as one of the blighted branch of the family tree and his story is set in Northern France.  It opens with Etienne trudging towards a coalmine at night seeking work, and soon he is caught up in a bleak world in which starving families struggle and then strike, as they try to hold on to the last scraps of their humanity and the hope of change.
 
+
 With
 
 Susan Harrow

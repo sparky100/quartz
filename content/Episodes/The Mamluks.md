@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Mamluks, medieval rulers of E
 
 Melvyn Bragg and his guests discuss the Mamluks, who ruled Egypt and Syria from about 1250 to 1517. Originally slave soldiers who managed to depose their masters, they went on to repel the Mongols and the Crusaders to become the dominant force in the medieval Islamic Middle Eastern world. Although the Mamluks were renowned as warriors, under their rule art, crafts and architecture blossomed. Little known by many in the West today, the Mamluks remained in power for almost 300 years until they were eventually overthrown by the Ottomans.
 
+
 With:
 
 Amira Bennison

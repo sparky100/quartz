@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the innovative artist at the heart of
 
 Melvyn Bragg and guests discuss one of the influential painters at the heart of the French Impressionist movement: Berthe Morisot (1841-1895).  The men in her circle could freely paint in busy bars and public spaces, while Morisot captured the domestic world and found new, daring ways to paint quickly in the open air.  Her work shows women as they were, to her: informal, unguarded, and not transformed or distorted for the eyes of men.  The image above is one of her few self-portraits, though several portraits of her survive by other artists, chiefly her sister Edma and her brother-in-law Edouard Manet. 
 
+
 With 
 
 Tamar Garb

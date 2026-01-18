@@ -7,6 +7,7 @@ synopsis: "On the value of keeping conversations going with opponents, from the 
 
 Melvyn Bragg and guests discuss the idea that Civility, in one of its meanings, is among the most valuable social virtues: the skill to discuss topics that really matter to you, with someone who disagrees and yet somehow still get along. In another of its meanings, when Civility describes the limits of behaviour that is acceptable, the idea can reflect society at its worst: when only those deemed 'civil enough' are allowed their rights, their equality and even their humanity. Between these extremes, Civility is a slippery idea that has fascinated philosophers especially since the Reformation, when competing ideas on how to gain salvation seemed to make it impossible to disagree and remain civil.
 
+
 With 
 
 Teresa Bejan

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the 1846-48 war that cost Mexico half
 
 Melvyn and guests discuss the 1846-48 conflict after which the United States of Mexico lost half its territory to the United States of America. The US gained land covered by the states of Texas, Utah, California, New Mexico, Nevada, Arizona and part of Colorado. The outcome had a profound impact on Native Americans and led to civil war in defeated Mexico. It also raised the question of whether slavery would be legal in this acquired territory - something that would only be resolved in the US Civil War, which this victory hastened.
 
+
 With 
 
 Frank Cogliano

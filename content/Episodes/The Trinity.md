@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss the Trinity, a central doctrine o
 
 Melvyn Bragg and his guests discuss the Trinity. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest years of the religion. The doctrine was often controversial in the early years of the Church, until clarified by the Council of Nicaea in the late 4th century. Later thinkers including St Augustine and Thomas Aquinas recognised that this religious mystery posed profound theological questions, such as whether the three persons of the Trinity always acted together, and whether they were of equal status. The Trinity's influence on Christian thought and practice is considerable, although it is interpreted in different ways by different Christian traditions. 
 
+
 With:
 
 Janet Soskice

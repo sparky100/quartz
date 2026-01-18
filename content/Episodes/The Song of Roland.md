@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss an early masterpiece of French epic poetry, from
 
 The image above is taken from an illustration of Charlemagne finding Roland after the Battle of Roncevaux/Roncesvalles, from 'Les Grandes Chroniques de France', c.1460 by Jean Fouquet, Bibliotheque Nationale, Paris, Ms Fr 6465 f.113 
 
+
 With 
 
 Laura Ashe

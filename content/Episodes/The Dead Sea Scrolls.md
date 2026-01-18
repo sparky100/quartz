@@ -11,6 +11,7 @@ In 1946 a Bedouin shepherd boy was looking for a goat he’d lost in the hills a
 
 The Dead Sea Scrolls have transformed our understanding of how the texts that make up the Hebrew Bible were edited and collected. They also offer a tantalising window onto the world from which Christianity eventually emerged. 
 
+
 With 
 
 Sarah Pearce 

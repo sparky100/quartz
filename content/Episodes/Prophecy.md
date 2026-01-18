@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss prophecy in the Abrahamic religio
 
 Melvyn Bragg and his guests discuss the meaning and significance of prophecy in the Abrahamic religions. Prophets, those with the ability to convey divinely-inspired revelation, are significant figures in the Hebrew Bible and later became important not just to Judaism but also to Christianity and Islam. Although these three religions share many of the same prophets, their interpretation of the nature of prophecy often differs.
 
+
 With:
 
 Mona Siddiqui

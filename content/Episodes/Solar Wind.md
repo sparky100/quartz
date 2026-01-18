@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss solar wind, from auroras to the edge 
 
 Melvyn Bragg and guests discuss the flow of particles from the outer region of the Sun which we observe in the Northern and Southern Lights, interacting with Earth's magnetosphere, and in comet tails that stream away from the Sun regardless of their own direction.  One way of defining the boundary of the solar system is where the pressure from the solar wind is balanced by that from the region between the stars, the interstellar medium.  Its existence was suggested from the C19th and Eugene Parker developed the theory of it in the 1950s and it has been examined and tested by a series of probes in C20th up to today, with more planned.
 
+
 With 
 
 Andrew Coates

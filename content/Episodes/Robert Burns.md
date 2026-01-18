@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the poetry, ideas and life of Robert 
 
 Melvyn Bragg and guests discuss the work of the man who, in his lifetime, was called The Caledonian Bard and whose fame and influence was to spread around the world. Burns (1759-1796) was born in Ayrshire and his work as a tenant farmer earned him the label The Ploughman Poet, yet it was the quality of his verse that helped his reputation endure and grow. His work inspired other Romantic poets and his personal story and ideas combined with that, giving his poems a broad strength and appeal - sung by revolutionaries and on Mao's Long March, as well as on New Year's Eve and at Burns Suppers.
 
+
 With
 
 Robert Crawford

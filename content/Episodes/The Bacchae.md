@@ -9,6 +9,7 @@ Melvyn Bragg and guests discuss Euripides' great tragedy, which was first perfor
 
 The image above is a detail of a Red-Figure Cup showing the death of Pentheus (exterior) and a Maenad (interior), painted c. 480 BC by the Douris painter. This object can be found at the Kimbell Art Museum in Fort Worth, Texas.
 
+
 With 
 
 Edith Hall

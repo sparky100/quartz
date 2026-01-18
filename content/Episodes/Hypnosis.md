@@ -11,6 +11,7 @@ Ever since Franz Anton Mesmer induced trance-like states in his Parisian subject
 
 But despite some debate within the medical establishment about the scientific validity of hypnosis, it continues to be used today as a successful treatment for physical and psychological conditions. Scientists are also using hypnosis to learn more about the power of suggestion and belief.  
 
+
 With: 
 
 Catherine Wynne, Reader in Victorian and Early Twentieth-Century Literature and Visual Cultures at the University of Hull

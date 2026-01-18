@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and his guests discuss Virginia Woolf's novel Mrs Dallow
 
 Melvyn Bragg and his guests discuss Virginia Woolf's novel Mrs Dalloway. First published in 1925, it charts a single day in the life of Clarissa Dalloway, a prosperous member of London society, as she prepares to throw a party. Writing in her diary during the writing of the book, Woolf explained what she had set out to do: 'I want to give life and death, sanity and insanity. I want to criticize the social system, and to show it at work at its most intense.' Celebrated for its innovative narrative technique and distillation of many of the preoccupations of 1920s Britain, Mrs Dalloway is now seen as a landmark of twentieth-century fiction, and one of the finest products of literary modernism.
 
+
 With:
 
 Professor Dame Hermione Lee

@@ -7,6 +7,7 @@ synopsis: "Melvyn Bragg and guests discuss the idea that fundamental particles h
 
 Melvyn Bragg and guests discuss the idea that some kind of  consciousness is present not just in our human brains but throughout the universe, right down to cells or even electrons. This is panpsychism and its proponents argue it offers a compelling alternative to those who say we are nothing but matter, like machines, and to those who say we are both matter and something else we might call soul. It is a third way. Critics argue panpsychism is implausible, an example of how not to approach this problem, yet interest has been growing widely in recent decades partly for the idea itself and partly in the broader context of  understanding how consciousness arises.
 
+
 With
 
 Tim Crane
