@@ -1,6 +1,3 @@
-
-
-
 [[Ada Lovelace]]
 [[Agrippina the Younger]]
 [[Akhenaten]]

@@ -1,4 +1,3 @@
-
 [[Ageing the Earth]]
 [[Catastrophism]]
 [[Early Geology]]

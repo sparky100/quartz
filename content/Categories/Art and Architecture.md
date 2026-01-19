@@ -1,5 +1,3 @@
-
-
 [[Architecture and Power]]
 [[Architecture in the 20th Century]]
 [[Bauhaus]]
