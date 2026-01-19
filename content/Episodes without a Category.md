@@ -2,9 +2,8 @@
 draft : true
 ---
 
-
 ```dataview
-LIST FROM "" where length(file.inlinks) = 0
+LIST from "content/Episodes" where length(file.inlinks) = 0
 ```
 
 

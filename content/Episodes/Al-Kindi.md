@@ -10,11 +10,14 @@ Melvyn Bragg and his guests discuss the life and work of the Arab philosopher al
 
 With:
 
-Hugh Kennedy,Professor of Arabic at SOAS, University of London
+Hugh Kennedy
+Professor of Arabic at SOAS, University of London
 
-James Montgomery, Sir Thomas Adams's Professor of Arabic Elect at the University of Cambridge
+James Montgomery
+Sir Thomas Adams's Professor of Arabic Elect at the University of Cambridge
 
-Amira Bennison,Senior Lecturer in Middle Eastern and Islamic Studies at the University of Cambridge.
+Amira Bennison
+Senior Lecturer in Middle Eastern and Islamic Studies at the University of Cambridge.
 
 Producer: Thomas Morris.
 #Mathematics

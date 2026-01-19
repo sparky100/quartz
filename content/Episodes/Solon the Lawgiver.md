@@ -1,8 +1,8 @@
 ---
-pid: "m001k7wb"
-title: "Solon the Lawgiver"
-subtitle: "Solon the Lawgiver"
-synopsis: "Melvyn Bragg and guests discuss the statesman who transformed Athens in the 6th century BC"
+pid: m001k7wb
+title:
+subtitle: Solon the Lawgiver
+synopsis: Melvyn Bragg and guests discuss the statesman who transformed Athens in the 6th century BC
 ---
 
 Melvyn Bragg and guests discuss Solon, who was elected archon or chief magistrate of Athens in 594 BC: some see him as the father of Athenian democracy.  
