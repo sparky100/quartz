@@ -10,16 +10,9 @@ Melvyn Bragg and guests discuss the most abundant lifeform on Earth: the viruses
 
 With 
 
-Martha Clokie
-Director for the Centre for Phage Research and Professor of Microbiology at the University of Leicester
-
-James Ebdon
-Professor of Environmental Microbiology at the University of Brighton
-
-And 
-
-Claas Kirchhelle
-Historian and Chargé de Recherche at the French National Institute of Health and Medical Research’s CERMES3 Unit in Paris.
+Martha Clokie, Director for the Centre for Phage Research and Professor of Microbiology at the University of Leicester
+James Ebdon, Professor of Environmental Microbiology at the University of Brighton
+Claas Kirchhelle, Historian and Chargé de Recherche at the French National Institute of Health and Medical Research’s CERMES3 Unit in Paris.
 
 Producer: Simon Tillotson
 

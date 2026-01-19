@@ -12,16 +12,9 @@ The image above is Jacques de Vaucanson's mechanical duck (1739), which picked u
 
 with 
 
-Simon Schaffer
-Professor of History of Science at Cambridge University
-
-Elly Truitt
-Associate Professor of Medieval History at Bryn Mawr College
-
-And 
-
-Franziska Kohlt
-Doctoral Researcher in English Literature and the History of Science at the University of Oxford
+Simon Schaffer, Professor of History of Science at Cambridge University
+Elly Truitt, Associate Professor of Medieval History at Bryn Mawr College
+Franziska Kohlt, Doctoral Researcher in English Literature and the History of Science at the University of Oxford
 
 Producer: Simon Tillotson
 

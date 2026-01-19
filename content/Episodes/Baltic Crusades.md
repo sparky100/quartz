@@ -10,16 +10,9 @@ Melvyn Bragg and guests discuss the Baltic Crusades, the name given to a series 
 
 With 
 
-Aleks Pluskowski
-Associate Professor of Archaeology at the University of Reading
-
-Nora Berend
-Fellow of St Catharine's College and Reader in European History at the Faculty of History at the University of Cambridge
-
-and 
-
-Martin Palmer
-Director of the International Consultancy on Religion, Education, and Culture
+Aleks Pluskowski, Associate Professor of Archaeology at the University of Reading
+Nora Berend, Fellow of St Catharine's College and Reader in European History at the Faculty of History at the University of Cambridge
+Martin Palmer, Director of the International Consultancy on Religion, Education, and Culture
 
 Producer: Simon Tillotson.
 

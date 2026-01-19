@@ -10,17 +10,9 @@ Melvyn Bragg and guests discuss Elizabeth Barrett Browning's epic "Aurora Leigh"
 
 With 
 
-Margaret Reynolds
-Professor of English at Queen Mary, University of London
-
-Daniel Karlin
-Winterstoke Professor of English Literature at the University of Bristol
-
-And
-
-Karen O'Brien
-Professor of English Literature at King's College London
-
+Margaret Reynolds, Professor of English at Queen Mary, University of London
+Daniel Karlin, Winterstoke Professor of English Literature at the University of Bristol
+Karen O'Brien, Professor of English Literature at King's College London
 
 Producer: Simon Tillotson.
 

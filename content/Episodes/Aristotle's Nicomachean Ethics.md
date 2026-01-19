@@ -10,16 +10,9 @@ Melvyn Bragg and guests discuss Aristotle's ideas on what happiness means and ho
 
 With 
 
-Angie Hobbs
-Professor of the Public Understanding of Philosophy at the University of Sheffield
-
-Roger Crisp
-Director of the Oxford Uehiro Centre for Practical Ethics, Professor of Moral Philosophy and Tutor in Philosophy at St Anne’s College, University of Oxford
-
-And 
-
-Sophia Connell
-Senior Lecturer in Philosophy at Birkbeck, University of London
+Angie Hobbs, Professor of the Public Understanding of Philosophy at the University of Sheffield
+Roger Crisp, Director of the Oxford Uehiro Centre for Practical Ethics, Professor of Moral Philosophy and Tutor in Philosophy at St Anne’s College, University of Oxford
+Sophia Connell, Senior Lecturer in Philosophy at Birkbeck, University of London
 
 Producer: Simon Tillotson
 

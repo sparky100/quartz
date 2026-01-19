@@ -12,16 +12,9 @@ The image above is the ceiling mosaic of the Arian Baptistry in Ravenna, commiss
 
 With
 
-Judith Herrin
-Professor of Late Antique and Byzantine Studies, Emeritus, at King's College London
-
-Robin Whelan
-Lecturer in Mediterranean History at the University of Liverpool
-
-And
-
-Martin Palmer
-Visiting Professor in Religion, History and Nature at the University of Winchester
+Judith Herrin, Professor of Late Antique and Byzantine Studies, Emeritus, at King's College London
+Robin Whelan, Lecturer in Mediterranean History at the University of Liverpool
+Martin Palmer, Visiting Professor in Religion, History and Nature at the University of Winchester
 
 Producer: Simon Tillotson
 

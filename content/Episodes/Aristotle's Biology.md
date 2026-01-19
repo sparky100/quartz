@@ -12,16 +12,9 @@ The image above is of the egg and embryo of a dogfish, one of the animals Aristo
 
 With
 
-Armand Leroi
-Professor of Evolutionary Development Biology at Imperial College London
-
-Myrto Hatzimichali
-Lecturer in Classics at the University of Cambridge
-
-And
-
-Sophia Connell
-Lecturer in Philosophy at Birkbeck, University of London
+Armand Leroi, Professor of Evolutionary Development Biology at Imperial College London
+Myrto Hatzimichali, Lecturer in Classics at the University of Cambridge
+Sophia Connell, Lecturer in Philosophy at Birkbeck, University of London
 
 Producer: Simon Tillotson
 

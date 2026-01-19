@@ -10,14 +10,9 @@ Melvyn Bragg and his guests discuss the Indian Emperor Ashoka. Active in the 3rd
 
 With:
 
-Jessica Frazier
-Lecturer in Religious Studies at the University of Kent and a Research Fellow at the Oxford Centre for Hindu Studies
-
-Naomi Appleton
-Chancellor's Fellow in Religious Studies at the University of Edinburgh
-
-Richard Gombrich
-Founder and Academic Director of the Oxford Centre for Buddhist Studies and Emeritus Professor of Sanskrit at the University of Oxford
+Jessica Frazier, Lecturer in Religious Studies at the University of Kent and a Research Fellow at the Oxford Centre for Hindu Studies
+Naomi Appleton, Chancellor's Fellow in Religious Studies at the University of Edinburgh
+Richard Gombrich, Founder and Academic Director of the Oxford Centre for Buddhist Studies and Emeritus Professor of Sanskrit at the University of Oxford
 
 Producer: Thomas Morris.
 

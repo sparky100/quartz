@@ -10,16 +10,9 @@ Melvyn Bragg and guests discuss St Augustine of Hippo's account of his conversio
 
 With
 
-Kate Cooper
-Professor of History at the University of London and Head of History at Royal Holloway
-
-Morwenna Ludlow
-Professor of Christian History and Theology at the University of Exeter
-
-and 
-
-Martin Palmer
-Visiting Professor in Religion, History and Nature at the University of Winchester
+Kate Cooper, Professor of History at the University of London and Head of History at Royal Holloway
+Morwenna Ludlow, Professor of Christian History and Theology at the University of Exeter
+Martin Palmer, Visiting Professor in Religion, History and Nature at the University of Winchester
 
 Producer: Simon Tillotson.
 

@@ -12,16 +12,9 @@ The image above is of Sartre, aged 8 months, perhaps still connected to his inne
 
 With 
 
-Sarah Richmond
-Associate Professor in Philosophy at University College London
-
-Denis McManus
-Professor of Philosophy at the University of Southampton
-
-and 
-
-Irene McMullin
-Senior Lecturer in Philosophy at the University of Essex
+Sarah Richmond, Associate Professor in Philosophy at University College London
+Denis McManus, Professor of Philosophy at the University of Southampton
+Irene McMullin, Senior Lecturer in Philosophy at the University of Essex
 
 Producer: Simon Tillotson
 
