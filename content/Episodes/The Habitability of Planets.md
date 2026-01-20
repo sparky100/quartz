@@ -3,11 +3,10 @@ pid: "m0025vvd"
 title: "The Habitability of Planets"
 subtitle: "The Habitability of Planets"
 synopsis: "Melvyn Bragg and guests discuss ideas about where life may begin in the universe and how."
-first_broadcast_date: "2024-12-12T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m0025vvd"
 ---
 
 Melvyn Bragg and guests discuss some of the great unanswered questions in science: how and where did life on Earth begin, what did it need to thrive and could it be found elsewhere? Charles Darwin speculated that we might look for the cradle of life here in 'some warm little pond'; more recently the focus moved to ocean depths, while new observations in outer space and in laboratories raise fresh questions about  the potential for lifeforms to develop and thrive, or 'habitability' as it is termed. What was the chemistry needed for life to begin and is it different from the chemistry we have now? With that in mind, what signs of life should we be looking for in the universe to learn if we are alone?
+
 
 With 
 
@@ -37,4 +36,8 @@ Charles H. Langmuir and Wallace Broecker, How to Build a Habitable Planet: The S
 Joshua Winn, The Little Book of Exoplanets (Princeton University Press, 2023)
 
 In Our Time is a BBC Studios Audio Production
-#Physics
+
+
+first_broadcast_date: "2024-12-12T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m0025vvd"

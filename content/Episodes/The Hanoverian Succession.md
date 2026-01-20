@@ -3,11 +3,10 @@ pid: "m0025d6j"
 title: "The Hanoverian Succession"
 subtitle: "The Hanoverian Succession"
 synopsis: "Melvyn Bragg and guests discuss the politics that led to the coronation of George I."
-first_broadcast_date: "2024-11-28T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m0025d6j"
 ---
 
 Melvyn Bragg and guests discuss the intense political activity at the turn of the 18th Century, when many politicians in London went to great lengths to find a Protestant successor to the throne of Great Britain and Ireland and others went to equal lengths to oppose them.  Queen Anne had no surviving children and, following the old rules, there were at least 50 Catholic candidates ahead of any Protestant ones and among those by far the most obvious candidate was James, the only son of James II.  Yet with the passing of the Act of Settlement in 1701 ahead of Anne's own succession, focus turned to Europe and to Princess Sophia, an Electress of the Holy Roman Empire in Hanover who, as a granddaughter of James I, thus became next in line to be crowned at Westminster Abbey. It was not clear that Hanover would want this role, given its own ambitions and the risks, in Europe, of siding with Protestants, and soon George I was minded to break the rules of succession so that he would be the last Hanoverian monarch as well as the first.
+
 
 With
 
@@ -55,3 +54,7 @@ Daniel Szechi, 1715: The Great Jacobite Rebellion (Yale University Press, 2006)
 A.C. Thompson, George II : King and Elector (Yale University Press, 2011)
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2024-11-28T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m0025d6j"

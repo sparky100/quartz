@@ -3,8 +3,10 @@ pid: "p00547jm"
 title: "Democracy"
 subtitle: "Democracy"
 synopsis: "Melvyn Bragg examines the origins of the most cherished form of government in the world."
-first_broadcast_date: "2001-10-18T09:02:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/p00547jm"
 ---
 
 Melvyn Bragg and guests discuss the origins of democracy. In the Gettysburg Address Abraham Lincoln called it “Government of the people, by the people, for the people”, but the word democracy appears nowhere in the American Constitution; the French Revolution was fought for Liberté, Egalité and Fraternité and the most that Churchill claimed for it was that it was “the worst form of government except for all those other forms that have been tried from time to time.” The Athenian city state famously practised participatory democracy, but neither Plato nor Socrates approved, the Romans turned their back on the idea of ‘mob rule’ and it is not until the nineteenth century that it becomes even moderately respectable to call oneself a democrat.So how did democracy rise to become the most cherished form of government in the world? In this programme we hope to trace the history of an idea across the cultures and centuries of Europe and the Middle East. And at a time when ideals of democracy are being thrown into stark relief by world events, we hope to gain a greater understanding of where democratic ideals have come from.With Melissa Lane, University Lecturer in the History of Political Thought; David Wootton, Professor of Intellectual History at Queen Mary College, London; Tim Winter, Assistant Muslim Chaplain at Cambridge University where he is Lecturer in Islamic Studies.
+
+first_broadcast_date: "2001-10-18T09:02:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/p00547jm"

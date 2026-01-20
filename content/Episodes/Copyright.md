@@ -3,8 +3,6 @@ pid: "m002c3bm"
 title: "Copyright"
 subtitle: "Copyright"
 synopsis: "The evolution of copyright."
-first_broadcast_date: "2025-05-15T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m002c3bm"
 ---
 
 In 1710, the British Parliament passed a piece of legislation entitled An Act for the Encouragement of Learning. It became known as the Statute of Anne, and it was the world’s first copyright law.  
@@ -13,6 +11,7 @@ Copyright protects and regulates a piece of work - whether that's a book, a pain
  
 Writers and artists such as Alexander Pope, William Hogarth and Charles Dickens became involved in heated debates about ownership and originality that continue to this day - especially with the emergence of artificial intelligence.
  
+
 With:
 
 Lionel Bently, Herchel Smith Professor of Intellectual Property Law at the University of Cambridge
@@ -62,3 +61,7 @@ Will Slauter, Who Owns the News? A History of Copyright (Stanford University Pre
 Robert Spoo, Without Copyrights: Piracy, Publishing and the Public Domain (Oxford University Press, 2013)
 
 In Our Time is a BBC Studios Audio production
+
+first_broadcast_date: "2025-05-15T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m002c3bm"

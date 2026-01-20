@@ -3,11 +3,10 @@ pid: "m001xm8t"
 title: "The Kalevala"
 subtitle: "The Kalevala"
 synopsis: "Melvyn Bragg and guests discuss the epic poem that helped build the Finnish nation."
-first_broadcast_date: "2024-03-28T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001xm8t"
 ---
 
 Melvyn Bragg and guests discuss the Finnish epic poem that first appeared in print in 1835 in what was then the Grand Duchy of Finland, part of the Russian Empire and until recently part of Sweden.  The compiler of this epic was a doctor, Elias Lönnrot (1802-1884), who had travelled the land to hear traditional poems about mythical heroes being sung in Finnish, the language of the peasantry, and writing them down in his own order to create this landmark work. In creating The Kalevala, Lönnrot helped the Finns realise they were a distinct people apart from Sweden and Russia, who deserved their own nation state and who came to demand independence, which they won in 1917.  
+
 
 With 
 
@@ -62,3 +61,7 @@ Jonathan Roper (ed.), Alliteration in Culture (Palgrave Macmillan, 2011), especi
 Karl Spracklen, Metal Music and the Re-imagining of Masculinity, Place, Race and Nation (Emerald Publishing, 2020), especially the chapter ‘Finnish Folk Metal: Raising Drinking Horns in Mainstream Metal’
 
 Leea Virtanen and Thomas A. DuBois, Finnish Folklore: Studia Fennica Folkloristica 9 (Finnish Literature Society, 2000)
+
+first_broadcast_date: "2024-03-28T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m001xm8t"

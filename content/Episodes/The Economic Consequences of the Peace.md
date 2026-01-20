@@ -3,11 +3,10 @@ pid: "m001qtpf"
 title: "The Economic Consequences of the Peace"
 subtitle: "The Economic Consequences of the Peace"
 synopsis: "Melvyn Bragg and guests discuss Keynes' influential attack on the Treaty of Versailles"
-first_broadcast_date: "2023-09-28T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001qtpf"
 ---
 
 In an extended version of the programme that was broadcast, Melvyn Bragg and guests discuss the influential book John Maynard Keynes wrote in 1919 after he resigned in protest from his role at the Paris Peace Conference. There the victors of World War One were deciding the fate of the defeated, especially Germany and Austria-Hungary, and Keynes wanted the world to know his view that the economic consequences would be disastrous for all.  Soon Germany used his book to support their claim that the Treaty was grossly unfair, a sentiment that fed into British appeasement in the 1930s and has since prompted debate over whether Keynes had only warned of disaster or somehow contributed to it.
+
 
 With
 
@@ -57,3 +56,7 @@ Robert Skidelsky, John Maynard Keynes, 1883-1946 (Pan Macmillan, 2004)
 Jürgen Tampke, A Perfidious Distortion of History: The Versailles Peace Treaty and the Success of the Nazis (Scribe UK, 2017) 
 
 Adam Tooze, The Deluge: The Great War, America and the Remaking of the Global Order, 1916-1931 (Penguin Books, 2015)
+
+first_broadcast_date: "2023-09-28T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m001qtpf"

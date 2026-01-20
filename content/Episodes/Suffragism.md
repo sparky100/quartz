@@ -3,8 +3,10 @@ pid: "b00jjgg8"
 title: "Suffragism"
 subtitle: "Suffragism"
 synopsis: "Melvyn Bragg and guests discuss suffragism, the movement for women's voting rights."
-first_broadcast_date: "2009-04-16T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b00jjgg8"
 ---
 
 Melvyn Bragg and guests Krista Cowman, June Purvis and Julia Bush discuss suffragism, a name for the various movements to get the vote for women in the 19th and early-20th century. On the 4th June 1913 the Epsom Derby was underway. King George V was there watching his horse Anmer, ridden by Herbert Jones. Also watching was a young woman called Emily Davison. As the horses thundered towards the finish line, Emily Davison stepped through the barrier and threw herself in front of the King's horse and died of her injuries four days later. Davison was a suffragette, a campaigner for the woman's right to vote and her death is perhaps the most powerful image of that entire movement. Emmeline Pankhurst and her Suffragettes are famous for their militant campaign of suicide, violence and direct action, but Suffragism was a broader movement involving letter writing, reasoned argument, journalism and parliamentary petition - all played out across biology, medicine, law, psychology, politics and the military amidst the rising tide of democratic ideas.
+
+first_broadcast_date: "2009-04-16T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/b00jjgg8"

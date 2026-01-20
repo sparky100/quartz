@@ -3,8 +3,6 @@ pid: "m002d1b5"
 title: "The Vienna Secession"
 subtitle: "The Vienna Secession"
 synopsis: "Melvyn Bragg and guests explore the Vienna Secession."
-first_broadcast_date: "2025-06-05T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m002d1b5"
 ---
 
 In 1897, Gustav Klimt led a group of radical artists to break free from the cultural establishment of Vienna and found a movement that became known as the Vienna Secession. 
@@ -72,3 +70,7 @@ Stefan Zweig, The World of Yesterday: An Autobiography (University of Nebraska P
 In Our Time is a BBC Studios Audio Production
 
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the characters, events and discoveries that have shaped our world.
+
+first_broadcast_date: "2025-06-05T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m002d1b5"

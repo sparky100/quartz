@@ -3,8 +3,6 @@ pid: "b04pv8j1"
 title: "Kafka's The Trial"
 subtitle: "Kafka's The Trial"
 synopsis: "Melvyn Bragg and guests discuss The Trial, by Franz Kafka."
-first_broadcast_date: "2014-11-27T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b04pv8j1"
 ---
 
 Melvyn Bragg and guests discuss Franz Kafka's novel of power and alienation 'The Trial', in which readers follow the protagonist Joseph K into a bizarre, nightmarish world in which he stands accused of an unknown crime; courts of interrogation convene in obscure tenement buildings; and there seems to be no escape from a crushing, oppressive bureaucracy.
@@ -18,3 +16,7 @@ Steve Connor, Grace 2 Professor of English at the University of Cambridge
 Ritchie Robertson, Taylor Professor of the German Language and Literature at the University of Oxford
 
 Producer: Luke Mulhall.
+
+first_broadcast_date: "2014-11-27T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/b04pv8j1"

@@ -3,13 +3,12 @@ pid: "m000srdx"
 title: "The Rime of the Ancient Mariner"
 subtitle: "The Rime of the Ancient Mariner"
 synopsis: "Melvyn Bragg and guests discuss Coleridge's famous poem of a sailor who shot an albatross."
-first_broadcast_date: "2021-03-04T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m000srdx"
 ---
 
 In this 900th edition of the programme, Melvyn Bragg and guests discuss one of the best known and most influential of the poems of the Romantic movement.  Samuel Taylor Coleridge (1772-1834) wrote The Rime of the Ancient Mariner in 1798 after discussions with his friend Wordsworth.  He refined it for the rest of his life, and it came to define him, a foreshadowing of his opium-addicted, lonely wandering and deepening sense of guilt. The poem tells of a sailor compelled to tell and retell the story of a terrible voyage in his youth, this time as guests are heading to a wedding party, where he stoppeth one of three.
 
 The image above is from Gustave Doré's illustration of the mariner's shooting of the albatross, for an 1877 German language edition of the poem
+
 
 With
 
@@ -25,3 +24,7 @@ Rosemary Ashton
 Emeritus Quain Professor of English Language and Literature at University College London
 
 Producer: Simon Tillotson
+
+first_broadcast_date: "2021-03-04T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m000srdx"

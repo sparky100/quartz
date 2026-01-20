@@ -3,11 +3,10 @@ pid: "m001zvvp"
 title: "The Orkneyinga Saga"
 subtitle: "The Orkneyinga Saga"
 synopsis: "Melvyn Bragg and guests discuss the Saga of the Earls of Orkney up to the 13th century."
-first_broadcast_date: "2024-06-06T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001zvvp"
 ---
 
 Melvyn Bragg and guests discuss the Saga of the Earls of Orkney, as told in the 13th Century by an unknown Icelander. This was the story of arguably the most important, strategically, of all the islands in the British Viking world, when the Earls controlled Shetland, Orkney and Caithness from which they could raid the Irish and British coasts, from Dublin round to Lindisfarne. The Saga combines myth with history, bringing to life the places on those islands where Vikings met, drank, made treaties, told stories, became saints, plotted and fought.
+
 
 With 
 
@@ -74,3 +73,7 @@ Snorri Sturluson (trans. tr. Alison Finlay and Anthony Faulkes), Heimskringla, v
 William P. L. Thomson, The New History of Orkney (Birlinn Ltd, 2008)
 
 Alex Woolf, From Pictland to Alba, 789-1070 (Edinburgh University Press, 2007), especially chapter 7
+
+first_broadcast_date: "2024-06-06T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m001zvvp"

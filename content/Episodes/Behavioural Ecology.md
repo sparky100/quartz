@@ -3,8 +3,6 @@ pid: "b04tljk0"
 title: "Behavioural Ecology"
 subtitle: "Behavioural Ecology"
 synopsis: "Melvyn Bragg and guests discuss behavioural ecology."
-first_broadcast_date: "2014-12-11T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b04tljk0"
 ---
 
 Melvyn Bragg and guests discuss Behavioural Ecology, the scientific study of animal behaviour.
@@ -23,3 +21,7 @@ John Krebs, Principal of Jesus College at the University of Oxford
 
 Producer: Luke Mulhall.
 #Mathematics
+
+first_broadcast_date: "2014-12-11T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/b04tljk0"

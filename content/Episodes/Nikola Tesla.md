@@ -3,11 +3,10 @@ pid: "m001xvhb"
 title: "Nikola Tesla"
 subtitle: "Nikola Tesla"
 synopsis: "Melvyn Bragg and guests discuss the celebrated Serbian-American inventor."
-first_broadcast_date: "2024-04-04T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001xvhb"
 ---
 
 Melvyn Bragg and guests discuss the Serbian-American inventor Nikola Tesla (1856-1943) and his role in the development of electrical systems towards the end of the nineteenth century.  He made his name in New York in the contest over which current should flow into homes and factories in America.  Some such as Edison backed direct current or DC while others such as Westinghouse backed alternating current or AC and Nikola Tesla’s invention of a motor that worked on AC swung it for the alternating system that went on to power the modern age.  He ensured his reputation and ideas burnt brightly for the next decades, making him synonymous with the lone, genius inventor of the new science fiction.  
+
 
 With 
 
@@ -49,3 +48,7 @@ Nikola Tesla, My Inventions: The Autobiography of Nikola Tesla (first published 
 Nikola Tesla, My Inventions and other Writings (Penguin, 2012)
 
 In Our Time is a BBC Studios Audio production
+
+first_broadcast_date: "2024-04-04T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m001xvhb"

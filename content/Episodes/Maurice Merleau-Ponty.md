@@ -3,12 +3,11 @@ pid: "m002974s"
 title: "Maurice Merleau-Ponty"
 subtitle: "Maurice Merleau-Ponty"
 synopsis: "Insights into the relationship between the body and the mind, habits, language and thought"
-first_broadcast_date: "2025-03-27T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m002974s"
 ---
 
 Melvyn Bragg and guests discuss the French philosopher Maurice Merleau-Ponty (1908-1961), who was part of the movement known as phenomenology. While less well-known than his contemporaries Jean-Paul Sartre and Simone de Beauvoir, his popularity has increased among philosophers in recent years. Merleau-Ponty rejected Rene Descartes’ division between body and mind, arguing that the way we perceive the world around us cannot be separated from our experience of inhabiting a physical body. Merleau-Ponty was interested in the down-to-earth question of what it is actually like to live in the world. While performing actions as simple as brushing our teeth or patting a dog, we shape the world and, in turn, the world shapes us.
  
+
 With 
 
 Komarine Romdenh-Romluc
@@ -80,3 +79,7 @@ Kerry Whiteside, Merleau-Ponty and the Foundation of an Existential Politics (Pr
 Iris Marion Young, On Female Body Experience: “Throwing Like a Girl” and Other Essays (Oxford University Press, 2005)
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2025-03-27T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m002974s"

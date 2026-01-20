@@ -3,11 +3,10 @@ pid: "m001whfr"
 title: "The Sack of Rome 1527"
 subtitle: "The Sack of Rome 1527"
 synopsis: "Melvyn Bragg and guests discuss the Holy Roman Emperor's army's notorious attack on Romans"
-first_broadcast_date: "2024-02-22T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001whfr"
 ---
 
 Melvyn Bragg and guests discuss the infamous assault of an army of the Holy Roman Emperor on the city of Rome in 1527. The troops soon broke through the walls of this holy city and, with their leader shot dead early on, they brought death and destruction to the city on an epic scale. Later writers compared it to the fall of Carthage or Jerusalem and soon the mass murder, torture, rape and looting were followed by disease which was worsened by starvation and opened graves.  It has been called the end of the High Renaissance, a conflict between north and south, between Lutherans and Catholics, and a fulfilment of prophecy of divine vengeance and, perhaps more persuasively, a consequence of military leaders not feeding or paying their soldiers other than by looting. 
+
 
 With
 
@@ -46,3 +45,7 @@ Luigi Guicciardini (trans. James H. McGregor), The Sack of Rome (first published
 Judith Hook, The Sack of Rome (2nd edition, Palgrave Macmillan, 2004)
 
 Geoffrey Parker, Emperor: A New Life of Charles V (Yale University Press, 2019)
+
+first_broadcast_date: "2024-02-22T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m001whfr"

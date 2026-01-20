@@ -3,13 +3,12 @@ pid: "m000q9b6"
 title: "The Cultural Revolution"
 subtitle: "The Cultural Revolution"
 synopsis: "Melvyn Bragg and guests discuss Mao's uprising against his own party from 1966-76"
-first_broadcast_date: "2020-12-17T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m000q9b6"
 ---
 
 Melvyn Bragg and guests discuss Chairman Mao and the revolt he led within his own party from 1966, setting communists against each other, to renew the revolution that he feared had become too bourgeois and to remove his enemies and rivals.   Universities closed and the students formed Red Guard factions to attack the 'four olds' - old ideas, culture, habits and customs - and they also turned on each other, with mass violence on the streets and hundreds of thousands of deaths.  Over a billion copies of Chairman Mao’s Little Red Book were printed to support his cult of personality, before Mao himself died in 1976 and the revolution came to an end.
 
 The image above is of Red Guards, holding The Little Red Book, cheering Mao during a meeting to celebrate the Great Proletarian Cultural Revolution at Tiananmen Square, Beijing, August 1966 
+
 
 With
 
@@ -25,3 +24,7 @@ Julia Lovell
 Professor in Modern Chinese History and Literature at Birkbeck, University of London
 
 Produced by Simon Tillotson and Julia Johnson
+
+first_broadcast_date: "2020-12-17T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m000q9b6"

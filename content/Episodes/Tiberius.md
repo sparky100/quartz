@@ -3,11 +3,10 @@ pid: "m001t9j8"
 title: "Tiberius"
 subtitle: "Tiberius"
 synopsis: "Melvyn Bragg and guests discuss the man born in Republican Rome who became second Emperor."
-first_broadcast_date: "2023-12-14T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001t9j8"
 ---
 
 Melvyn Bragg and guests discuss the Roman emperor Tiberius. When he was born in 42BC, there was little prospect of him ever becoming Emperor of Rome. Firstly, Rome was still a Republic and there had not yet been any Emperor so that had to change and, secondly, when his stepfather Augustus became Emperor there was no precedent for who should succeed him, if anyone.  It somehow fell to Tiberius to develop this Roman imperial project and by some accounts he did this well, while to others his reign was marked by cruelty and paranoia inviting comparison with Nero.
+
 
 With
 
@@ -55,3 +54,7 @@ David Shotter, Tiberius Caesar (Routledge, 2005)
 Suetonius (trans. Robert Graves), The Twelve Caesars (Penguin Classics, 2007)
 
 Tacitus (trans. Michael Grant), The Annals of Imperial Rome (Penguin Classics, 2003)
+
+first_broadcast_date: "2023-12-14T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m001t9j8"

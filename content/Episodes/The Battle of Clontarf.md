@@ -3,11 +3,10 @@ pid: "m0029qh3"
 title: "The Battle of Clontarf"
 subtitle: "The Battle of Clontarf"
 synopsis: "Brian Boru's celebrated defeat of Hiberno-Norse forces and allies outside Dublin in 1014."
-first_broadcast_date: "2025-04-10T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m0029qh3"
 ---
 
 Melvyn Bragg and guests discuss one of the best known events and figures in Irish history.  In 1014 Brian Boru, High King of Ireland, defeated the Hiberno-Norse forces of Sigtrygg Silkbeard and allies near their Dublin stronghold, with Brian losing his life on the day of battle.  Soon chroniclers in Ireland and abroad were recording and retelling the events, raising the status of Brian Boru as one who sacrificed himself for Ireland, Christ-like, a connection reinforced by the battle taking place on Good Friday.  While some of the facts are contested, the Battle of Clontarf became a powerful symbol of what a united Ireland could achieve by force against invaders.
+
 
 With
 
@@ -53,3 +52,7 @@ Máire Ní Mhaonaigh, ‘Cogad Gáedel re Gallaib: Some Dating Consierations’ 
 Brendan Smith, The Cambridge History of Ireland, vol. 1, 600–1550 (Cambridge University Press, 2018), especially ‘The Scandinavian Intervention’ by Alex Woolf
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2025-04-10T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m0029qh3"

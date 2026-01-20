@@ -3,11 +3,10 @@ pid: "m000x6tr"
 title: "Shakespeare's Sonnets"
 subtitle: "Shakespeare's Sonnets"
 synopsis: "Melvyn Bragg and guests discuss some of the greatest and most challenging poems in English"
-first_broadcast_date: "2021-06-24T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m000x6tr"
 ---
 
 To celebrate Melvyn Bragg’s 27 years presenting In Our Time, some well-known fans of the programme have chosen their favourite episodes. Historian and broadcaster Simon Schama has selected the episode on Shakespeare’s Sonnets and recorded an introduction to it. (This introduction will be available on BBC Sounds and the In Our Time webpage shortly after the broadcast and will be longer than the one broadcast on Radio 4). In 1609 Thomas Thorpe published a collection of poems entitled Shakespeare’s Sonnets, “never before imprinted”.  Yet, while some of Shakespeare's other poems and many of his plays were often reprinted in his lifetime, the Sonnets were not a publishing success.  They had to make their own way, outside the main canon of Shakespeare’s work: wonderful, troubling, patchy, inspiring and baffling, and they have appealed in different ways to different times.  Most are addressed to a man, something often overlooked and occasionally concealed; one early and notorious edition even changed some of the pronouns. 
+
 
 With:
 
@@ -51,3 +50,7 @@ This episode was first broadcast in June 2021.
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the people, ideas, events and discoveries that have shaped our world
 
 In Our Time is a BBC Studios production
+
+first_broadcast_date: "2021-06-24T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m000x6tr"

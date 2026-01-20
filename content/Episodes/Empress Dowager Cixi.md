@@ -3,11 +3,10 @@ pid: "m001zdw0"
 title: "Empress Dowager Cixi"
 subtitle: "Empress Dowager Cixi"
 synopsis: "Melvyn Bragg and guests discuss the woman who dominated China's court for almost 50 years."
-first_broadcast_date: "2024-05-23T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m001zdw0"
 ---
 
 Melvyn Bragg and guests discuss the woman who, for almost fifty years, was the most powerful figure in the Chinese court.  Cixi (1835-1908) started out at court as one of the Emperor's many concubines, yet was the only one who gave him a son to succeed him and who also possessed great political skill and ambition. When their son became emperor he was still a young child and Cixi ruled first through him and then, following his death, through another child emperor. This was a time of rapid change in China, when western powers and Japan humiliated the forces of the Qing empire time after time, and Cixi had the chance to push forward the modernising reforms the country needed to thrive. However, when she found those reforms conflicted with her own interests or those of the Qing dynasty, she was arguably obstructive or too slow to act and she has been personally blamed for some of those many humiliations even when the fault lay elsewhere. 
+
 
 With 
 
@@ -64,3 +63,7 @@ Jonathan D. Spence, The Search for Modern China (first published 1991; W. W. Nor
 X. L. Woo, Empress Dowager Cixi: China's Last Dynasty and the Long Reign of a Formidable Concubine (Algora Publishing, 2003)
 
 Zheng Yangwen, Ten Lessons in Modern Chinese History (Manchester University Press, 2018)
+
+first_broadcast_date: "2024-05-23T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m001zdw0"

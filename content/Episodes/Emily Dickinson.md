@@ -3,11 +3,12 @@ pid: "b08p5lbp"
 title: "Emily Dickinson"
 subtitle: "Emily Dickinson"
 synopsis: "Melvyn Bragg and guests discuss Emily Dickinson (1830-1886), celebrated American poet."
-first_broadcast_date: "2017-05-11T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/b08p5lbp"
 ---
 
-To celebrate Melvyn Bragg’s 27 years presenting In Our Time, five well-known fans of the programme have chosen their favourite episodes. Comedian Frank Skinner has picked the episode on the life and work of the poet Emily Dickinson and recorded an introduction to it. (This introduction will be available on BBC Sounds and the In Our Time webpage shortly after the broadcast and will be longer than the version broadcast on Radio 4). Emily Dickinson was arguably the most startling and original poet in America in the C19th. According to Thomas Wentworth Higginson, her correspondent and mentor, writing 15 years after her death, "Few events in American literary history have been more curious than the sudden rise of Emily Dickinson into a posthumous fame only more accentuated by the utterly recluse character of her life and by her aversion to even a literary publicity." That was in 1891 and, as more of Dickinson's poems were published, and more of her remaining letters, the more the interest in her and appreciation of her grew. With her distinctive voice, her abundance, and her exploration of her private world, she is now seen by many as one of the great lyric poets. 
+To celebrate Melvyn Bragg’s 27 years presenting In Our Time, five well-known fans of the programme have chosen their favourite episodes. Comedian Frank Skinner has picked the episode on the life and work of the poet Emily Dickinson and recorded an introduction to it. (This introduction will be available on BBC Sounds and the In Our Time webpage shortly after the broadcast and will be longer than the version broadcast on Radio 4). Emily Dickinson was arguably the most startling and original poet in America in the C19th. According to Thomas Wentworth Higginson, her correspondent and mentor, writing 15 years after her death, "Few events in American literary history have been more curious than the sudden rise of Emily Dickinson into a posthumous fame only more accentuated by the utterly recluse character of her life and by her aversion to even a literary publicity." That was in 1891 and, as more of Dickinson's poems were published, and more of her remaining letters, the more the interest in her and appreciation of her grew.
+
+With her distinctive voice, her abundance, and her exploration of her private world, she is now seen by many as one of the great lyric poets. 
+
 
 With 
 
@@ -87,3 +88,7 @@ This episode was first broadcast in May 2017.
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the people, ideas, events and discoveries that have shaped our world
 
 In Our Time is a BBC Studios production
+
+first_broadcast_date: "2017-05-11T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/b08p5lbp"

@@ -3,11 +3,10 @@ pid: "m0025l1q"
 title: "Nizami Ganjavi"
 subtitle: "Nizami Ganjavi"
 synopsis: "Melvyn Bragg and guests discuss the great 12th-century Persian epic romantic poet."
-first_broadcast_date: "2024-12-05T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m0025l1q"
 ---
 
 Melvyn Bragg and guests discuss one of the greatest romantic poets in Persian literature.  Nizami Ganjavi (c1141–1209) is was born in the city of Ganja in what is now Azerbaijan and his popularity soon spread throughout the Persian-speaking lands and beyond. Nizami is best known for his Khamsa, a set of five epic poems that contains a famous retelling of the tragic love story of King Khosrow II (c570-628) and the Christian princess Shirin (unknown-628) and the legend of Layla and Majnun.  Not only did he write romances: his poetry also displays a dazzling knowledge of philosophy, astronomy, botany and the life of Alexander the Great.
+
 
 With 
 
@@ -57,3 +56,7 @@ Kamran Talattof, Jerome W. Clinton, and K. Allin Luther, The Poetry of Nizami Ga
 C. van Ruymbeke, Science and Poetry in Medieval Persia: The Botany of Nizami's Khamsa (Cambridge University Press, 2007) 
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2024-12-05T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m0025l1q"

@@ -3,11 +3,10 @@ pid: "m001x50m"
 title: "The Waltz"
 subtitle: "The Waltz"
 synopsis: "Melvyn Bragg and guests discuss the impact of the waltz on British society and culture."
-first_broadcast_date: "2024-03-14T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/m001x50m"
 ---
 
 Melvyn Bragg and guests discuss the dance which, from when it reached Britain in the early nineteenth century, revolutionised the relationship between music, literature and people here for the next hundred years.  While it may seem formal now, it was the informality and daring that drove its popularity, with couples holding each other as they spun round a room to new lighter music popularised by Johann Strauss, father and son, such as The Blue Danube.  Soon the Waltz expanded the creative world in poetry, ballet, novellas and music, from the Ballets Russes of Diaghilev to Moon River and Are You Lonesome Tonight.
+
 
 With
 
@@ -69,3 +68,7 @@ David Wyn Jones, The Strauss Dynasty and Habsburg Vienna (Cambridge University P
 Sevin H. Yaraman, Revolving Embrace: The Waltz as Sex, Steps, and Sound (Pendragon Press, 2002)
 
 Rishona Zimring, Social Dance and the Modernist Imagination in Interwar Britain (Ashgate Press, 2013)
+
+first_broadcast_date: "2024-03-14T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/m001x50m"

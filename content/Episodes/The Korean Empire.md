@@ -3,11 +3,10 @@ pid: "m002bj6d"
 title: "The Korean Empire"
 subtitle: "The Korean Empire"
 synopsis: "How Korea embraced modernisation at the end of the 19th Century in a bid for independence."
-first_broadcast_date: "2025-05-01T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m002bj6d"
 ---
 
 Melvyn Bragg and guests discuss Korea's brief but significant period as an empire as it moved from the 500-year-old dynastic Joseon monarchy towards modernity. It was in October 1897 that King Gojong declared himself Emperor, seizing his chance when the once-dominant China lost to Japan in the First Sino-Japanese War. The king wanted to have the same status as the neighbouring Russian, Chinese and Japanese Emperors, to shore up a bid for Korean independence and sovereignty when the world’s major powers either wanted to open Korea up to trade or to colonise it.  The Korean Empire lasted only thirteen years, yet it was a time of great transformation for this state and the whole region with lasting consequences in the next century…
+
 
 With 
 
@@ -53,3 +52,7 @@ Andre Schmid, Korea Between Empires, 1895-1919 (Columbia University Press, 2002)
 Vladimir Tikhonov, Social Darwinism and Nationalism in Korea: The Beginnings, 1880s-1910s (Brill, 2010)
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2025-05-01T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m002bj6d"

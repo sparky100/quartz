@@ -3,11 +3,10 @@ pid: "m0029jjb"
 title: "The Gracchi"
 subtitle: "The Gracchi"
 synopsis: "Why two brothers became linked to the fall of the Roman Republic and rise of the emperors."
-first_broadcast_date: "2025-04-03T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m0029jjb"
 ---
 
 Melvyn Bragg and guests discuss the brothers Tiberius and Gaius Gracchus whose names are entwined with the end of Rome's Republic and the rise of the Roman Emperors. As tribunes, they brought popular reforms to the Roman Republic at the end of the 2nd century BC. Tiberius (c163-133BC) brought in land reform so every soldier could have his farm, while Gaius (c154-121BC) offered cheap grain for Romans and targeted corruption among the elites. Those elites saw the reforms as such a threat that they had the brothers killed: Tiberius in a shocking murder led by the Pontifex Maximus, the high priest, in 133BC and Gaius 12 years later with the senate's approval. This increase in political violence was to destabilise the Republic, forever tying the Gracchi to the question of why Rome’s Republic gave way to the Rome of Emperors.
+
 
 With
 
@@ -53,3 +52,7 @@ Catherine Steel, The End of the Roman Republic, 146 to 44 BC: Conquest and Crisi
 David Stockton, The Gracchi (Oxford University Press, 1979)
 
 In Our Time is a BBC Studios Audio Production
+
+first_broadcast_date: "2025-04-03T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m0029jjb"

@@ -3,8 +3,6 @@ pid: b0092j0x
 title: Ada Lovelace
 subtitle: Ada Lovelace
 synopsis: Melvyn Bragg and guests discuss Ada Lovelace - the Victorian ‘enchantress of numbers’.
-first_broadcast_date: 2008-03-06T09:00:00Z
-website_url: https://www.bbc.co.uk/programmes/b0092j0x
 tags:
   - Mathematics
 ---
@@ -13,7 +11,12 @@ Melvyn Bragg and guests discuss the 19th century mathematician Ada Lovelace.  De
 
 Ada Lovelace has been called many things - the first computer programmer and a prophet of the computer age – but most poetically perhaps by Babbage himself as an ‘enchantress of numbers’.
 
+
 With  Patricia Fara, Senior Tutor at Clare College, Cambridge; Doron Swade, Visiting Professor in the History of Computing at Portsmouth University; John Fuegi, Visiting Professor in Biography at Kingston University.
 #Mathematics
 
 [[Alan Turing]]
+
+first_broadcast_date: 2008-03-06T09:00:00Z
+
+website_url: https://www.bbc.co.uk/programmes/b0092j0x

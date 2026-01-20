@@ -3,8 +3,10 @@ pid: "b00pxrr7"
 title: "The Glencoe Massacre"
 subtitle: "The Glencoe Massacre"
 synopsis: "Melvyn Bragg and guests discuss the Glencoe Massacre of 1692."
-first_broadcast_date: "2010-01-21T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/b00pxrr7"
 ---
 
 Melvyn Bragg and guests Karin Bowie, Murray Pittock and Daniel Szechi discuss the Glencoe Massacre of 1692, why it happened, and its lasting repercussions.On a winter night in 1692, a company of soldiers quartered with the MacDonalds of Glencoe rose early and slaughtered their hosts. About 38 men, women and children were killed. Their homes were torched and many survivors died as they fled into the snow. This mass killing was branded by a Scottish Parliamentary Commission of Inquiry as 'murder under trust'.Why did this still infamous atrocity happen? The answer takes in the seismic impact of the Glorious Revolution of 1688 and the ongoing struggles for religious power that swept through the country in the 17th century.  Crucially, Britain was at war in Europe, and the distracting nature of the conflict in Scotland, as far as the London government was concerned, helped to give the events at Glencoe their particular character.  But this is also a story of a deadline and the fatal consequences of the Glencoe MacDonalds' attempts to meet it - and of how their technical failure to do so was exploited.The Glencoe Massacre had a severe impact on the reputation of the government of the Protestant King William III, who had ousted the Catholic James II with the support of the English and Scottish Parliaments only four years earlier. Some historians contend that it pushed the two states along the road to the Act of Union of 1707.  Karin Bowie is Lecturer in Scottish History at the University of Glasgow; Murray Pittock is Bradley Professor of English Literature at the University of Glasgow; Daniel Szechi is Professor of Early Modern History at the University of Manchester.
+
+first_broadcast_date: "2010-01-21T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/b00pxrr7"

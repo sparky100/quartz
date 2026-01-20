@@ -3,9 +3,11 @@ pid: "p003hyf5"
 title: "Prime Numbers"
 subtitle: "Prime Numbers"
 synopsis: "Melvyn Bragg examines prime numbers and their mysterious role in the universe of numbers."
-first_broadcast_date: "2006-01-12T09:00:00Z"
-website_url: "https://www.bbc.co.uk/programmes/p003hyf5"
 ---
 
 Melvyn Bragg and guests discuss prime numbers: 2, 3, 5, 7, 11, 13, 17 … This sequence of numbers goes on literally forever. Recently, a team of researchers in Missouri successfully calculated the highest prime number - it has 9.1 million digits. For nearly two and a half thousand years, since Euclid first described the prime numbers in his book Elements, mathematicians have struggled to write a rule to predict what comes next in the sequence. The Swiss mathematician Leonhard Euler feared that it is "a mystery into which the human mind will never penetrate." But others have been more hopeful... In the middle of the nineteenth century, the German mathematician Bernhard Riemann discovered a connection between prime numbers and a complex mathematical function called the 'zeta function'. Ever since, mathematicians have laboured to prove the existence of this connection and reveal the rules behind the elusive sequence. What exactly are prime numbers and what secrets might they unlock about our understanding of atoms? What are the rules that may govern the prime sequence? And is it possible that the person who proves Riemann's Hypothesis may bring about the collapse of the world financial system? With Marcus du Sautoy, Professor of Mathematics and Fellow of Wadham College at the University of Oxford; Robin Wilson, Professor of Pure Mathematics at the Open University and Gresham Professor of Geometry; Jackie Stedall, Junior Research Fellow in the History of Mathematics at Queen's College, Oxford.
 #Mathematics
+
+first_broadcast_date: "2006-01-12T09:00:00Z"
+
+website_url: "https://www.bbc.co.uk/programmes/p003hyf5"

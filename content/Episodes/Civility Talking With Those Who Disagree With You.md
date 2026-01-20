@@ -3,11 +3,10 @@ pid: "m002f9f4"
 title: "Civility: Talking With Those Who Disagree With You"
 subtitle: "Civility: Talking With Those Who Disagree With You"
 synopsis: "On the value of keeping conversations going with opponents, from the Reformation onwards"
-first_broadcast_date: "2025-07-03T09:00:00+01:00"
-website_url: "https://www.bbc.co.uk/programmes/m002f9f4"
 ---
 
 Melvyn Bragg and guests discuss the idea that Civility, in one of its meanings, is among the most valuable social virtues: the skill to discuss topics that really matter to you, with someone who disagrees and yet somehow still get along. In another of its meanings, when Civility describes the limits of behaviour that is acceptable, the idea can reflect society at its worst: when only those deemed 'civil enough' are allowed their rights, their equality and even their humanity. Between these extremes, Civility is a slippery idea that has fascinated philosophers especially since the Reformation, when competing ideas on how to gain salvation seemed to make it impossible to disagree and remain civil.
+
 
 With 
 
@@ -53,3 +52,7 @@ Lauren Working, The Making of an Imperial Polity: Civility and America in the Ja
 In Our Time is a BBC Studios Audio Production
 
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the characters, events and discoveries that have shaped our world.
+
+first_broadcast_date: "2025-07-03T09:00:00+01:00"
+
+website_url: "https://www.bbc.co.uk/programmes/m002f9f4"
