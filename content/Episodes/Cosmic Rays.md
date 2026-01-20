@@ -22,7 +22,7 @@ Professor of Physics at the University of Liverpool.
 
 
 Producer: Thomas Morris.
-#Physics
+
 
 first_broadcast_date: "2013-05-16T09:00:00+01:00"
 

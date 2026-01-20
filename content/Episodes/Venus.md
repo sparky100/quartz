@@ -22,7 +22,7 @@ Andrew Coates
 Professor of Physics at Mullard Space Science Laboratory, University College London
 
 Produced by: Simon Tillotson and Julia Johnson
-#Physics
+
 
 first_broadcast_date: "2018-12-27T09:00:00Z"
 

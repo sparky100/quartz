@@ -22,7 +22,7 @@ Simon Redfern
 Professor of Mineral Physics at the University of Cambridge
 
 Producer: Simon Tillotson.
-#Physics
+
 
 first_broadcast_date: "2015-04-30T09:00:00+01:00"
 

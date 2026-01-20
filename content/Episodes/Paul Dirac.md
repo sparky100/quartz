@@ -22,7 +22,7 @@ David Berman
 Professor of Theoretical Physics at Queen Mary University of London
 
 Producer: Simon Tillotson
-#Physics
+
 
 first_broadcast_date: "2020-03-05T09:00:00Z"
 

@@ -20,8 +20,8 @@ Elizabeth Mansfield
 Professor of Mathematics at the University of Kent 
 
 Producer: Simon Tillotson
-#Mathematics
-#Physics
+
+
 
 [[Relativity]]
 [[Albert Einstein]]

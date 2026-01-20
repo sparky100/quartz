@@ -22,7 +22,7 @@ Mike Glazer
 Emeritus Professor of Physics at the University of Oxford and Visiting Professor of Physics at the University of Warwick
 
 Producer: Natalia Fernandez.
-#Physics
+
 
 first_broadcast_date: "2012-11-29T09:00:00Z"
 

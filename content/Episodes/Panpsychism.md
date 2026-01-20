@@ -45,7 +45,7 @@ Thomas Nagel, Mortal Questions (Cambridge University Press, 2012), especially th
 David Skrbina, Panpsychism in the West (MIT Press, 2007)
  
 James van Cleve, 'Mind-Dust or Magic? Panpsychism versus Emergence' (Philosophical Perspectives Vol. 4, Action Theory and Philosophy of Mind, Ridgeview Publishing Company, 1990)
-#Physics
+
 
 first_broadcast_date: "2024-01-25T09:00:00Z"
 

@@ -10,8 +10,8 @@ With
 Val Gibson, Reader in High Energy Physics at the University of Cambridge; 
 Frank Close, Professor of Physics at Exeter College, University of Oxford; 
 Ruth Gregory, Professor of Mathematics and Physics at the University of Durham
-#Mathematics
-#Physics
+
+
 
 first_broadcast_date: "2007-10-04T09:00:00+01:00"
 

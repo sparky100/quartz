@@ -24,8 +24,8 @@ Ted Forgan
 Emeritus Professor of Physics at the University of Birmingham
 
 Producer: Simon Tillotson
-#Mathematics
-#Physics
+
+
 
 first_broadcast_date: "2019-05-23T09:00:00+01:00"
 

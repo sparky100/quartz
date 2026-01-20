@@ -24,7 +24,7 @@ Stephen Blundell
 Professor of Physics at the University of Oxford and Fellow of Mansfield College
 
 Producer: Simon Tillotson
-#Physics
+
 
 first_broadcast_date: "2023-01-26T09:00:00Z"
 

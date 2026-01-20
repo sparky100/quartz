@@ -20,7 +20,7 @@ Robert Iliffe
 Professor of Intellectual History and History of Science at the University of Sussex
 
 Producer: Thomas Morris.
-#Physics
+
 
 first_broadcast_date: "2014-02-27T09:00:00Z"
 

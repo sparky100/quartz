@@ -12,7 +12,7 @@ With the growing politicisation of animal rights, it is a subject which is incre
 With 
 Colin Blakemore, Professor of Physiology, Oxford University, President of the British Association for the Advancement of Science, Fellow of the Royal Society and targeted in the 1980s by animal welfare activists protesting at his research methods; 
 Dr Lynda Birke, biologist, teacher at Lancaster and Warwick Universities, and previously worked for 7 years in animal behaviour at the Open University.
-#Physics
+
 
 first_broadcast_date: "1999-03-18T09:02:00Z"
 

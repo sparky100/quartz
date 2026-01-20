@@ -26,7 +26,7 @@ Producers: Simon Tillotson and Julia Johnson
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the people, ideas, events and discoveries that have shaped our world. 
 
 In Our Time is a BBC Studios production
-#Physics
+
 
 first_broadcast_date: "2020-12-31T09:00:00Z"
 

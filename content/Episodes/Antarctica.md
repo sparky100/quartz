@@ -13,7 +13,7 @@ Julian Dowdeswell, Director of the Scott Polar Research Institute and Professor 
 David Walton,Emeritus Professor at the British Antarctic Survey and Visiting Professor at the University of Liverpool.
 
 Producer: Thomas Morris.
-#Physics
+
 
 first_broadcast_date: "2010-06-24T09:00:00+01:00"
 

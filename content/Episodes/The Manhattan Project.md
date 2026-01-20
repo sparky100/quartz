@@ -24,7 +24,7 @@ Frank Close
 Emeritus Professor of Theoretical Physics at the University of Oxford and a Fellow of Exeter College, Oxford
 
 Producer: Simon Tillotson
-#Physics
+
 
 first_broadcast_date: "2021-10-07T09:00:00+01:00"
 

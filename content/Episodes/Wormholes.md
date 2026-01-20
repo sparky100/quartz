@@ -43,8 +43,8 @@ Matt Visser, Lorentzian Wormholes: From Einstein to Hawking (American Institute 
 
 
 In Our Time is a BBC Studios Audio Production
-#Mathematics
-#Physics
+
+
 
 first_broadcast_date: "2024-09-26T09:00:00+01:00"
 

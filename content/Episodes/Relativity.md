@@ -21,8 +21,8 @@ Emeritus Rouse Ball Professor of Mathematics at the University of Oxford.
 
 
 Producer: Thomas Morris.
-#Mathematics
-#Physics
+
+
 
 first_broadcast_date: "2013-06-06T09:00:00+01:00"
 

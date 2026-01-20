@@ -22,8 +22,8 @@ Jim Al-Khalili
 Professor of Physics at the University of Surrey
 
 Producer: Simon Tillotson.
-#Mathematics
-#Physics
+
+
 
 first_broadcast_date: "2017-02-16T09:00:00Z"
 

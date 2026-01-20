@@ -20,7 +20,7 @@ Steven T Bramwell
 Professor of Physics and former Professor of Chemistry at University College London
 
 Producer: Simon Tillotson.
-#Physics
+
 
 first_broadcast_date: "2015-03-26T09:00:00Z"
 

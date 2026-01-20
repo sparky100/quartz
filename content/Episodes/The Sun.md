@@ -20,7 +20,7 @@ Louise Harra
 Professor of Solar Physics at UCL Mullard Space Science Laboratory
 
 Producer: Thomas Morris.
-#Physics
+
 
 first_broadcast_date: "2014-07-10T09:00:00+01:00"
 

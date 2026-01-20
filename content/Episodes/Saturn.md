@@ -20,7 +20,7 @@ And
 
 Andrew Coates
 Deputy Director in charge of the Solar System at the Mullard Space Science Laboratory at UCL.
-#Physics
+
 
 first_broadcast_date: "2016-01-14T09:00:00Z"
 

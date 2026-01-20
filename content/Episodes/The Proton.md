@@ -22,7 +22,7 @@ Simon Jolly
 Lecturer in High Energy Physics at University College London
 
 Producer: Simon Tillotson.
-#Physics
+
 
 first_broadcast_date: "2018-04-26T09:00:00+01:00"
 

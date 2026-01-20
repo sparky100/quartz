@@ -23,7 +23,7 @@ Professor of Physics at Queens University, Belfast
 
 
 Producer: Simon Tillotson.
-#Physics
+
 
 first_broadcast_date: "2016-10-13T09:00:00+01:00"
 

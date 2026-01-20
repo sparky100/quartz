@@ -36,7 +36,7 @@ Charles H. Langmuir and Wallace Broecker, How to Build a Habitable Planet: The S
 Joshua Winn, The Little Book of Exoplanets (Princeton University Press, 2023)
 
 In Our Time is a BBC Studios Audio Production
-#Physics
+
 
 first_broadcast_date: "2024-12-12T09:00:00Z"
 

@@ -20,7 +20,7 @@ Susan Cartwright
 Senior Lecturer in Physics and Astronomy at the University of Sheffield.
 
 Producer: Thomas Morris.
-#Physics
+
 
 first_broadcast_date: "2015-02-12T09:00:00Z"
 

@@ -20,7 +20,7 @@ Frank James
 Professor of the History of Science at the Royal Institution
 
 Producer: Victoria Brignell.
-#Physics
+
 
 first_broadcast_date: "2015-12-24T09:00:00Z"
 

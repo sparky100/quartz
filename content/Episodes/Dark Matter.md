@@ -20,7 +20,7 @@ Anne Green
 Reader in Physics at the University of Nottingham
 
 Producer: Simon Tillotson.
-#Physics
+
 
 first_broadcast_date: "2015-03-12T09:00:00Z"
 

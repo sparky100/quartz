@@ -23,8 +23,8 @@ Professor of Physics and former Professor of Chemistry at University College Lon
 
 
 Producer: Simon Tillotson.
-#Mathematics
-#Physics
+
+
 
 first_broadcast_date: "2015-09-24T09:00:00+01:00"
 

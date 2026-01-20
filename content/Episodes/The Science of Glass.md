@@ -20,7 +20,7 @@ Paul McMillan
 Professor of Chemistry at University College London
 
 Producer: Simon Tillotson.
-#Physics
+
 
 first_broadcast_date: "2015-05-28T09:00:00+01:00"
 

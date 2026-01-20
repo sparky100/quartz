@@ -22,8 +22,8 @@ Tim Horbury
 Professor of Physics at Imperial College London
 
 Producer: Simon Tillotson
-#Mathematics
-#Physics
+
+
 
 first_broadcast_date: "2020-01-23T09:00:00Z"
 

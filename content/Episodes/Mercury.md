@@ -31,7 +31,7 @@ Emma Bunce, ‘All (X-ray) eyes on Mercury’ (Astronomy & Geophysics, Volume 64
 Emma Bunce et al, ‘The BepiColombo Mercury Imaging X-Ray Spectrometer: Science Goals, Instrument Performance and Operations’ (Space Science Reviews: SpringerLink, volume 216, article number 126, Nov 2020)
 
 David A. Rothery, Planet Mercury: From Pale Pink Dot to Dynamic World (Springer, 2014)
-#Physics
+
 
 first_broadcast_date: "2024-05-02T09:00:00+01:00"
 

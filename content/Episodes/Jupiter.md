@@ -15,7 +15,7 @@ Michele Dougherty, Professor of Space Physics and Head of the Department of Phys
 Leigh Fletcher, Professor of Planetary Science at the University of Leicester, and interdisciplinary scientist for JUICE
 
 Carolin Crawford, Emeritus Fellow of Emmanuel College, University of Cambridge, and Emeritus Member of the Institute of Astronomy, Cambridge
-#Physics
+
 
 first_broadcast_date: "2023-06-29T09:00:00+01:00"
 

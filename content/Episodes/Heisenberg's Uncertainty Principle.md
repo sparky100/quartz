@@ -36,7 +36,7 @@ David C. Cassidy, Beyond Uncertainty: Heisenberg, Quantum Physics, And The Bomb 
 Werner Heisenberg, Physics and Philosophy (first published 1958; Penguin Classics, 2000)
 
 Carlo Rovelli, Helgoland: The Strange and Beautiful Story of Quantum Physics (Penguin, 2022)
-#Physics
+
 
 first_broadcast_date: "2024-02-29T09:00:00Z"
 

@@ -34,7 +34,7 @@ Marissa Moss, The Woman Who Split the Atom: The Life of Lise Meitner (Abrams Boo
 Patricia Rife, Lise Meitner and the Dawn of the Nuclear Age (Birkhauser Verlag, 1999) 
 
 In Our Time is a BBC Studios Audio Production
-#Physics
+
 
 first_broadcast_date: "2025-05-08T09:00:00+01:00"
 

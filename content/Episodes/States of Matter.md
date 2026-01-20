@@ -20,7 +20,7 @@ Justin Wark
 Professor of Physics and Fellow of Trinity College at the University of Oxford
 
 Producer: Thomas Morris.
-#Physics
+
 
 first_broadcast_date: "2014-04-03T09:00:00+01:00"
 

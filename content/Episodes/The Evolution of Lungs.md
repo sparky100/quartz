@@ -54,8 +54,8 @@ Mathew J. Wedel, ‘The evolution of vertebral pneumaticity in sauropod dinosaur
 In Our Time is a BBC Studios Audio Production
 
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the characters, events and discoveries that have shaped our world.
-#Mathematics
-#Physics
+
+
 
 first_broadcast_date: "2025-06-12T09:00:00+01:00"
 
