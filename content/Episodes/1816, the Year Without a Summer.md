@@ -8,7 +8,6 @@ website_url: https://www.bbc.co.uk/programmes/b077j4yv
 tags:
   - History
 ---
-
 Melvyn Bragg and guests discuss the impact of the eruption of Mt Tambora, in 1815, on the Indonesian island of Sambawa. This was the largest volcanic eruption in recorded history and it had the highest death toll, devastating people living in the immediate area. Tambora has been linked with drastic weather changes in North America and Europe the following year, with frosts in June and heavy rains throughout the summer in many areas. This led to food shortages, which may have prompted westward migration in America and, in a Europe barely recovered from the Napoleonic Wars, led to widespread famine. 
 
 With 
