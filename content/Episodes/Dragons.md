@@ -3,6 +3,8 @@ pid: "m002dzy4"
 title: "Dragons"
 subtitle: "Dragons"
 synopsis: "Melvyn Bragg and guests discuss this ubiquitous mythical creature."
+first_broadcast_date: "2025-06-26T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m002dzy4"
 ---
 
 Melvyn Bragg and guests explore dragons, literally and symbolically potent creatures that have appeared in many different guises in countries and cultures around the world. 
@@ -10,7 +12,6 @@ Melvyn Bragg and guests explore dragons, literally and symbolically potent creat
 Sometimes compared to snakes, alligators, lions and even dinosaurs, dragons have appeared on clay tablets in ancient Mesopotamia, in the Chinese zodiac, in the guise of the devil in Christian religious texts and in the national symbolism of the countries of England and Wales. 
 
 They are often portrayed as terrifying but sometimes appear as sacred and even benign creatures, and they continue to populate our cultural fantasies through blockbuster films, TV series and children’s books. 
-
 
 With:
 
@@ -63,7 +64,3 @@ Yang Xin, Li Yihua, and Xu Naixiang, Art of the Dragon (Shambhala, 1988)
 In Our Time is a BBC Studios Audio production 
 
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the characters, events and discoveries that have shaped our world.
-
-first_broadcast_date: "2025-06-26T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/m002dzy4"

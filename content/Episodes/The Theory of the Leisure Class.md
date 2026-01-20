@@ -3,10 +3,11 @@ pid: "m001sdrt"
 title: "The Theory of the Leisure Class"
 subtitle: "The Theory of the Leisure Class"
 synopsis: "Melvyn Bragg and guests discuss Veblen on conspicuous consumption and conspicuous leisure."
+first_broadcast_date: "2023-11-16T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001sdrt"
 ---
 
 Melvyn Bragg and guests discuss the most influential work of Thorstein Veblen (1857-1929). In 1899, during America’s Gilded Age, Veblen wrote The Theory of the Leisure Class as a reminder that all that glisters is not gold.  He picked on traits of the waning landed class of Americans and showed how the new moneyed class was adopting these in ways that led to greater waste throughout society. He called these conspicuous leisure and conspicuous consumption and he developed a critique of a system that favoured profits for owners without regard to social good.  The Theory of the Leisure Class was a best seller and funded Veblen for the rest of his life, and his ideas influenced the New Deal of the 1930s. Since then, an item that becomes more desirable as it becomes more expensive is known as a Veblen good. 
-
 
 With 
 
@@ -56,7 +57,3 @@ Thorstein Veblen, Conspicuous Consumption (Penguin, 2005)
 Thorstein Veblen, The Complete Works (Musaicum Books, 2017)
 
 Charles J. Whalen (ed.), Institutional Economics: Perspective and Methods in Pursuit of a Better World (Routledge, 2021)
-
-first_broadcast_date: "2023-11-16T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m001sdrt"

@@ -3,10 +3,11 @@ pid: "m00237yt"
 title: "Wormholes"
 subtitle: "Wormholes"
 synopsis: "Melvyn Bragg and guests test the idea that there are shortcuts between distant galaxies."
+first_broadcast_date: "2024-09-26T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m00237yt"
 ---
 
 Melvyn Bragg and guests discuss the tantalising idea that there are shortcuts between distant galaxies, somewhere out there in the universe. The idea emerged in the context of Einstein's theories and the challenge has been not so much to prove their unlikely existence as to show why they ought to be impossible.  The universe would have to folded back on itself in places, and there would have to be something to make the wormholes and then to keep them open.  But is there anywhere in the vast universe like that?  Could there be holes that we or more advanced civilisations might travel through, from one galaxy to another and, if not, why not? 
-
 
 With 
 
@@ -45,7 +46,3 @@ Matt Visser, Lorentzian Wormholes: From Einstein to Hawking (American Institute 
 In Our Time is a BBC Studios Audio Production
 #Mathematics
 #Physics
-
-first_broadcast_date: "2024-09-26T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/m00237yt"

@@ -3,10 +3,11 @@ pid: "m0027jwv"
 title: "Sir John Soane"
 subtitle: "Sir John Soane"
 synopsis: "Melvyn Bragg and guests discuss the influential English architect John Soane."
+first_broadcast_date: "2025-02-06T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m0027jwv"
 ---
 
 Melvyn Bragg and guests discuss the architect Sir John Soane (1753 -1837), the son of a bricklayer. He rose up the ranks of his profession as an architect to see many of his designs realised to great acclaim, particularly the Bank of England and the Law Courts at Westminster Hall, although his work on both of those has been largely destroyed. He is now best known for his house in Lincoln’s Inn Fields in London, which he remodelled and crammed with antiquities and artworks: he wanted visitors to experience the house as a dramatic grand tour of Europe in microcosm. He became professor of architecture at the Royal Academy, and in a series of influential lectures he set out his belief in the power of buildings to enlighten people about “the poetry of architecture”. Visitors to the museum and his other works can see his trademark architectural features such as his shallow dome, which went on to inspire Britain's red telephone boxes.
-
 
 With: 
 
@@ -61,7 +62,3 @@ David Watkin, Sir John Soane: Enlightenment Thought and the Royal Academy Lectur
 David Watkin, Sir John Soane: The Royal Academy Lectures (Cambridge University Press, 2000)
 
 John Wilton-Ely, Piranesi, Paestum & Soane (Prestel, 2013)
-
-first_broadcast_date: "2025-02-06T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m0027jwv"

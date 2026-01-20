@@ -3,10 +3,8 @@ pid: "b00pr54s"
 title: "The Frankfurt School"
 subtitle: "The Frankfurt School"
 synopsis: "Melvyn Bragg and guests discuss the ideas and influence of the Frankfurt School."
+first_broadcast_date: "2010-01-14T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b00pr54s"
 ---
 
 Melvyn Bragg and guests Raymond Geuss, Esther Leslie and Jonathan RÃ©e discuss the Frankfurt School.This group of influential left-wing German thinkers set out, in the wake of Germany's defeat in the First World War, to investigate why their country had not had a revolution, despite the apparently revolutionary conditions that spread through Germany in the wake of the 1918 Armistice.  To find out why the German workers had not flocked to the Red Flag, Theodor Adorno, Max Horkheimer, Walter Benjamin and others came together around an Institute set up at Frankfurt University and began to focus their critical attention not on the economy, but on culture, asking how it affected people's political outlook and activities.  But then, with the rise of the Nazis, they found themselves fleeing to 1940s California. There, their disenchantment with American popular culture combined with their experiences of the turmoil of the interwar years to produce their distinctive, pessimistic worldview.  With the defeat of Nazism, they returned to Germany to try to make sense of the route their native country had taken into darkness. In the 1960s, the Frankfurt School's argument - that most of culture helps to keep its audience compliant with capitalism - had an explosive impact. Arguably, it remains influential today.Raymond Geuss is a professor in the Faculty of Philosophy at the University of Cambridge; Esther Leslie is Professor in Political Aesthetics at Birkbeck College, University of London; Jonathan RÃ©e is a freelance historian and philosopher, currently Visiting Professor at Roehampton University and at the Royal College of Art.
-
-first_broadcast_date: "2010-01-14T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/b00pr54s"

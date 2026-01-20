@@ -3,10 +3,11 @@ pid: "m001y2z4"
 title: "Lysistrata"
 subtitle: "Lysistrata"
 synopsis: "Melvyn Bragg and guests discuss Aristophanes' comedy in which a sex strike brings peace."
+first_broadcast_date: "2024-04-11T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001y2z4"
 ---
 
 Melvyn Bragg and guests discuss Aristophanes' comedy in which the women of Athens and Sparta, led by Lysistrata, secure peace in the long-running war between them by staging a sex strike.  To the men in the audience in 411BC, the idea that peace in the Peloponnesian War could be won so easily was ridiculous and the thought that their wives could have so much power over them was even more so.  However Aristophanes' comedy also has the women seizing the treasure in the Acropolis that was meant to fund more fighting in an emergency, a fund the Athenians had recently had to draw on. They were in a perilous position and, much as they might laugh at Aristophanes' jokes, they knew there were real concerns about the actual cost of the war in terms of wealth and manpower. 
-
 
 With
 
@@ -56,7 +57,3 @@ Ralph M. Rosen and Helene P. Foley (eds.), Aristophanes and Politics. New Studie
 Donald Sells, Parody, Politics and the Populace in Greek Old Comedy (Bloomsbury, 2018)
 
 David Stuttard (ed.), Looking at Lysistrata: Eight Essays and a New Version of Aristophanes' Provocative Comedy (Bristol Classical Press, 2010)
-
-first_broadcast_date: "2024-04-11T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/m001y2z4"

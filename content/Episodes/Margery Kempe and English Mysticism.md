@@ -3,12 +3,13 @@ pid: "b07cyfkg"
 title: "Margery Kempe and English Mysticism"
 subtitle: "Margery Kempe and English Mysticism"
 synopsis: "Melvyn Bragg and guests discuss Margery Kempe, the medieval English mystic."
+first_broadcast_date: "2016-06-02T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b07cyfkg"
 ---
 
 To celebrate Melvyn Bragg’s 27 years presenting In Our Time, five well-known fans of the programme have chosen their favourite episodes. Author and columnist Caitlin Moran has picked the episode on the English medieval mystic Margery Kempe and recorded an introduction to it. Margery Kempe (1373-1438) produced an account of her extraordinary life in a book she dictated, "The Book of Margery Kempe." She went on pilgrimage to Jerusalem, to Rome and Santiago de Compostela, purchasing indulgences on her way, met with the anchoress Julian of Norwich and is honoured by the Church of England each 9th November. She sometimes doubted the authenticity of her mystical conversations with God, as did the authorities who saw her devotional sobbing, wailing and convulsions as a sign of insanity and dissoluteness. Her Book was lost for centuries, before emerging in a private library in 1934.
 
 This In Our Time episode was first broadcast in June 2016. The image (above), of an unknown woman, comes from a pew at Margery Kempe's parish church, St Margaret’s, Kings Lynn and dates from c1375. 
-
 
 With 
 
@@ -52,7 +53,3 @@ Barry Windeatt (ed.), The Book of Margery Kempe (Penguin Classics, 2000)
 Spanning history, religion, culture, science and philosophy, In Our Time from BBC Radio 4 is essential listening for the intellectually curious. In each episode, host Melvyn Bragg and expert guests explore the people, ideas, events and discoveries that have shaped our world
 
 In Our Time is a BBC Studios production
-
-first_broadcast_date: "2016-06-02T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/b07cyfkg"

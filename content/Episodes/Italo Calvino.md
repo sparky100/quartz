@@ -3,10 +3,11 @@ pid: "m002552g"
 title: "Italo Calvino"
 subtitle: "Italo Calvino"
 synopsis: "Melvyn Bragg and guests discuss the influential 20th-century Italian novelist and essayist"
+first_broadcast_date: "2024-11-21T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m002552g"
 ---
 
 Melvyn Bragg and guests discuss the Italian author of Invisible Cities, If On A Winter's Night A Traveller, Cosmicomics and other celebrated novels, fables and short stories of the 20th Century. Calvino (1923 -1985) had a passionate belief that writing and art could make life better for everyone. Despite his parents being scientists, who dearly wanted him to be a scientist too, and his time fighting with the Partisans in Liguria in WWII during which his parents were held hostage by the Nazis, Calvino turned away from realism in his writing. Ideally, he said, he would have liked to be alive in the Enlightenment.  He moved towards the fantastical, drawing on his childhood reading while collecting a huge number of the fables of Italy and translating them from dialect into Italian to enrich the shared culture of his fellow citizens. His fresh perspective on the novel continues to inspire writers and delight readers in Italian and in translations around the world.
-
 
 With 
 
@@ -56,7 +57,3 @@ Kathryn Hume, Calvino's Fictions: Cogito and Cosmos (Clarendon Press, 1992)
 Martin McLaughlin, Italo Calvino (Edinburgh University Press, 1998)
 
 In Our Time is a BBC Studios Audio Production
-
-first_broadcast_date: "2024-11-21T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m002552g"

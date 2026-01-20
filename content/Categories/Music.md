@@ -1,2 +1,0 @@
-[[Beethoven]]
-[[Wagner]]

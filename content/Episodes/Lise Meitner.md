@@ -3,10 +3,11 @@ pid: "m002bt7s"
 title: "Lise Meitner"
 subtitle: "Lise Meitner"
 synopsis: "The Austrian-Jewish physicist who, in 1938, solved the question of nuclear fission."
+first_broadcast_date: "2025-05-08T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m002bt7s"
 ---
 
 Melvyn Bragg and guests discuss the decisive role of one of the great 20th Century physicists in solving the question of nuclear fission.  It is said that Meitner (1878-1968) made this breakthrough over Christmas 1938 while she was sitting on a log in Sweden during a snowy walk with her nephew Otto Frisch (1904-79). Both were Jewish-Austrian refugees who had only recently escaped from Nazi Germany.  Others had already broken uranium into the smaller atom barium, but could not explain what they found; was the larger atom bursting, or the smaller atom being chipped off or was something else happening?  They turned to Meitner. She, with Frisch, deduced the nucleus really was splitting like a drop of water into a dumbbell shape, with the electrical charges at each end forcing the divide, something previously thought impossible, and they named this ‘fission’.  This was a crucial breakthrough for which Meitner was eventually widely recognised if not at first.
-
 
 With
 
@@ -35,7 +36,3 @@ Patricia Rife, Lise Meitner and the Dawn of the Nuclear Age (Birkhauser Verlag, 
 
 In Our Time is a BBC Studios Audio Production
 #Physics
-
-first_broadcast_date: "2025-05-08T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/m002bt7s"

@@ -3,6 +3,8 @@ pid: "b04ykk4m"
 title: "Phenomenology"
 subtitle: "Phenomenology"
 synopsis: "Melvyn Bragg and guests discuss the philosophical movement phenomenology."
+first_broadcast_date: "2015-01-22T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b04ykk4m"
 ---
 
 Melvyn Bragg and guests discuss phenomenology, a style of philosophy developed by the German thinker Edmund Husserl in the first decades of the 20th century. Husserl's initial insights underwent a radical transformation in the work of his student Martin Heidegger, and played a key role in the development of French philosophy at the hands of writers like Emmanuel Levinas, Jean-Paul Sartre, Simone de Beauvoir and Maurice Merleau-Ponty.
@@ -18,7 +20,3 @@ Joanna Hodge, Professor of Philosophy at Manchester Metropolitan University
 Stephen Mulhall, Professor of Philosophy and Tutor at New College at the University of Oxford 
 
 Producer: Luke Mulhall.
-
-first_broadcast_date: "2015-01-22T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/b04ykk4m"

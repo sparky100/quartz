@@ -3,20 +3,24 @@ pid: "m001qdx1"
 title: "Albert Einstein"
 subtitle: "Albert Einstein"
 synopsis: "Melvyn Bragg and guests discuss Einstein's astonishing impact on theoretical physics."
+first_broadcast_date: "2023-09-14T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001qdx1"
 ---
 
 Melvyn Bragg and guests discuss the man who, in 1905, produced several papers that were to change the world of physics and whose name went on to become a byword for genius. This was Albert Einstein, then still a technical expert at a Swiss patent office, and that year of 1905 became known as his annus mirabilis ('miraculous year').  While Einstein came from outside the academic world, some such as Max Planck championed his theory of special relativity, his principle of mass-energy equivalence that followed, and his explanations of Brownian Motion and the photoelectric effect.  Yet it was not until 1919, when a solar eclipse proved his theory that gravity would bend light, that Einstein became an international celebrity and developed into an almost mythical figure.
 
-
 With 
 
-Richard Staley, Professor in History and Philosophy of Science at the University of Cambridge and Professor in History of Science at the University of Copenhagen
+Richard Staley
+Professor in History and Philosophy of Science at the University of Cambridge and Professor in History of Science at the University of Copenhagen
 
-Diana Kormos Buchwald, Robert M. Abbey Professor of History and Director and General Editor of The Einstein Papers Project at the California Institute of Technology
+Diana Kormos Buchwald
+Robert M. Abbey Professor of History and Director and General Editor of The Einstein Papers Project at the California Institute of Technology
 
 And
 
-John Heilbron,Professor Emeritus at the University of California, Berkeley
+John Heilbron 
+Professor Emeritus at the University of California, Berkeley
 
 Producer: Simon Tillotson
 
@@ -59,7 +63,3 @@ A. Douglas Stone, Einstein and the Quantum: The Quest of the Valiant Swabian (Pr
 Milena Wazeck (trans. Geoffrey S. Koby), Einstein's Opponents: The Public Controversy About the Theory of Relativity in the 1920s (Cambridge University Press, 2014)
 
 [[Emmy Noether]]
-
-first_broadcast_date: "2023-09-14T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/m001qdx1"

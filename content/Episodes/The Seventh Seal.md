@@ -3,10 +3,11 @@ pid: "m001qmkx"
 title: "The Seventh Seal"
 subtitle: "The Seventh Seal"
 synopsis: "Melvyn Bragg and guests discuss Bergman's iconic film of a knight playing chess with Death"
+first_broadcast_date: "2023-09-21T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m001qmkx"
 ---
 
 In the 1000th edition of In Our Time, Melvyn Bragg and guests discuss arguably the most celebrated film of the Swedish director Ingmar Bergman (1918-2007).  It begins with an image that, once seen, stays with you for the rest of your life: the figure of Death playing chess with a Crusader on the rocky Swedish shore.  The release  of this film in 1957 brought Bergman fame around the world.  We see Antonius Block, the Crusader, realising he can’t beat Death but wanting to prolong this final game for one last act, without yet knowing what that act might be. As he goes on a journey through a plague ridden world, his meeting with a family of jesters and their baby offers him some kind of epiphany. 
-
 
 With 
 
@@ -60,7 +61,3 @@ Paisley Livingston, Ingmar Bergman and the Rituals of Art (Cornell University Pr
 Birgitta Steene (ed.), Focus on The Seventh Seal (Prentice Hall, 1972)
 
 Birgitta Steene, Ingmar Bergman: A Reference Guide (Amsterdam University Press, 2014)
-
-first_broadcast_date: "2023-09-21T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/m001qmkx"

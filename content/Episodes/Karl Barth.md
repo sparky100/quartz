@@ -3,10 +3,11 @@ pid: "m001t2zf"
 title: "Karl Barth"
 subtitle: "Karl Barth"
 synopsis: "Melvyn Bragg and guests discuss the influential Swiss protestant theologian."
+first_broadcast_date: "2023-12-07T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001t2zf"
 ---
 
 Melvyn Bragg and guests discuss one of the most influential theologians of the twentieth century.  Karl Barth (1886 - 1968) rejected the liberal theology of his time which, he argued, used the Bible and religion to help humans understand themselves rather than prepare them to open themselves to divine revelation. Barth's aim was to put God and especially Christ at the centre of Christianity. He was alarmed by what he saw as the dangers in a natural theology where God might be found in a rainbow or an opera by Wagner;  for if you were open to finding God in German culture, you could also be open to accepting Hitler as God’s gift as many Germans did.  Barth openly refused to accept Hitler's role in the Church in the 1930s on these theological grounds as well as moral, for which he was forced to leave Germany for his native Switzerland.
-
 
 With
 
@@ -40,7 +41,3 @@ Paul T. Nimmo, Karl Barth: A Guide for the Perplexed (Bloomsbury, 2013)
 Christiane Tietz, Karl Barth: A Life in Conflict (Oxford University Press, 2021)
 
 John Webster, Karl Barth: Outstanding Christian Thinkers (Continuum, 2004)
-
-first_broadcast_date: "2023-12-07T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m001t2zf"

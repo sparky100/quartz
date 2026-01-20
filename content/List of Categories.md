@@ -1,17 +1,12 @@
-
-[[Art and Architecture]]
-[[Biology]]
+[[Categories/Biography]]
 [[Categories/Mathematics]]
 [[Categories/Literature]]
-[[Music]]
-[[Geology]]
-[[History]]
-[[People]]
-[[Philosophy]]
 [[Physics]]
+[[History]]
 [[Science]]
+[[Culture]]
+[[Philosophy]]
+[[Geology]]
 [[Religion]]
-[[Society and Culture]]
-
 
 

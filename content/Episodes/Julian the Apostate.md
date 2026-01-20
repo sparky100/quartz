@@ -3,10 +3,11 @@ pid: "m001xd7b"
 title: "Julian the Apostate"
 subtitle: "Julian the Apostate"
 synopsis: "Melvyn Bragg and guests discuss the emperor who aimed to return Christian Rome to paganism"
+first_broadcast_date: "2024-03-21T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001xd7b"
 ---
 
 Melvyn Bragg and guests discuss the last pagan ruler of the Roman Empire.  Fifty years after Constantine the Great converted to Christianity and introduced a policy of tolerating the faith across the empire, Julian (c.331 - 363 AD) aimed to promote paganism instead, branding Constantine the worst of all his predecessors.  Julian was a philosopher-emperor in the mould of Marcus Aurelius and was noted in his lifetime for his letters and his satires, and it was his surprising success as a general in his youth in Gaul that had propelled him to power barely twenty years after a rival had slaughtered his family.  Julian's pagan mission  and his life were brought to a sudden end while on campaign against the Sasanian Empire in the east, but he left so much written evidence of his ideas that he remains one of the most intriguing of all the Roman emperors and a hero to the humanists of the Enlightenment. 
-
 
 With 
 
@@ -50,7 +51,3 @@ H.C. Teitler, The Last Pagan Emperor: Julian the Apostate and the War against Ch
 Shaun Tougher, Julian the Apostate (Edinburgh University Press, 2007)
 
 W. C. Wright, The Works of Emperor Julian of Rome (Loeb, 1913-23)
-
-first_broadcast_date: "2024-03-21T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m001xd7b"

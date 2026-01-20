@@ -3,10 +3,11 @@ pid: "m001vbnb"
 title: "Nefertiti"
 subtitle: "Nefertiti"
 synopsis: "Melvyn Bragg and guests discuss the life and impact of ancient Egypt's best-known queen."
+first_broadcast_date: "2024-01-18T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001vbnb"
 ---
 
 Melvyn Bragg and guests discuss the woman who inspired one of the best known artefacts from ancient Egypt. The Bust of Nefertiti is multicoloured and symmetrical, about 49cm/18" high and, despite the missing left eye, still holds the gaze of onlookers below its tall, blue, flat topped headdress. Its discovery in 1912 in Amarna was kept quiet at first but its display in Berlin in the 1920s caused a sensation, with replicas sent out across the world.  Ever since, as with Tutankhamun perhaps, the concrete facts about Nefertiti herself have barely kept up with the theories, the legends and the speculation, reinvigorated with each new discovery. 
-
 
 With
 
@@ -46,7 +47,3 @@ Joyce Tyldesley, Tutankhamun: Pharaoh, Icon, Enigma (Headline, 2022)
 Joyce Tyldesley, Nefertiti’s Face: The Creation of an Icon (Profile Books, 2018)
 
 Joyce Tyldesley, Nefertiti: Egypt’s Sun Queen (Viking, 1998)
-
-first_broadcast_date: "2024-01-18T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m001vbnb"

@@ -3,10 +3,11 @@ pid: "b080wbrq"
 title: "Epic of Gilgamesh"
 subtitle: "Epic of Gilgamesh"
 synopsis: "Melvyn Bragg and guests discuss Gilgamesh, the great epic poem from ancient Mesopotamia."
+first_broadcast_date: "2016-11-03T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/b080wbrq"
 ---
 
 "He who saw the Deep" are the first words of the standard version of The Epic of Gilgamesh, the subject of this discussion between Melvyn Bragg and his guests. Gilgamesh is often said to be the oldest surviving great work of literature, with origins in the third millennium BC, and it passed through thousands of years on cuneiform tablets. Unlike epics of Greece and Rome, the intact story of Gilgamesh became lost to later generations until tablets were discovered by Hormuzd Rassam in 1853 near Mosul and later translated. Since then, many more tablets have been found and much of the text has been reassembled to convey the story of Gilgamesh, king of Uruk the sheepfold, and Enkidu who the gods created to stop Gilgamesh oppressing his people. Together they fight Humbaba, monstrous guardian of the Cedar Forest, and kill the Bull of Heaven, for which the gods make Enkidu mortally ill. Gilgamesh goes on a long journey as he tries unsuccessfully to learn how to live forever, learning about the Great Deluge on the way, but his remarkable building works guarantee that his fame will last long after his death.
-
 
 With 
 
@@ -23,7 +24,3 @@ Lecturer in Assyriology at the University of Cambridge
 
 
 Producer: Simon Tillotson.
-
-first_broadcast_date: "2016-11-03T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/b080wbrq"

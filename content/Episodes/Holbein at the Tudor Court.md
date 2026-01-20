@@ -3,17 +3,23 @@ pid: "b06gw3jj"
 title: "Holbein at the Tudor Court"
 subtitle: "Holbein at the Tudor Court"
 synopsis: "Melvyn Bragg and guests discuss Holbein at the court of Henry VIII."
+first_broadcast_date: "2015-10-15T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/b06gw3jj"
 ---
 
 Melvyn Bragg and guests discuss the life and work of Hans Holbein the Younger (1497-1543) during his two extended stays in England, when he worked at the Tudor Court and became the King's painter. Holbein created some of the most significant portraits of his age, including an image of Henry VIII, looking straight at the viewer, hands on hips, that has dominated perceptions of him since. The original at Whitehall Palace was said to make visitors tremble at its majesty. Holbein was later sent to Europe to paint the women who might be Henry's fourth wife; his depiction of Anne of Cleves was enough to encourage Henry to marry her, a decision Henry quickly regretted and for which Thomas Cromwell, her supporter, was executed. His paintings still shape the way we see those in and around the Tudor Court, including Cromwell, Thomas More, the infant Prince Edward (of which there is a detail, above), The Ambassadors and, of course, Henry the Eighth himself.
 
 With
-Susan Foister, Curator of Early Netherlandish, German and British Painting at the National Gallery
-John Guy, A fellow of Clare College, University of Cambridge
-Maria Hayward, Professor of Early Modern History at the University of Southampton
+
+Susan Foister
+Curator of Early Netherlandish, German and British Painting at the National Gallery
+
+John Guy
+A fellow of Clare College, University of Cambridge
+
+And
+
+Maria Hayward
+Professor of Early Modern History at the University of Southampton
 
 Producer: Simon Tillotson.
-
-first_broadcast_date: "2015-10-15T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/b06gw3jj"

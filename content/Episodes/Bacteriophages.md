@@ -3,16 +3,24 @@ pid: "m0020pf0"
 title: "Bacteriophages"
 subtitle: "Bacteriophages"
 synopsis: "Melvyn Bragg and guests discuss how viruses can help us track and cure bacterial illnesses"
+first_broadcast_date: "2024-07-04T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m0020pf0"
 ---
 
 Melvyn Bragg and guests discuss the most abundant lifeform on Earth: the viruses that 'eat' bacteria.   Early in the 20th century, scientists noticed that something in their Petri dishes was making bacteria disappear and they called these bacteriophages, things that eat bacteria. From studying these phages, it soon became clear that they offered countless real or potential benefits for understanding our world, from the tracking of diseases to helping unlock the secrets of DNA to treatments for long term bacterial infections.  With further research, they could be an answer to the growing problem of antibiotic resistance.
 
-
 With 
 
-Martha Clokie, Director for the Centre for Phage Research and Professor of Microbiology at the University of Leicester
-James Ebdon, Professor of Environmental Microbiology at the University of Brighton
-Claas Kirchhelle, Historian and Chargé de Recherche at the French National Institute of Health and Medical Research’s CERMES3 Unit in Paris.
+Martha Clokie
+Director for the Centre for Phage Research and Professor of Microbiology at the University of Leicester
+
+James Ebdon
+Professor of Environmental Microbiology at the University of Brighton
+
+And 
+
+Claas Kirchhelle
+Historian and Chargé de Recherche at the French National Institute of Health and Medical Research’s CERMES3 Unit in Paris.
 
 Producer: Simon Tillotson
 
@@ -37,7 +45,3 @@ Steffanie Strathdee and Thomas Patterson (2019) The Perfect Predator: A Scientis
 William C. Summers, Félix d`Herelle and the Origins of Molecular Biology (Yale University Press, 1999)
 
 William C. Summers, The American Phage Group: Founders of Molecular Biology (University Press, 2023)
-
-first_broadcast_date: "2024-07-04T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/m0020pf0"

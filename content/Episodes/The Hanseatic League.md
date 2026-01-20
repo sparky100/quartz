@@ -3,12 +3,11 @@ pid: "m001vshs"
 title: "The Hanseatic League"
 subtitle: "The Hanseatic League"
 synopsis: "Melvyn Bragg and guests discuss the medieval trading network the Hanseatic League."
+first_broadcast_date: "2024-02-01T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001vshs"
 ---
 
-Melvyn Bragg and guests discuss the Hanseatic League or Hansa which dominated North European trade in the medieval period.
-
-With a trading network that stretched from Iceland to Novgorod via London and Bruges, these German-speaking Hansa merchants benefitted from tax exemptions and monopolies. Over time, the Hansa became immensely influential as rulers felt the need to treat it well. Kings and princes sometimes relied on loans from the Hansa to finance their wars and an embargo by the Hansa could lead to famine. Eventually, though, the Hansa went into decline with the rise in the nation state’s power, greater competition from other merchants and the development of trade across the Atlantic. 
-
+Melvyn Bragg and guests discuss the Hanseatic League or Hansa which dominated North European trade in the medieval period. With a trading network that stretched from Iceland to Novgorod via London and Bruges, these German-speaking Hansa merchants benefitted from tax exemptions and monopolies. Over time, the Hansa became immensely influential as rulers felt the need to treat it well. Kings and princes sometimes relied on loans from the Hansa to finance their wars and an embargo by the Hansa could lead to famine. Eventually, though, the Hansa went into decline with the rise in the nation state’s power, greater competition from other merchants and the development of trade across the Atlantic. 
 
 With
 
@@ -60,7 +59,3 @@ Stephen H. Rigby, The Overseas Trade of Boston, 1279-1548 (Böhlau Verlag, 2023)
 Justyna Wubs-Mrozewicz and Stuart Jenks (eds.), The Hanse in Medieval & Early Modern Europe (Brill, 2012)     
                                                        
 Justyna Wubs-Mrozewicz, ‘The late medieval and early modern Hanse as an institution of conflict management’ (Continuity and Change 32/1, Cambridge University Press, 2017)
-
-first_broadcast_date: "2024-02-01T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m001vshs"

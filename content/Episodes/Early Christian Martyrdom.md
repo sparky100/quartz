@@ -3,12 +3,13 @@ pid: "m0016ptt"
 title: "Early Christian Martyrdom"
 subtitle: "Early Christian Martyrdom"
 synopsis: "Melvyn Bragg and guests discuss Eusebius of Caesarea and his stories of Christian martyrs."
+first_broadcast_date: "2022-04-28T09:00:00+01:00"
+website_url: "https://www.bbc.co.uk/programmes/m0016ptt"
 ---
 
 Melvyn Bragg and guests discuss  the accounts by Eusebius of Caesarea (c260-339 AD) and others of the killings of Christians in the first three centuries after the crucifixion of Jesus.  Eusebius was writing in a time of peace, after The Great Persecution that had started with Emperor Diocletian in 303 AD and lasted around eight years. Many died under Diocletian, and their names are not preserved, but those whose deaths are told by Eusebius became especially celebrated and their stories became influential.  Through his writings, Eusebius shaped perceptions of what it meant to be a martyr in those years, and what it meant to be a Christian.
 
 The image above is of The Martyrdom of Saint Blandina (1886) at the Church of Saint-Blandine de Lyon, France
-
 
 With:
 
@@ -24,7 +25,3 @@ James Corke-Webster
 Senior Lecturer in Classics, History and Liberal Arts at King’s College London
 
 Producer: Simon Tillotson
-
-first_broadcast_date: "2022-04-28T09:00:00+01:00"
-
-website_url: "https://www.bbc.co.uk/programmes/m0016ptt"

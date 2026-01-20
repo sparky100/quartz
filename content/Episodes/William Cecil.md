@@ -3,10 +3,11 @@ pid: "m0002zq6"
 title: "William Cecil"
 subtitle: "William Cecil"
 synopsis: "Melvyn Bragg and guests discuss the most powerful man in the court of Elizabeth I."
+first_broadcast_date: "2019-03-07T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m0002zq6"
 ---
 
 Melvyn Bragg and guests discuss the impact on the British Isles of William Cecil, 1st Baron Burghley, the most poweful man in the court of Elizabeth I.  He was both praised and attacked for his flexibility, adapting to the reigns of Protestant and Catholic monarchs and, under Elizabeth, his goal was to make England strong, stable and secure from attack from its neighbours. He sought control over Ireland and persuaded Elizabeth that Mary Queen of Scots must die, yet often counselled peace rather than war in the interests of prosperity. 
-
 
 With 
 
@@ -22,7 +23,3 @@ John Guy
 Fellow of Clare College, University of Cambridge
 
 Producer: Simon Tillotson
-
-first_broadcast_date: "2019-03-07T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m0002zq6"

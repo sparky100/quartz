@@ -3,10 +3,11 @@ pid: "m001smkv"
 title: "Marguerite de Navarre"
 subtitle: "Marguerite de Navarre"
 synopsis: "Melvyn Bragg and guests discuss writer and Renaissance queen Marguerite de Navarre."
+first_broadcast_date: "2023-11-23T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001smkv"
 ---
 
 Melvyn Bragg and guests discuss Marguerite, Queen of Navarre (1492 – 1549), author of the Heptaméron, a major literary landmark in the French Renaissance. Published after her death, The Heptaméron features 72 short stories, many of which explore relations between the sexes. However, Marguerite’s life was more eventful than that of many writers. Born into the French nobility, she found herself the sister of the French king when her brother Francis I came to the throne in 1515. At a time of growing religious change, Marguerite was a leading exponent of reform in the Catholic Church and translated an early work of Martin Luther into French. As the Reformation progressed, she was not afraid to take risks to protect other reformers.
-
 
 With 
 
@@ -58,7 +59,3 @@ Jonathan A. Reid, King’s Sister – Queen of Dissent: Marguerite of Navarre (1
 Paula Sommers, ‘The Mirror and its Reflections: Marguerite de Navarre’s Biblical Feminism’ (Tulsa Studies in Women’s Literature, 5, 1986)
 
 Kathleen Wellman, Queens and Mistresses of Renaissance France (Yale University Press, 2013)
-
-first_broadcast_date: "2023-11-23T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m001smkv"

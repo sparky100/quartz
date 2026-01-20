@@ -3,10 +3,11 @@ pid: "m001vl96"
 title: "Panpsychism"
 subtitle: "Panpsychism"
 synopsis: "Melvyn Bragg and guests discuss the idea that fundamental particles have consciousness."
+first_broadcast_date: "2024-01-25T09:00:00Z"
+website_url: "https://www.bbc.co.uk/programmes/m001vl96"
 ---
 
 Melvyn Bragg and guests discuss the idea that some kind of  consciousness is present not just in our human brains but throughout the universe, right down to cells or even electrons. This is panpsychism and its proponents argue it offers a compelling alternative to those who say we are nothing but matter, like machines, and to those who say we are both matter and something else we might call soul. It is a third way. Critics argue panpsychism is implausible, an example of how not to approach this problem, yet interest has been growing widely in recent decades partly for the idea itself and partly in the broader context of  understanding how consciousness arises.
-
 
 With
 
@@ -46,7 +47,3 @@ David Skrbina, Panpsychism in the West (MIT Press, 2007)
  
 James van Cleve, 'Mind-Dust or Magic? Panpsychism versus Emergence' (Philosophical Perspectives Vol. 4, Action Theory and Philosophy of Mind, Ridgeview Publishing Company, 1990)
 #Physics
-
-first_broadcast_date: "2024-01-25T09:00:00Z"
-
-website_url: "https://www.bbc.co.uk/programmes/m001vl96"
